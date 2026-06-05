@@ -59,3 +59,10 @@
    python3 generate_directory.py
    ```
 3. 刷新 `index.html` 即可看到最新的交互数据与排版。
+
+---
+
+## 📄 开源协议
+
+本项目基于 [MIT License](LICENSE) 协议开源，允许自由使用、分发和修改。
+
