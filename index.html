@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NVIDIA 诸神之墙 - 交互式 AI 生态黄页与深度研学系统</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Outfit:wght@400;600;800&family=Noto+Sans+SC:wght@300;400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="dark-theme">
+  <!-- 背景霓虹渐变与网格 -->
+  <div class="bg-grid-overlay"></div>
+  <div class="neon-glow glow-blue"></div>
+  <div class="neon-glow glow-purple"></div>
+  <div class="neon-glow glow-green"></div>
+
+  <!-- 主应用容器 -->
+  <main id="app-container">
+    <!-- 头部区域 -->
+    <header class="main-header">
+      <div class="logo-area">
+        <span class="nvidia-badge">NVIDIA PARTNER MATRIX</span>
+        <h1>诸神之墙 <span>· 交互拆解系统</span></h1>
+        <p class="subtitle">老黄的未来 5 年路线图：拆解 NVIDIA AI 生态墙背后的公司、供应链与应用场景</p>
+      </div>
+      <div class="header-actions">
+        <button id="btn-presenter-mode" class="btn btn-primary btn-glow">
+          <svg class="icon" viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"/></svg>
+          开启沉浸式研习模式
+        </button>
+      </div>
+    </header>
+
+    <!-- 过滤器与控制栏 -->
+    <section class="controls-bar glass">
+      <div class="controls-top" style="display: flex; justify-content: space-between; align-items: center; gap: 16px; margin-bottom: 12px; flex-wrap: wrap;">
+        <div class="search-box" style="flex: 1; min-width: 250px; margin-bottom: 0;">
+          <svg class="search-icon" viewBox="0 0 24 24"><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
+          <input type="text" id="search-input" placeholder="输入公司名字、关键词或英伟达技术（如 RTX Spark）..." autocomplete="off">
+        </div>
+        <div class="view-toggle-wrap" style="display: flex; gap: 8px;">
+          <button id="btn-grid-view" class="tab-btn active" style="white-space: nowrap;">🎛️ 网格排版</button>
+          <button id="btn-image-view" class="tab-btn" style="white-space: nowrap;">🖼️ 诸神之墙大图交互</button>
+        </div>
+      </div>
+      <div class="filter-tabs" style="overflow-x: auto; display: flex; gap: 8px; max-width: 100%; padding-bottom: 8px;">
+        <button class="tab-btn active" data-category="all">全部公司</button>
+        <button class="tab-btn" data-category="row-1">第 1 行</button>
+        <button class="tab-btn" data-category="row-2">第 2 行</button>
+        <button class="tab-btn" data-category="row-3">第 3 行</button>
+        <button class="tab-btn" data-category="row-4">第 4 行</button>
+        <button class="tab-btn" data-category="row-5">第 5 行</button>
+        <button class="tab-btn" data-category="row-6">第 6 行</button>
+        <button class="tab-btn" data-category="row-7">第 7 行</button>
+        <button class="tab-btn" data-category="row-8">第 8 行</button>
+        <button class="tab-btn" data-category="row-9">第 9 行</button>
+        <button class="tab-btn" data-category="row-10">第 10 行</button>
+        <button class="tab-btn" data-category="row-11">第 11 行</button>
+        <button class="tab-btn" data-category="row-12">第 12 行</button>
+        <button class="tab-btn" data-category="row-13">第 13 行</button>
+      </div>
+    </section>
+
+    <!-- 诸神之墙主体网格 -->
+    <section id="grid-view-section" class="matrix-grid-container">
+      <div class="matrix-info-panel">
+        <span>已筛选 <strong id="company-count">0</strong> 家公司</span>
+        <span class="hint">点击任意 Logo 查看公司简介与 NVIDIA 生态关系</span>
+      </div>
+      
+      <div id="matrix-grid" class="matrix-grid">
+        <!-- JS 动态渲染 -->
+      </div>
+    </section>
+
+    <!-- 诸神之墙大图交互视图 -->
+    <section id="image-interactive-view" class="matrix-grid-container hidden" style="margin-top: 24px; padding: 16px;">
+      <div class="matrix-info-panel">
+        <span>大图交互模式</span>
+        <span class="hint">悬浮高亮显示，单点查看解读，双击直达官网</span>
+      </div>
+      <div class="image-map-container" style="position: relative; width: 100%; border-radius: 12px; overflow: hidden; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1);">
+        <img src="ScreenShot_2026-06-03_073417_837.png" class="interactive-map-img" alt="诸神之墙" style="width: 100%; height: auto; display: block; filter: brightness(0.95);">
+        <!-- SVG 遮罩层，用于全局变暗并为高亮 Logo 切出透明“高亮孔” -->
+        <svg id="map-mask-overlay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none; z-index: 4;" viewBox="0 0 3024 1232">
+          <defs>
+            <mask id="map-mask">
+              <!-- 白色表示不透明（显示遮罩） -->
+              <rect width="3024" height="1232" fill="white" />
+              <!-- 黑色表示透明（挖洞，露出明亮底层） -->
+              <g id="mask-holes"></g>
+            </mask>
+          </defs>
+          <!-- 变暗的覆盖层，遮罩应用其上 -->
+          <rect id="dark-overlay-rect" width="3024" height="1232" fill="rgba(8, 12, 20, 0.95)" mask="url(#map-mask)" style="transition: opacity 0.3s ease; opacity: 0;" />
+        </svg>
+        <div class="map-hitbox-overlay" id="map-hitbox-overlay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none;"></div>
+      </div>
+    </section>
+  </main>
+
+  <!-- 沉浸式研习模式全屏界面 (Study Overlay) -->
+  <div id="presenter-overlay" class="hidden">
+    <div class="presenter-sidebar">
+      <div class="presenter-header">
+        <span class="nvidia-badge">STUDY MODE</span>
+        <h2>公司深度剖析与观察</h2>
+        <div class="font-controls">
+          <button id="btn-font-dec" class="btn btn-sm">-</button>
+          <span>A</span>
+          <button id="btn-font-inc" class="btn btn-sm">+</button>
+        </div>
+      </div>
+      <div class="presenter-scripts-container">
+        <div class="current-script-phase">
+          <strong>当前章节</strong>：<span id="script-phase-title">-</span>
+        </div>
+        <!-- 滚动提词器区域 -->
+        <div class="teleprompter-box">
+          <div id="teleprompter-text" class="teleprompter-text">
+            <!-- 动态生成 -->
+          </div>
+        </div>
+      </div>
+      <div class="presenter-controls">
+        <button id="btn-prev" class="btn btn-secondary">
+          <svg class="icon" viewBox="0 0 24 24"><path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"/></svg>
+          上一家公司 (←)
+        </button>
+        <button id="btn-next" class="btn btn-primary">
+          下一家公司 (→)
+          <svg class="icon" viewBox="0 0 24 24"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg>
+        </button>
+        <button id="btn-exit-presenter" class="btn btn-danger">退出研读 (Esc)</button>
+      </div>
+    </div>
+
+    <!-- 演示右侧高亮展示区 -->
+    <div class="presenter-stage">
+      <div class="stage-neon-effect"></div>
+      <div class="stage-container">
+        <!-- 动态生成当前聚焦公司的立体大卡片 -->
+        <div id="stage-card" class="stage-card glass">
+          <!-- 动态渲染 -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 详情弹窗 (Detail Modal) -->
+  <div id="detail-modal" class="modal-overlay">
+    <div class="modal-container glass">
+      <button class="modal-close-btn" id="modal-close">&times;</button>
+      <div class="modal-header">
+        <div class="modal-logo-wrap" id="modal-logo"></div>
+        <div class="modal-title-wrap">
+          <h2 id="modal-company-name">公司名称</h2>
+          <div style="display: flex; gap: 8px; align-items: center; margin-top: 4px; flex-wrap: wrap;">
+            <span class="badge" id="modal-company-category">分类</span>
+            <a id="modal-website-link" href="#" target="_blank" class="btn btn-secondary btn-sm modal-link-btn" style="padding: 2px 8px; font-size: 0.75rem; border-radius: 4px; display: inline-flex; align-items: center; gap: 4px; border-color: rgba(255,255,255,0.15);">
+              <span>访问官网</span>
+              <svg style="width: 10px; height: 10px; fill: currentColor;" viewBox="0 0 24 24"><path d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"/></svg>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="modal-body">
+        <div class="info-row">
+          <span class="label">链条定位：</span>
+          <span class="value tech-badge" id="modal-tech">NVIDIA RTX Spark</span>
+        </div>
+        
+        <div class="company-intro-box">
+          <div class="company-intro-title-row">
+            <span class="hud-icon">🏢</span>
+            <h3>企业专业介绍与生态定位</h3>
+          </div>
+          <p id="modal-description" class="company-description">企业专业介绍内容...</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

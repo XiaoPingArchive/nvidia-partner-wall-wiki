@@ -1,0 +1,4103 @@
+
+
+
+
+
+
+
+
+
+
+<!-- Include Page Designer Campaign Banner JavaScript and Styles only once here rather than at component level. -->
+<!-- There should only be one Campagin Banner added on a PD page. Multiple Banners is unsupported at the moment. -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!--[if gt IE 9]><!-->
+<script>//common/scripts.isml</script>
+<script defer type="text/javascript" src="/on/demandware.static/Sites-coolermaster-one-Site/-/en/v1780392494746/js/main.js"></script>
+
+    
+        <script defer type="text/javascript" src="/on/demandware.static/Sites-coolermaster-one-Site/-/en/v1780392494746/js/experience/components/commerceLayouts/pdLayoutCarousel.js"></script>
+    
+
+    
+        <script defer type="text/javascript" src="/on/demandware.static/Sites-coolermaster-one-Site/-/en/v1780392494746/js/campaignBanner.js"></script>
+    
+
+
+<!--<![endif]-->
+<meta charset=UTF-8>
+
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+  <title>Cooler Master</title>
+
+
+<meta name="description" content="Commerce Cloud Storefront Reference Architecture"/>
+<meta name="keywords" content="Commerce Cloud Storefront Reference Architecture"/>
+<meta name="theme-color" content="#6632F5" />
+
+
+
+
+<link rel="shortcut icon" href="/on/demandware.static/Sites-coolermaster-one-Site/-/default/dwc226606a/images/favicons/favicon.ico" type="image/x-icon" />
+<link rel="icon" type="image/svg+xml" href="/on/demandware.static/Sites-coolermaster-one-Site/-/default/dwd4af2c1f/images/favicons/favicon.svg" />
+<link rel="icon" type="image/png" href="/on/demandware.static/Sites-coolermaster-one-Site/-/default/dw381ae23c/images/favicons/favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="/on/demandware.static/Sites-coolermaster-one-Site/-/default/dw810b5a78/images/favicons/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="/on/demandware.static/Sites-coolermaster-one-Site/-/default/dw0928f612/images/favicons/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/on/demandware.static/Sites-coolermaster-one-Site/-/default/dw3139fd46/images/favicons/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="/on/demandware.static/Sites-coolermaster-one-Site/-/default/dwda28f85a/images/favicons/favicon-128x128.png" sizes="128x128" />
+<link rel="preload" as="image" href="/on/demandware.static/Sites-coolermaster-one-Site/-/default/dwb2fa52a9/images/sprite.svg" type="image/svg+xml">
+
+<link rel="stylesheet" href="/on/demandware.static/Sites-coolermaster-one-Site/-/en/v1780392494746/css/global.css" />
+
+    <link rel="stylesheet" href="/on/demandware.static/Sites-coolermaster-one-Site/-/en/v1780392494746/css/experience/storePage.css"  />
+
+    <link rel="stylesheet" href="/on/demandware.static/Sites-coolermaster-one-Site/-/en/v1780392494746/css/experience/components/commerceLayouts/layout.css"  />
+
+    <link rel="stylesheet" href="/on/demandware.static/Sites-coolermaster-one-Site/-/en/v1780392494746/css/experience/components/commerceAssets/cmMainBannerBlock.css"  />
+
+    <link rel="stylesheet" href="/on/demandware.static/Sites-coolermaster-one-Site/-/en/v1780392494746/css/experience/components/commerceAssets/cmSplitBannerBlock.css"  />
+
+    <link rel="stylesheet" href="/on/demandware.static/Sites-coolermaster-one-Site/-/en/v1780392494746/css/experience/components/commerceAssets/campaignBanner.css"  />
+
+
+
+    <meta name="google-site-verification" content="Fpa59ggm9JNCD9_rbFzvaphlgNi6lzufQxNs5jvJ3bo" />
+
+
+
+
+
+<script>
+    var pageAction = 'defaultstart';
+    if (pageAction === '.') {
+        pageAction = 'homeshow';
+    }
+    window.dataLayer = window.dataLayer || [];
+    window.gtmEnabled = true;
+
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PRQKTNC5');</script>
+<!-- End Google Tag Manager -->
+
+
+
+
+
+<script>
+    var currentUrl = '/en-global';
+</script>
+
+    <!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-E5XTR1SM6V"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-E5XTR1SM6V'); </script>
+
+
+
+
+<script>
+(function() {
+var customerData = {"refresh":false,"authenticated":false,"email":"","sessionId":"3lqzNn5HIkr3oJqoIw1e7KA-Ndd7Tv7bmHU=","redirectUrl":"","requestCountryCode":"CN","recommendSite":""};
+if (window.currentUrl) {
+customerData.redirectUrl = customerData.redirectUrl +'?currentUrl='+encodeURIComponent(window.currentUrl);
+}
+if (customerData && customerData.refresh === true && customerData.redirectUrl) {
+window.location.href = customerData.redirectUrl;
+} else if (!window.customerData) {
+window.customerData = customerData;
+}
+})();
+</script>
+
+
+
+
+<link rel="stylesheet" href="/on/demandware.static/Sites-coolermaster-one-Site/-/en/v1780392494746/css/skin/skin.css" />
+
+
+<link rel="canonical" href="https://www.coolermaster.com/"/>
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ (head-active_data.js) */
+var dw = (window.dw || {});
+dw.ac = {
+    _analytics: null,
+    _events: [],
+    _category: "",
+    _searchData: "",
+    _anact: "",
+    _anact_nohit_tag: "",
+    _analytics_enabled: "true",
+    _timeZone: "Etc/UTC",
+    _capture: function(configs) {
+        if (Object.prototype.toString.call(configs) === "[object Array]") {
+            configs.forEach(captureObject);
+            return;
+        }
+        dw.ac._events.push(configs);
+    },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
+    EV_PRD_SEARCHHIT: "searchhit",
+    EV_PRD_DETAIL: "detail",
+    EV_PRD_RECOMMENDATION: "recommendation",
+    EV_PRD_SETPRODUCT: "setproduct",
+    applyContext: function(context) {
+        if (typeof context === "object" && context.hasOwnProperty("category")) {
+        	dw.ac._category = context.category;
+        }
+        if (typeof context === "object" && context.hasOwnProperty("searchData")) {
+        	dw.ac._searchData = context.searchData;
+        }
+    },
+    setDWAnalytics: function(analytics) {
+        dw.ac._analytics = analytics;
+    },
+    eventsIsEmpty: function() {
+        return 0 == dw.ac._events.length;
+    }
+};
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (head-cquotient.js) */
+var CQuotient = window.CQuotient = {};
+CQuotient.clientId = 'bmjd-coolermaster-one';
+CQuotient.realm = 'BMJD';
+CQuotient.siteId = 'coolermaster-one';
+CQuotient.instanceType = 'prd';
+CQuotient.locale = 'en';
+CQuotient.fbPixelId = '__UNKNOWN__';
+CQuotient.activities = [];
+CQuotient.cqcid='';
+CQuotient.cquid='';
+CQuotient.cqeid='';
+CQuotient.cqlid='';
+CQuotient.apiHost='api.cquotient.com';
+/* Turn this on to test against Staging Einstein */
+/* CQuotient.useTest= true; */
+CQuotient.useTest = ('true' === 'false');
+CQuotient.initFromCookies = function () {
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+	  var c = ca[i];
+	  while (c.charAt(0)==' ') c = c.substring(1,c.length);
+	  if (c.indexOf('cqcid=') == 0) {
+		CQuotient.cqcid=c.substring('cqcid='.length,c.length);
+	  } else if (c.indexOf('cquid=') == 0) {
+		  var value = c.substring('cquid='.length,c.length);
+		  if (value) {
+		  	var split_value = value.split("|", 3);
+		  	if (split_value.length > 0) {
+			  CQuotient.cquid=split_value[0];
+		  	}
+		  	if (split_value.length > 1) {
+			  CQuotient.cqeid=split_value[1];
+		  	}
+		  	if (split_value.length > 2) {
+			  CQuotient.cqlid=split_value[2];
+		  	}
+		  }
+	  }
+	}
+}
+CQuotient.getCQCookieId = function () {
+	if(window.CQuotient.cqcid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqcid;
+};
+CQuotient.getCQUserId = function () {
+	if(window.CQuotient.cquid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cquid;
+};
+CQuotient.getCQHashedEmail = function () {
+	if(window.CQuotient.cqeid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqeid;
+};
+CQuotient.getCQHashedLogin = function () {
+	if(window.CQuotient.cqlid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqlid;
+};
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ cqParamData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.product = cqParamData.product;
+	cq_params.realm = cqParamData.realm;
+	cq_params.siteId = cqParamData.siteId;
+	cq_params.instanceType = cqParamData.instanceType;
+	cq_params.locale = CQuotient.locale;
+	
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
+/* ]]> */
+// -->
+</script>
+
+
+
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PRQKTNC5"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<script>
+    var Resources = {"LABEL_SHIPPING_FEE_FINAL":"goto.payment.shipping.label"};
+</script>
+
+<input type="hidden" id="otpConfigs" value="{&quot;sendOTPUrl&quot;:&quot;https://www.coolermaster.com/on/demandware.store/Sites-coolermaster-one-Site/en/OTP-Send&quot;,&quot;resendTimeout&quot;:0,&quot;timeExpired&quot;:120000,&quot;otpEnabled&quot;:true}" />
+
+<div class="page" data-action="Default-Start" data-querystring="" >
+<header class="page-header transparent-header" id="page-header">
+    
+    <a href="#maincontent" class="skip" aria-label="Skip to main content">Skip to main content</a>
+<a href="#footercontent" class="skip" aria-label="Skip to footer content">Skip to footer content</a>
+    
+    <div class="header-main d-flex justify-content-between align-items-stretch container">
+        <div class="navbar-header d-flex align-items-center d-md-none nav-left menu-sm">
+            
+
+            <button class="navbar-toggler header-icon-link" type="button" aria-controls="sg-navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="fal fa-bars"></i>
+            </button>
+        </div>
+
+        <div class="navbar-header brand d-flex align-items-center">
+            <a class="logo-home d-block text-decoration-none-hover" href="/en-global"
+    title="Commerce Cloud Storefront Reference Architecture Home">
+    <svg width="54" height="45" fill="currentColor" class="logo">
+        <use xlink:href="/on/demandware.static/Sites-coolermaster-one-Site/-/default/dwb2fa52a9/images/sprite.svg#logo"></use>
+    </svg>
+</a>
+
+        </div>
+
+        
+
+
+
+
+
+
+
+
+
+<nav class="main-nav main-nav-lg d-none d-md-flex align-items-stretch ml-3 ml-md-4 ml-lg-5 mr-auto" role="navigation">
+    <ul class="d-flex gap-1 list-unstyled h-100 align-items-stretch m-0">
+        
+            
+                <li class="level-0 d-flex align-items-stretch">
+                    <a class="d-flex align-items-center" href="#" id="featured-campaigns">
+                        <span>Featured Campaigns</span>
+                    </a>
+                    
+                    
+                    
+                        <div class="megamenu-wrapper megamenu-pd" id="megamenu-featuredcampaigns-megamenu">
+                            
+
+
+
+<div class="container">
+    
+        <div class="megamenu-content"><div class="experience-component experience-mengamenu_layouts-columns"><div class="megamenu-columns grid grid-gap-md py-4">
+    
+        
+            <div class="g-col-3"><div class="experience-component experience-commerce_assets-cmInlineHTML"><div class="inline-html-component">
+    
+        <b style="font-size: 58px">Featured Campaigns</b>
+    
+</div>
+</div></div>
+            <div class="g-col-3"><div class="experience-component experience-megamenu_assets-megamenuCard"><!-- Megamenu Card 1 / With Description Below -->
+<div class="megamenu-card megamenu-card--description-below d-flex flex-column">
+    <div class="megamenu-card__image w-100 h-auto">
+        
+            <picture>
+                <source srcset="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dw1c2c6b22/image-19.png?q=90" media="(min-width: 769px)" />
+                <source srcset="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dw1c2c6b22/image-19.png?q=90" media="(max-width: 768px)" />
+                <img
+                    src="/on/demandware.static/Sites-coolermaster-one-Site/-/default/dw9755d40b/images/1x1.gif"
+                    data-src="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dw1c2c6b22/image-19.png?q=90"
+                    class="img-fluid w-100 h-100 lazyload"
+                    alt="Freeform 2.0"
+                />
+            </picture>
+        
+    </div>
+
+    <div class="megamenu-card__title">
+        Freeform 2.0
+    </div>
+
+    <div class="megamenu-card__description">
+        FreeForm 2.0 is our blueprint for Custom. Open. Personal. hardware. Shared mounting points, open-source files, and plug-and-play modules give you full control to upgrade, tweak, and showcase your rig without starting over.
+    </div>
+
+    
+        
+        <a href="https://www.coolermaster.com/en-global/free-form-20.html" 
+            class="megamenu-card__link mt-auto far fa-lg fa-angle-right"
+            >
+            <span class="sr-only">Freeform 2.0</span>
+        </a>
+    
+</div></div></div>
+            <div class="g-col-3"><div class="experience-component experience-megamenu_assets-megamenuCard"><!-- Megamenu Card 1 / With Description Below -->
+<div class="megamenu-card megamenu-card--description-below d-flex flex-column">
+    <div class="megamenu-card__image w-100 h-auto">
+        
+            <picture>
+                <source srcset="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwce51e670/image-20.png?q=90" media="(min-width: 769px)" />
+                <source srcset="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwce51e670/image-20.png?q=90" media="(max-width: 768px)" />
+                <img
+                    src="/on/demandware.static/Sites-coolermaster-one-Site/-/default/dw9755d40b/images/1x1.gif"
+                    data-src="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwce51e670/image-20.png?q=90"
+                    class="img-fluid w-100 h-100 lazyload"
+                    alt="Thermal Excellence"
+                />
+            </picture>
+        
+    </div>
+
+    <div class="megamenu-card__title">
+        Thermal Excellence
+    </div>
+
+    <div class="megamenu-card__description">
+        Thermal Excellence is Cooler Master’s commitment to redefining the boundaries of cooling technology through continuous innovation, research, and engineering precision. This initiative represents the culmination of decades of thermal R&D — driven by our philosophy of empowering builders.
+    </div>
+
+    
+        
+        <a href="https://www.coolermaster.com/en-global/thermal-excellence.html" 
+            class="megamenu-card__link mt-auto far fa-lg fa-angle-right"
+            >
+            <span class="sr-only">Thermal Excellence</span>
+        </a>
+    
+</div></div></div>
+            <div class="g-col-3"><div class="experience-component experience-megamenu_assets-megamenuCard"><!-- Megamenu Card 1 / With Description Below -->
+<div class="megamenu-card megamenu-card--description-below d-flex flex-column">
+    <div class="megamenu-card__image w-100 h-auto">
+        
+            <picture>
+                <source srcset="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwfce23531/Computex_2026_KV_600px.png?q=90" media="(min-width: 769px)" />
+                <source srcset="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwfce23531/Computex_2026_KV_600px.png?q=90" media="(max-width: 768px)" />
+                <img
+                    src="/on/demandware.static/Sites-coolermaster-one-Site/-/default/dw9755d40b/images/1x1.gif"
+                    data-src="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwfce23531/Computex_2026_KV_600px.png?q=90"
+                    class="img-fluid w-100 h-100 lazyload"
+                    alt="Computex 2026"
+                />
+            </picture>
+        
+    </div>
+
+    <div class="megamenu-card__title">
+        Computex 2026
+    </div>
+
+    <div class="megamenu-card__description">
+        Computex brings together the technologies shaping tomorrow’s computing landscape. 
+This year, Cooler Master is opening its Taipei headquarters to showcase the cooling innovations powering the next generation of high-performance systems.
+    </div>
+
+    
+        
+        <a href="https://www.coolermaster.com/en-global/computex-2026-event-v2.html" 
+            class="megamenu-card__link mt-auto far fa-lg fa-angle-right"
+            >
+            <span class="sr-only">Computex 2026</span>
+        </a>
+    
+</div></div></div>
+        
+    
+</div>
+</div></div>
+    
+</div>
+
+
+
+                        </div>
+                    
+                </li>
+            
+                <li class="level-0 d-flex align-items-stretch">
+                    <a class="d-flex align-items-center" href="#" id="industry-and-technology">
+                        <span>Industry and Technology</span>
+                    </a>
+                    
+                    
+                    
+                        <div class="megamenu-wrapper megamenu-pd" id="megamenu-industry-technology-megamenu">
+                            
+
+
+
+<div class="container">
+    
+        <div class="megamenu-content"><div class="experience-component experience-megamenu_assets-megamenuSubmenu"><div class="megamenu-submenu grid grid-gap-0">
+    
+        
+        <div class="py-5 g-col-6">
+            
+            
+<ul class="level-2-menu  list-unstyled d-flex flex-column gap-2" id="megamenu-industry-and-technology" aria-hidden="true" aria-label="industry-and-technology">
+    
+        
+        
+            <li class="level-2" >
+                <a href="https://www.coolermaster.com/en-global/industry-and-technology.html" id="industry-technology">Industry Technology</a>
+            </li>
+        
+    
+        
+        
+            <li class="level-2" >
+                <a href="https://www.coolermaster.com/en-global/smart-manufacturing.html" id="smart-manufacturing">Smart Manufacturing</a>
+            </li>
+        
+    
+</ul>
+
+        </div>
+    
+
+    
+        <div class="level-2-banner g-col-6">
+            <div class="level-2-banner-container">
+                <img src="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dw27cdd32c/banner-1-lg.jpg?q=90" alt="null" class="w-100" />
+
+                <div class="level-2-banner-content">
+                    
+                </div>
+
+                
+                    
+                    <a href="" target="_self"
+                        class="level-2-banner__image-link"
+                        ></a>
+                
+            </div>
+        </div>
+    
+</div>
+</div></div>
+    
+</div>
+
+
+
+                        </div>
+                    
+                </li>
+            
+                <li class="level-0 d-flex align-items-stretch">
+                    <a class="d-flex align-items-center" href="/en-global/catalog/data-center-cooling" id="data-center-cooling">
+                        <span>Data Center Cooling</span>
+                    </a>
+                    
+                    
+                    
+                        <div class="megamenu-wrapper megamenu-pd" id="megamenu-data-center-cooling-megamenu">
+                            
+
+
+
+<div class="container">
+    
+        <div class="megamenu-content"><div class="experience-component experience-megamenu_assets-megamenuSubmenu"><div class="megamenu-submenu grid grid-gap-0">
+    
+        
+        <div class="py-5 g-col-6">
+            
+            
+<ul class="level-2-menu n-2 list-unstyled d-flex flex-column gap-2" id="megamenu-data-center-cooling" aria-hidden="true" aria-label="data-center-cooling">
+    
+        
+        
+            <li class="level-2 has-sub-menu" >
+                <a href="https://www.coolermaster.com/en-global/catalog/data-center-cooling/liquid-to-liquid" id="liquid-to-liquid">Liquid-to-Liquid</a>
+                
+                <ul class="level-3-menu list-unstyled d-flex flex-column gap-2" id="megamenu-liquid-to-liquid" aria-hidden="true" aria-label="liquid-to-liquid">
+    
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/products/100-kW-CDU.html" id="100-kW-CDU">100 kW CDU</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/products/120-kW-CDU.html" id="120-kW-CDU">120 kW CDU</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/products/1400-kW-CDU.html" id="1400-kW-CDU">1400 kW CDU</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/products/2500-kW-CDU.html" id="2500-kW-CDU">2500 kW CDU</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+        
+            <li class="level-2 has-sub-menu" >
+                <a href="/en-global/catalog/data-center-cooling/liquid-to-air" id="liquid-to-air">Liquid-to-Air</a>
+                
+                <ul class="level-3-menu list-unstyled d-flex flex-column gap-2" id="megamenu-liquid-to-air" aria-hidden="true" aria-label="liquid-to-air">
+    
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/products/25-kW-CDU.html" id="25-kW-CDU">25 kW CDU</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/products/30-kW-CDU.html" id="30-kW-CDU">30 kW CDU</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/products/75-kW-CDU.html" id="75-kW-CDU">75 kW CDU</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/products/300-kW-CDU.html" id="300-kW-CDU">300 kW  CDU</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/products/Aquagate-Max-Retro-Mini-CDU.html" id="Aquagate-Max-Retro-Mini-CDU">Aquagate Max Retro Mini CDU</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+        
+            <li class="level-2 has-sub-menu" >
+                <a href="/en-global/catalog/data-center-cooling/commissioning-tools" id="commissioning-tools">Commissioning Tools</a>
+                
+                <ul class="level-3-menu list-unstyled d-flex flex-column gap-2" id="megamenu-commissioning-tools" aria-hidden="true" aria-label="commissioning-tools">
+    
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/products/Feeder-Kit.html" id="Feeder-Kit">Feeder Kit</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/products/Loop-Charge-Kit.html" id="Loop-Charge-Kit">Loop Charge Kit</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/products/Mini-Charge-Tool.html" id="Mini-Charge-Tool">Mini-Charge Tool</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/products/Vacuum-Nitrogen-Charging-System.html" id="Vacuum-Nitrogen-Charging-System">Vacuum Nitrogen Charging System</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+        
+            <li class="level-2 has-sub-menu" >
+                <a href="/en-global/catalog/data-center-cooling/coldplate" id="coldplate">Coldplate</a>
+                
+                <ul class="level-3-menu list-unstyled d-flex flex-column gap-2" id="megamenu-coldplate" aria-hidden="true" aria-label="coldplate">
+    
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/products/DIMM-Coldplate.html" id="DIMM-Coldplate">DIMM Coldplate</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/products/GPU%2FCPU-Coldplate.html" id="GPU/CPU-Coldplate">GPU/CPU Coldplate</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+        
+            <li class="level-2 has-sub-menu" >
+                <a href="/en-global/catalog/data-center-cooling/hose-kit" id="hose-kit">Hose Kit</a>
+                
+                <ul class="level-3-menu list-unstyled d-flex flex-column gap-2" id="megamenu-hose-kit" aria-hidden="true" aria-label="hose-kit">
+    
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/products/Wall-Manifold.html" id="Wall-Manifold">Wall Manifold</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+</ul>
+
+        </div>
+    
+
+    
+        <div class="level-2-banner g-col-6">
+            <div class="level-2-banner-container">
+                <img src="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwf1599e95/Data%20center%20cooling_menu.png?q=90" alt="null" class="w-100" />
+
+                <div class="level-2-banner-content">
+                    
+                </div>
+
+                
+                    
+                    <a href="" target="_self"
+                        class="level-2-banner__image-link"
+                        ></a>
+                
+            </div>
+        </div>
+    
+</div>
+</div></div>
+    
+</div>
+
+
+
+                        </div>
+                    
+                </li>
+            
+                <li class="level-0 d-flex align-items-stretch">
+                    <a class="d-flex align-items-center" href="/en-global/catalog/products" id="products">
+                        <span>Products</span>
+                    </a>
+                    
+                    
+                    
+                        <div class="megamenu-wrapper megamenu-pd" id="megamenu-products-megamenu">
+                            
+
+
+
+<div class="container">
+    
+        <div class="megamenu-content"><div class="experience-component experience-mengamenu_layouts-tabs"><div class="megamenu-tabs level-1-tabs mt-4">
+    
+        <ul class="nav nav-tabs" role="tablist" aria-label="megamenu-tabs">
+            
+                <li class="nav-item" role="presentation">
+                    <a class="nav-link active"
+                        href="#tab-6d10c527764faecec4057238a1-content"
+                        id="tab-6d10c527764faecec4057238a1"
+                        data-toggle="tab"
+                        role="tab"
+                        aria-controls="tab-6d10c527764faecec4057238a1-content"
+                        aria-selected="true">
+                        Consumer Electronics
+                    </a>
+                </li>
+            
+                <li class="nav-item" role="presentation">
+                    <a class="nav-link "
+                        href="#tab-b6e9372905bffc2eebf41d42b9-content"
+                        id="tab-b6e9372905bffc2eebf41d42b9"
+                        data-toggle="tab"
+                        role="tab"
+                        aria-controls="tab-b6e9372905bffc2eebf41d42b9-content"
+                        aria-selected="false">
+                        Personas
+                    </a>
+                </li>
+            
+        </ul>
+
+        
+        <div class="tab-content megamenu-tabs__content"><div role="tabpanel" aria-labelledby="tab-6d10c527764faecec4057238a1" id="tab-6d10c527764faecec4057238a1-content" class="tab-pane fade show active"><div class="py-0">
+    <div class="experience-region experience-content"><div class="experience-component experience-megamenu_assets-megamenuSubmenu"><div class="megamenu-submenu grid grid-gap-0">
+    
+        
+        <div class="py-5 g-col-6">
+            
+            
+<ul class="level-2-menu n-2 list-unstyled d-flex flex-column gap-2" id="megamenu-consumer-electronics" aria-hidden="true" aria-label="consumer-electronics">
+    
+        
+        
+            <li class="level-2 has-sub-menu" >
+                <a href="https://www.coolermaster.com/en-global/catalog/cooling" id="menu-cooling">Cooling</a>
+                
+                <ul class="level-3-menu list-unstyled d-flex flex-column gap-2" id="megamenu-menu-cooling" aria-hidden="true" aria-label="menu-cooling">
+    
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/cooling/case-fans" id="menu-case-fans">Case Fans</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/cooling/cpu-air-cooling" id="menu-cpu-air-cooling">Air Cooling</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/cooling/cpu-fans" id="menu-cpu-fans">Standard Cooler</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/cooling/cpu-liquid-cooling" id="menu-cpu-liquid-cooling">Liquid Cooling</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/cooling/laptop-cooling-dock" id="menu-laptop-cooling-dock">Laptop Cooling</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/cooling/phone-coolers" id="menu-phone-coolers">Phone Cooler</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/cooling/thermal-paste" id="menu-thermal-paste">Thermal Paste</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+        
+            <li class="level-2 has-sub-menu" >
+                <a href="https://www.coolermaster.com/en-global/catalog/pc-cases" id="menu-pc-cases">PC Cases</a>
+                
+                <ul class="level-3-menu list-unstyled d-flex flex-column gap-2" id="megamenu-menu-pc-cases" aria-hidden="true" aria-label="menu-pc-cases">
+    
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/pc-cases/full-towers" id="menu-full-towers">Full Tower</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/pc-cases/mid-towers" id="menu-mid-towers">Mid Tower</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/pc-cases/mini-towers" id="menu-mini-towers">Mini Tower</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/pc-cases/pc-cases-accessories" id="menu-pc-cases-accessories">PC Case Accessories</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+        
+            <li class="level-2 has-sub-menu" >
+                <a href="https://www.coolermaster.com/en-global/catalog/power-supplies" id="menu-power-supplies">Power Supplies</a>
+                
+                <ul class="level-3-menu list-unstyled d-flex flex-column gap-2" id="megamenu-menu-power-supplies" aria-hidden="true" aria-label="menu-power-supplies">
+    
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/power-supplies/elite-series" id="menu-elite-series">Elite Series</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/power-supplies/gx-series" id="menu-gx-series">GX Series</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/power-supplies/mwe-series" id="menu-mwe-series">MWE Series</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/power-supplies/v-series" id="menu-v-series">V Series</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/power-supplies/v-sfx-series" id="menu-v-sfx-series">V SFX Series</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/power-supplies/x-series" id="menu-x-series">X Series</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+        
+            <li class="level-2 has-sub-menu" >
+                <a href="https://www.coolermaster.com/en-global/catalog/gaming-accessories" id="menu-gaming-accessories">Accessories</a>
+                
+                <ul class="level-3-menu list-unstyled d-flex flex-column gap-2" id="megamenu-menu-gaming-accessories" aria-hidden="true" aria-label="menu-gaming-accessories">
+    
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/gaming-accessories/audio" id="menu-audio">Audio</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/furniture/controllers" id="menu-controllers">Controllers</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/gaming-accessories/keyboards" id="menu-keyboards">Keyboard</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/gaming-accessories/mice" id="menu-mice">Mice</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/gaming-accessories/monitors" id="menu-monitors">Monitors</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/gaming-accessories/mouse-pads" id="menu-mouse-pads">Mouse pads</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+        
+            <li class="level-2 has-sub-menu" >
+                <a href="#" id="menu-furniture">Furniture</a>
+                
+                <ul class="level-3-menu list-unstyled d-flex flex-column gap-2" id="megamenu-menu-furniture" aria-hidden="true" aria-label="menu-furniture">
+    
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/furniture/accessories" id="menu-accessories">Accessories</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/gaming-pod/chairs" id="menu-chairs">Chairs</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/furniture/computer-desk" id="menu-computer-desk">Desk</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+        
+            <li class="level-2 has-sub-menu" >
+                <a href="https://www.coolermaster.com/en-global/catalog/masterhub" id="menu-masterhub">MasterHUB</a>
+                
+                <ul class="level-3-menu list-unstyled d-flex flex-column gap-2" id="megamenu-menu-masterhub" aria-hidden="true" aria-label="menu-masterhub">
+    
+    
+</ul>
+
+            </li>
+        
+    
+        
+        
+            <li class="level-2 has-sub-menu" >
+                <a href="https://www.coolermaster.com/en-global/catalog/max" id="menu-max">MAX</a>
+                
+                <ul class="level-3-menu list-unstyled d-flex flex-column gap-2" id="megamenu-menu-max" aria-hidden="true" aria-label="menu-max">
+    
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/max/atx" id="menu-atx">ATX</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/mini-itx" id="menu-mini-itx">Mini ITX</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+        
+            <li class="level-2 has-sub-menu" >
+                <a href="https://www.coolermaster.com/en-global/catalog/systems" id="menu-systems">Systems</a>
+                
+                <ul class="level-3-menu list-unstyled d-flex flex-column gap-2" id="megamenu-menu-systems" aria-hidden="true" aria-label="menu-systems">
+    
+    
+</ul>
+
+            </li>
+        
+    
+        
+        
+            <li class="level-2 has-sub-menu" >
+                <a href="https://www.coolermaster.com/en-global/catalog/immersive-experience" id="menu-immersive-experience">Immersive Experience</a>
+                
+                <ul class="level-3-menu list-unstyled d-flex flex-column gap-2" id="megamenu-menu-immersive-experience" aria-hidden="true" aria-label="menu-immersive-experience">
+    
+    
+</ul>
+
+            </li>
+        
+    
+</ul>
+
+        </div>
+    
+
+    
+        <div class="level-2-banner g-col-6">
+            <div class="level-2-banner-container">
+                <img src="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwcc0f06e7/mega-banner1.png?q=90" alt="null" class="w-100" />
+
+                <div class="level-2-banner-content">
+                    <div style="text-align:center; color: #000">
+<p style="font-size:38px; font-weight: 600; margin-bottom: .4rem">MASTERFRAME 600</p>
+<p style="font-size:20px;">Premium modular ATX case</p>
+</div>
+                </div>
+
+                
+                    
+                    <a href="https://www.coolermaster.com/en-global/products/masterframe-360-panorama-s-limited-edition.html" target="_self"
+                        class="level-2-banner__button rounded-pill btn btn-outline-white"
+                        >
+                        Explore more
+                    </a>
+                
+            </div>
+        </div>
+    
+</div>
+</div></div>
+</div>
+</div><div role="tabpanel" aria-labelledby="tab-b6e9372905bffc2eebf41d42b9" id="tab-b6e9372905bffc2eebf41d42b9-content" class="tab-pane fade"><div class="py-5">
+    <div class="experience-region experience-content"><div class="experience-component experience-mengamenu_layouts-columns"><div class="megamenu-columns grid grid-gap-md py-4">
+    
+        
+            <div class="g-col-4"><div class="experience-component experience-megamenu_assets-megamenuCard"><!-- Megamenu Card 2 / Title Bottom -->
+<div class="megamenu-card megamenu-card--title-bottom gap-2">
+    <img src="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dw8d85cc2e/First%20time%20builder.png?q=90"
+        alt="First Time Builder"
+        class="megamenu-card__image w-auto h-auto">
+
+    <div class="megamenu-card__content d-flex justify-content-between align-items-center gap-2 mt-auto">
+        <div class="megamenu-card__title">
+            First Time Builder
+        </div>
+        
+            
+            <a href="https://www.coolermaster.com/en-global/catalog/products/personas/First-Time-Builder" 
+                class="megamenu-card__link mt-auto far fa-lg fa-angle-right"
+                >
+                <span class="sr-only">First Time Builder</span>
+            </a>
+        
+    </div>
+</div></div></div>
+            <div class="g-col-4"><div class="experience-component experience-megamenu_assets-megamenuCard"><!-- Megamenu Card 2 / Title Bottom -->
+<div class="megamenu-card megamenu-card--title-bottom gap-2">
+    <img src="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwb436cc57/The%20Master%20Builder%20&amp;%20Creator.png?q=90"
+        alt="The Next Gen Gamer &amp; Streamer"
+        class="megamenu-card__image w-auto h-auto">
+
+    <div class="megamenu-card__content d-flex justify-content-between align-items-center gap-2 mt-auto">
+        <div class="megamenu-card__title">
+            The Next Gen Gamer & Streamer
+        </div>
+        
+            
+            <a href="https://www.coolermaster.com/en-global/catalog/products/personas/The-Next-Gen-Gamer%26Streamer" 
+                class="megamenu-card__link mt-auto far fa-lg fa-angle-right"
+                >
+                <span class="sr-only">The Next Gen Gamer &amp; Streamer</span>
+            </a>
+        
+    </div>
+</div></div></div>
+            <div class="g-col-4"><div class="experience-component experience-megamenu_assets-megamenuCard"><!-- Megamenu Card 2 / Title Bottom -->
+<div class="megamenu-card megamenu-card--title-bottom gap-2">
+    <img src="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwc0ec86a0/The%20Next%20Gen%20Gamer%20&amp;%20Streamer%20.png?q=90"
+        alt="The Master Builder &amp; Creator"
+        class="megamenu-card__image w-auto h-auto">
+
+    <div class="megamenu-card__content d-flex justify-content-between align-items-center gap-2 mt-auto">
+        <div class="megamenu-card__title">
+            The Master Builder & Creator
+        </div>
+        
+            
+            <a href="https://www.coolermaster.com/en-global/catalog/products/personas/The-Master-Builder%26Creator" 
+                class="megamenu-card__link mt-auto far fa-lg fa-angle-right"
+                >
+                <span class="sr-only">The Master Builder &amp; Creator</span>
+            </a>
+        
+    </div>
+</div></div></div>
+        
+    
+</div>
+</div></div>
+</div>
+</div></div>
+    
+</div>
+</div></div>
+    
+</div>
+
+
+
+                        </div>
+                    
+                </li>
+            
+                <li class="level-0 d-flex align-items-stretch">
+                    <a class="d-flex align-items-center" href="#" id="support">
+                        <span>Support</span>
+                    </a>
+                    
+                    
+                    
+                        <div class="megamenu-wrapper megamenu-pd" id="megamenu-support-megamenu">
+                            
+
+
+
+<div class="container">
+    
+        <div class="megamenu-content"><div class="experience-component experience-megamenu_assets-megamenuSubmenu"><div class="megamenu-submenu grid grid-gap-0">
+    
+        
+        <div class="py-5 g-col-6">
+            
+            
+<ul class="level-2-menu n-2 list-unstyled d-flex flex-column gap-2" id="megamenu-support" aria-hidden="true" aria-label="support">
+    
+        
+        
+            <li class="level-2 has-sub-menu" >
+                <a href="#" id="Software">Software</a>
+                
+                <ul class="level-3-menu list-unstyled d-flex flex-column gap-2" id="megamenu-Software" aria-hidden="true" aria-label="Software">
+    
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/software-masterhub.html" id="MasterHUB">MasterHUB</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/masterctrl.html" id="MasterCTRL">MasterCTRL</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/masterplus.html" id="MasterPlus+">MasterPlus+</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+        
+            <li class="level-2 has-sub-menu" >
+                <a href="#" id="After-sales-Service">After-sales Service</a>
+                
+                <ul class="level-3-menu list-unstyled d-flex flex-column gap-2" id="megamenu-After-sales-Service" aria-hidden="true" aria-label="After-sales-Service">
+    
+    
+        
+            <li class="level-3">
+                <a href="../../../rma-portal" id="Business-Product-Warranty">Business Product Warranty</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://account.coolermaster.com/LogOn.aspx" id="Commercial-Product-Warranty">Commercial Product Warranty</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/warranty-policy.html" id="Warranty-Policy">Warranty Policy</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+        
+            <li class="level-2 has-sub-menu" >
+                <a href="#" id="resource-center">Resource Center</a>
+                
+                <ul class="level-3-menu list-unstyled d-flex flex-column gap-2" id="megamenu-resource-center" aria-hidden="true" aria-label="resource-center">
+    
+    
+        
+            <li class="level-3">
+                <a href="../../../media-partner" id="media-login">Media Login</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+        
+            <li class="level-2 has-sub-menu" >
+                <a href="https://www.coolermaster.com/en-global/contact-us.html" id="contact-us">Contact Us</a>
+                
+                <ul class="level-3-menu list-unstyled d-flex flex-column gap-2" id="megamenu-contact-us" aria-hidden="true" aria-label="contact-us">
+    
+    
+</ul>
+
+            </li>
+        
+    
+        
+        
+            <li class="level-2 has-sub-menu" >
+                <a href="https://www.coolermaster.com/en-global/faq.html" id="FAQ">FAQ</a>
+                
+                <ul class="level-3-menu list-unstyled d-flex flex-column gap-2" id="megamenu-FAQ" aria-hidden="true" aria-label="FAQ">
+    
+    
+</ul>
+
+            </li>
+        
+    
+</ul>
+
+        </div>
+    
+
+    
+        <div class="level-2-banner g-col-6">
+            <div class="level-2-banner-container">
+                <img src="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dw9605103b/Support_3-3840x2560%201.png?q=90" alt="null" class="w-100" />
+
+                <div class="level-2-banner-content">
+                    
+                </div>
+
+                
+                    
+                    <a href="" target="_self"
+                        class="level-2-banner__image-link"
+                        ></a>
+                
+            </div>
+        </div>
+    
+</div>
+</div></div>
+    
+</div>
+
+
+
+                        </div>
+                    
+                </li>
+            
+                <li class="level-0 d-flex align-items-stretch">
+                    <a class="d-flex align-items-center" href="#" id="company">
+                        <span>Company</span>
+                    </a>
+                    
+                    
+                    
+                        <div class="megamenu-wrapper megamenu-pd" id="megamenu-company">
+                            
+
+
+
+<div class="container">
+    
+        <div class="megamenu-content"><div class="experience-component experience-megamenu_assets-megamenuSubmenu"><div class="megamenu-submenu grid grid-gap-0">
+    
+        
+        <div class="py-5 g-col-6">
+            
+            
+<ul class="level-2-menu n-2 list-unstyled d-flex flex-column gap-2" id="megamenu-company" aria-hidden="true" aria-label="company">
+    
+        
+        
+            <li class="level-2 has-sub-menu" >
+                <a href="https://www.coolermaster.com/en-global/brand-history.html" id="Milestone">Milestone</a>
+                
+                <ul class="level-3-menu list-unstyled d-flex flex-column gap-2" id="megamenu-Milestone" aria-hidden="true" aria-label="Milestone">
+    
+    
+</ul>
+
+            </li>
+        
+    
+        
+        
+            <li class="level-2 has-sub-menu" >
+                <a href="https://www.coolermaster.com/en-global/cooler-master-esg.html" id="ESG">ESG</a>
+                
+                <ul class="level-3-menu list-unstyled d-flex flex-column gap-2" id="megamenu-ESG" aria-hidden="true" aria-label="ESG">
+    
+    
+</ul>
+
+            </li>
+        
+    
+        
+        
+            <li class="level-2 has-sub-menu" >
+                <a href="#" id="News-and-Social">News and Social</a>
+                
+                <ul class="level-3-menu list-unstyled d-flex flex-column gap-2" id="megamenu-News-and-Social" aria-hidden="true" aria-label="News-and-Social">
+    
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/newsroom.html" id="News">News</a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/social-media.html" id="Social-Media">Social Media</a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+        
+            <li class="level-2 has-sub-menu" >
+                <a href="https://www.coolermaster.com/en-global/join-us.html" id="Join-Us">Join Us</a>
+                
+                <ul class="level-3-menu list-unstyled d-flex flex-column gap-2" id="megamenu-Join-Us" aria-hidden="true" aria-label="Join-Us">
+    
+    
+</ul>
+
+            </li>
+        
+    
+</ul>
+
+        </div>
+    
+
+    
+        <div class="level-2-banner g-col-6">
+            <div class="level-2-banner-container">
+                <img src="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwea11c74c/Group%2013295.png?q=90" alt="null" class="w-100" />
+
+                <div class="level-2-banner-content">
+                    
+                </div>
+
+                
+                    
+                    <a href="" target="_self"
+                        class="level-2-banner__image-link"
+                        ></a>
+                
+            </div>
+        </div>
+    
+</div>
+</div></div>
+    
+</div>
+
+
+
+                        </div>
+                    
+                </li>
+            
+                <li class="level-0 d-flex align-items-stretch">
+                    <a class="d-flex align-items-center" href="https://legacy.coolermaster.com" id="store">
+                        <span>Store</span>
+                    </a>
+                    
+                    
+                    
+                        
+                    
+                </li>
+            
+        
+    </ul>
+</nav>
+
+
+
+<div class="main-menu navbar-toggleable-sm multilevel-dropdown
+            mr-md-auto d-md-none" id="sg-navbar-collapse">
+    <nav class="navbar-sm h-100" role="navigation">
+        <ul class="nav navbar-nav h-100 flex-nowrap">
+            
+                
+                    
+                        <li class="nav-item level-0">
+                            <a href="#" id="featured-campaigns" tabindex="0">
+                                <span>Featured Campaigns</span>
+                            </a>
+                        </li>
+                    
+                
+                    
+                        <li class="nav-item level-0">
+                            <a href="#"
+                                id="industry-and-technology"
+                                class="dropdown-link dropdown-toggle"
+                                role="button"
+                                data-toggle="collapse"
+                                data-target="#megamenu-industry-and-technology"
+                                aria-expanded="false"
+                                tabindex="0">
+                                <span>Industry and Technology</span>
+                                <span class="dropdown-toggle-icon">
+                                    <i class="far fa-chevron-down"></i>
+                                </span>
+                            </a>
+                            
+                            <ul class="nav-category collapse level-0"
+    id="megamenu-industry-and-technology" aria-hidden="true" aria-label="industry-and-technology">
+    
+        
+            <li class="level-1">
+                <a href="https://www.coolermaster.com/en-global/industry-and-technology.html" id="industry-technology" class="dropdown-link" tabindex="0">
+                    <span>Industry Technology</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-1">
+                <a href="https://www.coolermaster.com/en-global/smart-manufacturing.html" id="smart-manufacturing" class="dropdown-link" tabindex="0">
+                    <span>Smart Manufacturing</span>
+                </a>
+            </li>
+        
+    
+</ul>
+
+                        </li>
+                    
+                
+                    
+                        <li class="nav-item level-0">
+                            <a href="/en-global/catalog/data-center-cooling"
+                                id="data-center-cooling"
+                                class="dropdown-link dropdown-toggle"
+                                role="button"
+                                data-toggle="collapse"
+                                data-target="#megamenu-data-center-cooling"
+                                aria-expanded="false"
+                                tabindex="0">
+                                <span>Data Center Cooling</span>
+                                <span class="dropdown-toggle-icon">
+                                    <i class="far fa-chevron-down"></i>
+                                </span>
+                            </a>
+                            
+                            <ul class="nav-category collapse level-0"
+    id="megamenu-data-center-cooling" aria-hidden="true" aria-label="data-center-cooling">
+    
+        
+            <li class="level-1">
+                <a href="https://www.coolermaster.com/en-global/catalog/data-center-cooling/liquid-to-liquid"
+                    id="liquid-to-liquid"
+                    class="nav-link dropdown-link dropdown-toggle"
+                    role="button"
+                    data-toggle="collapse"
+                    data-target="#megamenu-liquid-to-liquid"
+                    aria-expanded="false"
+                    tabindex="0">
+                    <span>Liquid-to-Liquid</span>
+                    <span class="dropdown-toggle-icon">
+                        <i class="far fa-chevron-down"></i>
+                    </span>
+                </a>
+                
+                <ul class="nav-category collapse level-1"
+    id="megamenu-liquid-to-liquid" aria-hidden="true" aria-label="liquid-to-liquid">
+    
+    
+        
+            <li class="level-2">
+                <a href="https://www.coolermaster.com/en-global/products/100-kW-CDU.html" id="100-kW-CDU" class="dropdown-link" tabindex="0">
+                    <span>100 kW CDU</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-2">
+                <a href="https://www.coolermaster.com/en-global/products/120-kW-CDU.html" id="120-kW-CDU" class="dropdown-link" tabindex="0">
+                    <span>120 kW CDU</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-2">
+                <a href="https://www.coolermaster.com/en-global/products/1400-kW-CDU.html" id="1400-kW-CDU" class="dropdown-link" tabindex="0">
+                    <span>1400 kW CDU</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-2">
+                <a href="https://www.coolermaster.com/en-global/products/2500-kW-CDU.html" id="2500-kW-CDU" class="dropdown-link" tabindex="0">
+                    <span>2500 kW CDU</span>
+                </a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="level-1">
+                <a href="/en-global/catalog/data-center-cooling/liquid-to-air"
+                    id="liquid-to-air"
+                    class="nav-link dropdown-link dropdown-toggle"
+                    role="button"
+                    data-toggle="collapse"
+                    data-target="#megamenu-liquid-to-air"
+                    aria-expanded="false"
+                    tabindex="0">
+                    <span>Liquid-to-Air</span>
+                    <span class="dropdown-toggle-icon">
+                        <i class="far fa-chevron-down"></i>
+                    </span>
+                </a>
+                
+                <ul class="nav-category collapse level-1"
+    id="megamenu-liquid-to-air" aria-hidden="true" aria-label="liquid-to-air">
+    
+    
+        
+            <li class="level-2">
+                <a href="https://www.coolermaster.com/en-global/products/25-kW-CDU.html" id="25-kW-CDU" class="dropdown-link" tabindex="0">
+                    <span>25 kW CDU</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-2">
+                <a href="https://www.coolermaster.com/en-global/products/30-kW-CDU.html" id="30-kW-CDU" class="dropdown-link" tabindex="0">
+                    <span>30 kW CDU</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-2">
+                <a href="https://www.coolermaster.com/en-global/products/75-kW-CDU.html" id="75-kW-CDU" class="dropdown-link" tabindex="0">
+                    <span>75 kW CDU</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-2">
+                <a href="https://www.coolermaster.com/en-global/products/300-kW-CDU.html" id="300-kW-CDU" class="dropdown-link" tabindex="0">
+                    <span>300 kW  CDU</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-2">
+                <a href="https://www.coolermaster.com/en-global/products/Aquagate-Max-Retro-Mini-CDU.html" id="Aquagate-Max-Retro-Mini-CDU" class="dropdown-link" tabindex="0">
+                    <span>Aquagate Max Retro Mini CDU</span>
+                </a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="level-1">
+                <a href="/en-global/catalog/data-center-cooling/commissioning-tools"
+                    id="commissioning-tools"
+                    class="nav-link dropdown-link dropdown-toggle"
+                    role="button"
+                    data-toggle="collapse"
+                    data-target="#megamenu-commissioning-tools"
+                    aria-expanded="false"
+                    tabindex="0">
+                    <span>Commissioning Tools</span>
+                    <span class="dropdown-toggle-icon">
+                        <i class="far fa-chevron-down"></i>
+                    </span>
+                </a>
+                
+                <ul class="nav-category collapse level-1"
+    id="megamenu-commissioning-tools" aria-hidden="true" aria-label="commissioning-tools">
+    
+    
+        
+            <li class="level-2">
+                <a href="https://www.coolermaster.com/en-global/products/Feeder-Kit.html" id="Feeder-Kit" class="dropdown-link" tabindex="0">
+                    <span>Feeder Kit</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-2">
+                <a href="https://www.coolermaster.com/en-global/products/Loop-Charge-Kit.html" id="Loop-Charge-Kit" class="dropdown-link" tabindex="0">
+                    <span>Loop Charge Kit</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-2">
+                <a href="https://www.coolermaster.com/en-global/products/Mini-Charge-Tool.html" id="Mini-Charge-Tool" class="dropdown-link" tabindex="0">
+                    <span>Mini-Charge Tool</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-2">
+                <a href="https://www.coolermaster.com/en-global/products/Vacuum-Nitrogen-Charging-System.html" id="Vacuum-Nitrogen-Charging-System" class="dropdown-link" tabindex="0">
+                    <span>Vacuum Nitrogen Charging System</span>
+                </a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="level-1">
+                <a href="/en-global/catalog/data-center-cooling/coldplate"
+                    id="coldplate"
+                    class="nav-link dropdown-link dropdown-toggle"
+                    role="button"
+                    data-toggle="collapse"
+                    data-target="#megamenu-coldplate"
+                    aria-expanded="false"
+                    tabindex="0">
+                    <span>Coldplate</span>
+                    <span class="dropdown-toggle-icon">
+                        <i class="far fa-chevron-down"></i>
+                    </span>
+                </a>
+                
+                <ul class="nav-category collapse level-1"
+    id="megamenu-coldplate" aria-hidden="true" aria-label="coldplate">
+    
+    
+        
+            <li class="level-2">
+                <a href="https://www.coolermaster.com/en-global/products/DIMM-Coldplate.html" id="DIMM-Coldplate" class="dropdown-link" tabindex="0">
+                    <span>DIMM Coldplate</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-2">
+                <a href="https://www.coolermaster.com/en-global/products/GPU%2FCPU-Coldplate.html" id="GPU/CPU-Coldplate" class="dropdown-link" tabindex="0">
+                    <span>GPU/CPU Coldplate</span>
+                </a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="level-1">
+                <a href="/en-global/catalog/data-center-cooling/hose-kit"
+                    id="hose-kit"
+                    class="nav-link dropdown-link dropdown-toggle"
+                    role="button"
+                    data-toggle="collapse"
+                    data-target="#megamenu-hose-kit"
+                    aria-expanded="false"
+                    tabindex="0">
+                    <span>Hose Kit</span>
+                    <span class="dropdown-toggle-icon">
+                        <i class="far fa-chevron-down"></i>
+                    </span>
+                </a>
+                
+                <ul class="nav-category collapse level-1"
+    id="megamenu-hose-kit" aria-hidden="true" aria-label="hose-kit">
+    
+    
+        
+            <li class="level-2">
+                <a href="https://www.coolermaster.com/en-global/products/Wall-Manifold.html" id="Wall-Manifold" class="dropdown-link" tabindex="0">
+                    <span>Wall Manifold</span>
+                </a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+</ul>
+
+                        </li>
+                    
+                
+                    
+                        <li class="nav-item level-0">
+                            <a href="/en-global/catalog/products"
+                                id="products"
+                                class="dropdown-link dropdown-toggle"
+                                role="button"
+                                data-toggle="collapse"
+                                data-target="#megamenu-products"
+                                aria-expanded="false"
+                                tabindex="0">
+                                <span>Products</span>
+                                <span class="dropdown-toggle-icon">
+                                    <i class="far fa-chevron-down"></i>
+                                </span>
+                            </a>
+                            
+                            <ul class="nav-category collapse level-0"
+    id="megamenu-products" aria-hidden="true" aria-label="products">
+    
+        
+            <li class="level-1">
+                <a href="/en-global/catalog/products/consumer-electronics"
+                    id="consumer-electronics"
+                    class="nav-link dropdown-link dropdown-toggle"
+                    role="button"
+                    data-toggle="collapse"
+                    data-target="#megamenu-consumer-electronics"
+                    aria-expanded="false"
+                    tabindex="0">
+                    <span>Consumer Electronics</span>
+                    <span class="dropdown-toggle-icon">
+                        <i class="far fa-chevron-down"></i>
+                    </span>
+                </a>
+                
+                <ul class="nav-category collapse level-1"
+    id="megamenu-consumer-electronics" aria-hidden="true" aria-label="consumer-electronics">
+    
+    
+        
+            <li class="level-2">
+                <a href="https://www.coolermaster.com/en-global/catalog/cooling"
+                    id="menu-cooling"
+                    class="nav-link dropdown-link dropdown-toggle"
+                    role="button"
+                    data-toggle="collapse"
+                    data-target="#megamenu-menu-cooling"
+                    aria-expanded="false"
+                    tabindex="0">
+                    <span>Cooling</span>
+                    <span class="dropdown-toggle-icon">
+                        <i class="far fa-chevron-down"></i>
+                    </span>
+                </a>
+                
+                <ul class="nav-category collapse level-2"
+    id="megamenu-menu-cooling" aria-hidden="true" aria-label="menu-cooling">
+    
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/cooling/case-fans" id="menu-case-fans" class="dropdown-link" tabindex="0">
+                    <span>Case Fans</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/cooling/cpu-air-cooling" id="menu-cpu-air-cooling" class="dropdown-link" tabindex="0">
+                    <span>Air Cooling</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/cooling/cpu-fans" id="menu-cpu-fans" class="dropdown-link" tabindex="0">
+                    <span>Standard Cooler</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/cooling/cpu-liquid-cooling" id="menu-cpu-liquid-cooling" class="dropdown-link" tabindex="0">
+                    <span>Liquid Cooling</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/cooling/laptop-cooling-dock" id="menu-laptop-cooling-dock" class="dropdown-link" tabindex="0">
+                    <span>Laptop Cooling</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/cooling/phone-coolers" id="menu-phone-coolers" class="dropdown-link" tabindex="0">
+                    <span>Phone Cooler</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/cooling/thermal-paste" id="menu-thermal-paste" class="dropdown-link" tabindex="0">
+                    <span>Thermal Paste</span>
+                </a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="level-2">
+                <a href="https://www.coolermaster.com/en-global/catalog/pc-cases"
+                    id="menu-pc-cases"
+                    class="nav-link dropdown-link dropdown-toggle"
+                    role="button"
+                    data-toggle="collapse"
+                    data-target="#megamenu-menu-pc-cases"
+                    aria-expanded="false"
+                    tabindex="0">
+                    <span>PC Cases</span>
+                    <span class="dropdown-toggle-icon">
+                        <i class="far fa-chevron-down"></i>
+                    </span>
+                </a>
+                
+                <ul class="nav-category collapse level-2"
+    id="megamenu-menu-pc-cases" aria-hidden="true" aria-label="menu-pc-cases">
+    
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/pc-cases/full-towers" id="menu-full-towers" class="dropdown-link" tabindex="0">
+                    <span>Full Tower</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/pc-cases/mid-towers" id="menu-mid-towers" class="dropdown-link" tabindex="0">
+                    <span>Mid Tower</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/pc-cases/mini-towers" id="menu-mini-towers" class="dropdown-link" tabindex="0">
+                    <span>Mini Tower</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/pc-cases/pc-cases-accessories" id="menu-pc-cases-accessories" class="dropdown-link" tabindex="0">
+                    <span>PC Case Accessories</span>
+                </a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="level-2">
+                <a href="https://www.coolermaster.com/en-global/catalog/power-supplies"
+                    id="menu-power-supplies"
+                    class="nav-link dropdown-link dropdown-toggle"
+                    role="button"
+                    data-toggle="collapse"
+                    data-target="#megamenu-menu-power-supplies"
+                    aria-expanded="false"
+                    tabindex="0">
+                    <span>Power Supplies</span>
+                    <span class="dropdown-toggle-icon">
+                        <i class="far fa-chevron-down"></i>
+                    </span>
+                </a>
+                
+                <ul class="nav-category collapse level-2"
+    id="megamenu-menu-power-supplies" aria-hidden="true" aria-label="menu-power-supplies">
+    
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/power-supplies/elite-series" id="menu-elite-series" class="dropdown-link" tabindex="0">
+                    <span>Elite Series</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/power-supplies/gx-series" id="menu-gx-series" class="dropdown-link" tabindex="0">
+                    <span>GX Series</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/power-supplies/mwe-series" id="menu-mwe-series" class="dropdown-link" tabindex="0">
+                    <span>MWE Series</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/power-supplies/v-series" id="menu-v-series" class="dropdown-link" tabindex="0">
+                    <span>V Series</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/power-supplies/v-sfx-series" id="menu-v-sfx-series" class="dropdown-link" tabindex="0">
+                    <span>V SFX Series</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/power-supplies/x-series" id="menu-x-series" class="dropdown-link" tabindex="0">
+                    <span>X Series</span>
+                </a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="level-2">
+                <a href="https://www.coolermaster.com/en-global/catalog/gaming-accessories"
+                    id="menu-gaming-accessories"
+                    class="nav-link dropdown-link dropdown-toggle"
+                    role="button"
+                    data-toggle="collapse"
+                    data-target="#megamenu-menu-gaming-accessories"
+                    aria-expanded="false"
+                    tabindex="0">
+                    <span>Accessories</span>
+                    <span class="dropdown-toggle-icon">
+                        <i class="far fa-chevron-down"></i>
+                    </span>
+                </a>
+                
+                <ul class="nav-category collapse level-2"
+    id="megamenu-menu-gaming-accessories" aria-hidden="true" aria-label="menu-gaming-accessories">
+    
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/gaming-accessories/audio" id="menu-audio" class="dropdown-link" tabindex="0">
+                    <span>Audio</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/furniture/controllers" id="menu-controllers" class="dropdown-link" tabindex="0">
+                    <span>Controllers</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/gaming-accessories/keyboards" id="menu-keyboards" class="dropdown-link" tabindex="0">
+                    <span>Keyboard</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/gaming-accessories/mice" id="menu-mice" class="dropdown-link" tabindex="0">
+                    <span>Mice</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/gaming-accessories/monitors" id="menu-monitors" class="dropdown-link" tabindex="0">
+                    <span>Monitors</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/gaming-accessories/mouse-pads" id="menu-mouse-pads" class="dropdown-link" tabindex="0">
+                    <span>Mouse pads</span>
+                </a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="level-2">
+                <a href="#"
+                    id="menu-furniture"
+                    class="nav-link dropdown-link dropdown-toggle"
+                    role="button"
+                    data-toggle="collapse"
+                    data-target="#megamenu-menu-furniture"
+                    aria-expanded="false"
+                    tabindex="0">
+                    <span>Furniture</span>
+                    <span class="dropdown-toggle-icon">
+                        <i class="far fa-chevron-down"></i>
+                    </span>
+                </a>
+                
+                <ul class="nav-category collapse level-2"
+    id="megamenu-menu-furniture" aria-hidden="true" aria-label="menu-furniture">
+    
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/furniture/accessories" id="menu-accessories" class="dropdown-link" tabindex="0">
+                    <span>Accessories</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/gaming-pod/chairs" id="menu-chairs" class="dropdown-link" tabindex="0">
+                    <span>Chairs</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/furniture/computer-desk" id="menu-computer-desk" class="dropdown-link" tabindex="0">
+                    <span>Desk</span>
+                </a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="level-2">
+                <a href="https://www.coolermaster.com/en-global/catalog/masterhub" id="menu-masterhub" class="dropdown-link" tabindex="0">
+                    <span>MasterHUB</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-2">
+                <a href="https://www.coolermaster.com/en-global/catalog/max"
+                    id="menu-max"
+                    class="nav-link dropdown-link dropdown-toggle"
+                    role="button"
+                    data-toggle="collapse"
+                    data-target="#megamenu-menu-max"
+                    aria-expanded="false"
+                    tabindex="0">
+                    <span>MAX</span>
+                    <span class="dropdown-toggle-icon">
+                        <i class="far fa-chevron-down"></i>
+                    </span>
+                </a>
+                
+                <ul class="nav-category collapse level-2"
+    id="megamenu-menu-max" aria-hidden="true" aria-label="menu-max">
+    
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/max/atx" id="menu-atx" class="dropdown-link" tabindex="0">
+                    <span>ATX</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-3">
+                <a href="https://www.coolermaster.com/en-global/catalog/mini-itx" id="menu-mini-itx" class="dropdown-link" tabindex="0">
+                    <span>Mini ITX</span>
+                </a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="level-2">
+                <a href="https://www.coolermaster.com/en-global/catalog/systems" id="menu-systems" class="dropdown-link" tabindex="0">
+                    <span>Systems</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-2">
+                <a href="https://www.coolermaster.com/en-global/catalog/immersive-experience" id="menu-immersive-experience" class="dropdown-link" tabindex="0">
+                    <span>Immersive Experience</span>
+                </a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="level-1">
+                <a href="/en-global/catalog/products/personas" id="personas" class="dropdown-link" tabindex="0">
+                    <span>Personas</span>
+                </a>
+            </li>
+        
+    
+</ul>
+
+                        </li>
+                    
+                
+                    
+                        <li class="nav-item level-0">
+                            <a href="#"
+                                id="support"
+                                class="dropdown-link dropdown-toggle"
+                                role="button"
+                                data-toggle="collapse"
+                                data-target="#megamenu-support"
+                                aria-expanded="false"
+                                tabindex="0">
+                                <span>Support</span>
+                                <span class="dropdown-toggle-icon">
+                                    <i class="far fa-chevron-down"></i>
+                                </span>
+                            </a>
+                            
+                            <ul class="nav-category collapse level-0"
+    id="megamenu-support" aria-hidden="true" aria-label="support">
+    
+        
+            <li class="level-1">
+                <a href="#"
+                    id="Software"
+                    class="nav-link dropdown-link dropdown-toggle"
+                    role="button"
+                    data-toggle="collapse"
+                    data-target="#megamenu-Software"
+                    aria-expanded="false"
+                    tabindex="0">
+                    <span>Software</span>
+                    <span class="dropdown-toggle-icon">
+                        <i class="far fa-chevron-down"></i>
+                    </span>
+                </a>
+                
+                <ul class="nav-category collapse level-1"
+    id="megamenu-Software" aria-hidden="true" aria-label="Software">
+    
+    
+        
+            <li class="level-2">
+                <a href="https://www.coolermaster.com/en-global/software-masterhub.html" id="MasterHUB" class="dropdown-link" tabindex="0">
+                    <span>MasterHUB</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-2">
+                <a href="https://www.coolermaster.com/en-global/masterctrl.html" id="MasterCTRL" class="dropdown-link" tabindex="0">
+                    <span>MasterCTRL</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-2">
+                <a href="https://www.coolermaster.com/en-global/masterplus.html" id="MasterPlus+" class="dropdown-link" tabindex="0">
+                    <span>MasterPlus+</span>
+                </a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="level-1">
+                <a href="#"
+                    id="After-sales-Service"
+                    class="nav-link dropdown-link dropdown-toggle"
+                    role="button"
+                    data-toggle="collapse"
+                    data-target="#megamenu-After-sales-Service"
+                    aria-expanded="false"
+                    tabindex="0">
+                    <span>After-sales Service</span>
+                    <span class="dropdown-toggle-icon">
+                        <i class="far fa-chevron-down"></i>
+                    </span>
+                </a>
+                
+                <ul class="nav-category collapse level-1"
+    id="megamenu-After-sales-Service" aria-hidden="true" aria-label="After-sales-Service">
+    
+    
+        
+            <li class="level-2">
+                <a href="../../../rma-portal" id="Business-Product-Warranty" class="dropdown-link" tabindex="0">
+                    <span>Business Product Warranty</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-2">
+                <a href="https://account.coolermaster.com/LogOn.aspx" id="Commercial-Product-Warranty" class="dropdown-link" tabindex="0">
+                    <span>Commercial Product Warranty</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-2">
+                <a href="https://www.coolermaster.com/en-global/warranty-policy.html" id="Warranty-Policy" class="dropdown-link" tabindex="0">
+                    <span>Warranty Policy</span>
+                </a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="level-1">
+                <a href="#"
+                    id="resource-center"
+                    class="nav-link dropdown-link dropdown-toggle"
+                    role="button"
+                    data-toggle="collapse"
+                    data-target="#megamenu-resource-center"
+                    aria-expanded="false"
+                    tabindex="0">
+                    <span>Resource Center</span>
+                    <span class="dropdown-toggle-icon">
+                        <i class="far fa-chevron-down"></i>
+                    </span>
+                </a>
+                
+                <ul class="nav-category collapse level-1"
+    id="megamenu-resource-center" aria-hidden="true" aria-label="resource-center">
+    
+    
+        
+            <li class="level-2">
+                <a href="../../../media-partner" id="media-login" class="dropdown-link" tabindex="0">
+                    <span>Media Login</span>
+                </a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="level-1">
+                <a href="https://www.coolermaster.com/en-global/contact-us.html" id="contact-us" class="dropdown-link" tabindex="0">
+                    <span>Contact Us</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-1">
+                <a href="https://www.coolermaster.com/en-global/faq.html" id="FAQ" class="dropdown-link" tabindex="0">
+                    <span>FAQ</span>
+                </a>
+            </li>
+        
+    
+</ul>
+
+                        </li>
+                    
+                
+                    
+                        <li class="nav-item level-0">
+                            <a href="#"
+                                id="company"
+                                class="dropdown-link dropdown-toggle"
+                                role="button"
+                                data-toggle="collapse"
+                                data-target="#megamenu-company"
+                                aria-expanded="false"
+                                tabindex="0">
+                                <span>Company</span>
+                                <span class="dropdown-toggle-icon">
+                                    <i class="far fa-chevron-down"></i>
+                                </span>
+                            </a>
+                            
+                            <ul class="nav-category collapse level-0"
+    id="megamenu-company" aria-hidden="true" aria-label="company">
+    
+        
+            <li class="level-1">
+                <a href="https://www.coolermaster.com/en-global/brand-history.html" id="Milestone" class="dropdown-link" tabindex="0">
+                    <span>Milestone</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-1">
+                <a href="https://www.coolermaster.com/en-global/cooler-master-esg.html" id="ESG" class="dropdown-link" tabindex="0">
+                    <span>ESG</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-1">
+                <a href="#"
+                    id="News-and-Social"
+                    class="nav-link dropdown-link dropdown-toggle"
+                    role="button"
+                    data-toggle="collapse"
+                    data-target="#megamenu-News-and-Social"
+                    aria-expanded="false"
+                    tabindex="0">
+                    <span>News and Social</span>
+                    <span class="dropdown-toggle-icon">
+                        <i class="far fa-chevron-down"></i>
+                    </span>
+                </a>
+                
+                <ul class="nav-category collapse level-1"
+    id="megamenu-News-and-Social" aria-hidden="true" aria-label="News-and-Social">
+    
+    
+        
+            <li class="level-2">
+                <a href="https://www.coolermaster.com/en-global/newsroom.html" id="News" class="dropdown-link" tabindex="0">
+                    <span>News</span>
+                </a>
+            </li>
+        
+    
+        
+            <li class="level-2">
+                <a href="https://www.coolermaster.com/en-global/social-media.html" id="Social-Media" class="dropdown-link" tabindex="0">
+                    <span>Social Media</span>
+                </a>
+            </li>
+        
+    
+</ul>
+
+            </li>
+        
+    
+        
+            <li class="level-1">
+                <a href="https://www.coolermaster.com/en-global/join-us.html" id="Join-Us" class="dropdown-link" tabindex="0">
+                    <span>Join Us</span>
+                </a>
+            </li>
+        
+    
+</ul>
+
+                        </li>
+                    
+                
+                    
+                        <li class="nav-item level-0">
+                            <a href="https://legacy.coolermaster.com" id="store" tabindex="0">
+                                <span>Store</span>
+                            </a>
+                        </li>
+                    
+                
+            
+            
+    <li class="nav-item dropdown" class="nav-item">
+        <a href="#" class="dropdown-toggle" role="button" data-toggle="collapse" data-target="#login-menu">
+            <span class="user-message">Login</span>
+            <span class="dropdown-toggle-icon"><i class="far fa-chevron-down"></i></span>
+        </a>
+        <ul class="nav-category collapse" id="login-menu" aria-hidden="true">
+            <!-- TODO: hardcoded, tobe updated later -->
+            <li class="nav-item level-1">
+                <a href="https://www.coolermaster.com/en-global/account/landing" class="dropdown-link"
+                    data-authenticated="false"
+                    >Consumer</a>
+            </li>
+            <li class="nav-item level-1">
+                <a href="https://www.coolermaster.com/en-global/account/landing" class="dropdown-link"
+                    data-authenticated="false"
+                    >Business Partner</a>
+            </li>
+            <li class="nav-item level-1">
+                <a href="https://www.coolermaster.com/en-global/account/landing" class="dropdown-link"
+                    data-authenticated="false"
+                    >Media</a>
+            </li>
+        </ul>
+    </li>
+    
+
+            
+    <li class="spacer mt-auto pt-4"></li>
+    <li class="nav-item dropdown country-selector" data-url="/on/demandware.store/Sites-coolermaster-one-Site/en/Page-SetLocale">
+        <ul class="nav-category collapse" id="dropdownCountrySelectorMobile" aria-hidden="true">
+            
+                
+                    <li class="nav-item level-1">
+                        <a href="#" class="dropdown-link" role="button" data-locale="zh_TW" data-currencyCode="EUR">
+                            中文 (台灣)
+                        </a>
+                    </li>
+                
+            
+        </ul>
+
+        <a href="#" class="dropdown-toggle" role="button" data-toggle="collapse" data-target="#dropdownCountrySelectorMobile">
+            <span>English</span>
+            <span class="dropdown-toggle-icon"><i class="far fa-chevron-down"></i></span>
+        </a>
+    </li>
+
+        </ul>
+    </nav>
+</div>
+
+
+
+        <div class="navbar-header d-flex align-items-center nav-right">
+            
+
+            <div class="header-account hidden-sm-down">
+                <div class="user dropdown user-dropdown text-uppercase" tabindex="0">
+    <a href="https://www.coolermaster.com/en-global/account/landing" class="header-icon-link user-account"
+        data-toggle="dropdown" data-target="#account-header-menu"
+        aria-haspopup="true" aria-expanded="false"
+        title="Login">
+        <i class="far fa-md fa-user"></i>
+    </a>
+
+    <div class="dropdown-menu dropdown-menu-center" id="account-header-menu">
+    
+        <!-- TODO: hardcoded, tobe updated later -->
+        <a class="dropdown-item" href="https://www.coolermaster.com/en-global/account/landing">Consumer</a>
+        
+            <a class="dropdown-item" target="_blank" href="/business-partner">Business Partner</a>
+            <a class="dropdown-item" target="_blank" href="/media-partner">Media</a>
+        
+    
+    </div>
+</div>
+
+            </div>
+
+            
+<div class="header-locale hidden-sm-down text-uppercase">
+    <div class="dropdown country-selector locale-switcher-dropdown" data-url="/on/demandware.store/Sites-coolermaster-one-Site/en/Page-SetLocale" tabindex="0">
+        <span class="divider"></span>
+        <a class="locale-switcher" href="#" id="dropdownCountrySelector" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <span>en</span>
+            
+        </a>
+        <div class="dropdown-menu dropdown-country-selector dropdown-menu-center" aria-labelledby="dropdownCountrySelector">
+            
+                
+                    <a class="dropdown-item" href="#" data-locale="zh_TW" data-currencyCode="EUR" >
+                        <span class="locale-language">zh</span>
+                        
+                    </a>
+                
+            
+        </div>
+    </div>
+</div>
+
+
+
+            <div class="search header-search">
+                <a href="#header-search"
+    class="header-icon-link search-toggle"
+    role="button" aria-expanded="false"
+    title="common.search">
+    <i class="far fa-md fa-search"></i>
+</a>
+
+<div class="site-search" id="header-search">
+    <form role="search" action="/en-global/search"
+        method="get"
+        name="simpleSearch">
+        <input class="search-field-input js-search-input d-block w-100"
+            type="search"
+            name="q"
+            value=""
+            placeholder="Search"
+            role="combobox"
+            aria-describedby="search-assistive-text"
+            aria-haspopup="listbox"
+            aria-owns="search-results"
+            aria-expanded="false"
+            aria-autocomplete="list"
+            aria-activedescendant=""
+            aria-controls="search-results"
+            aria-label="Search"
+            autocomplete="off" />
+        <button type="submit" name="search-button" class="fal fa-md fa-search search-button"
+            aria-label="Submit search keywords"><span class="sr-only">Search</span></button>
+
+        <input type="hidden" value="null" name="lang" />
+        <div class="suggestions-wrapper" data-url="/on/demandware.store/Sites-coolermaster-one-Site/en/SearchServices-GetSuggestions?q="></div>
+    </form>
+</div>
+
+            </div>
+        </div>
+    </div>
+</header>
+<div class="overlay-under-header hidden-sm-down"></div>
+
+
+<div class="modal fade" id="removeProductModal" tabindex="-1" role="dialog" aria-labelledby="removeProductLineItemModal">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header delete-confirmation-header">
+                <h2 class="modal-title" id="removeProductLineItemModal">Remove Product?</h2>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            </div>
+            <div class="modal-body delete-confirmation-body">
+                Are you sure you want to remove the following product from the cart?
+                <p class="product-to-remove"></p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-outline-primary" data-dismiss="modal">Cancel</button>
+                <button type="button" class="btn btn-primary cart-delete-confirmation-btn"
+                        data-dismiss="modal">
+                    Yes
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id="wishlist-json" class="d-none" data-wishlist='{"items":[],"count":0}'></div>
+
+
+
+<div role="main" id="maincontent">
+
+
+<div class="storepage" id="homepage">
+<div class="fluid-container">
+<div class="row m-0">
+<div class="col-12 p-0"><div class="experience-component experience-commerce_assets-cmMainBanner">
+
+
+
+
+<div id="cm-main-banner-72149c4b06d16b3071f8f24a80"
+    class="cm-main-banner
+    cm-main-banner--content-center
+    cm-main-banner--mobile-align-overlay-text-centered
+    ">
+    <figure class="cm-main-banner__figure">
+        
+            <picture class="cm-main-banner__picture">
+                
+                    <source srcset="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwc72ceeb4/cmAssets/main-banner-1-sm.png?q=90" media="(max-width: 768px)"/>
+                    <source srcset="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwc784c9eb/cmAssets/main-banner1.webp?sw=1920&amp;sfrm=png&amp;q=90" media="(min-width: 769px)"/>
+                
+                <img class="cm-main-banner__image img-fluid w-100"
+                    src="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwc72ceeb4/cmAssets/main-banner-1-sm.png?q=90"
+                    fetchpriority="high"
+                    style="--focal-point-x:50%; --focal-point-y:50%"
+                    alt=""
+                />
+            </picture>
+        
+        <figcaption class="cm-main-banner__content">
+            
+            
+                <h2 class="cm-main-banner__title">
+                    MASTERFRAME 600
+                </h2>
+            
+            
+                <div class="cm-main-banner__description">
+                    <p>Premium modular ATX case</p>
+                </div>
+            
+
+            
+            
+            
+            <div class="cm-main-banner__actions d-flex gap-2 align-items-center justify-content-center ">
+                
+                    
+                    <a class="cm-main-banner__btn btn btn-outline-white btn-md px-4 rounded-pill"
+                        href="https://www.coolermaster.com/en-global/products/masterframe-600.html"
+                        target="_blank"
+                        rel="noreferrer"
+                        >
+                        Explore more
+                    </a>
+                
+                
+            </div>
+        </figcaption>
+    </figure>
+</div>
+</div><div class="experience-component experience-commerce_assets-cmSplitBanner">
+
+
+<style>#sp-banner-3a8fb15b514adfe726de366e90 strong {font-weight:normal; color:#6632F5}
+</style>
+
+
+<div id="sp-banner-3a8fb15b514adfe726de366e90"
+    class="cm-split-banner
+    cm-split-banner--image-right
+    cm-split-banner--mobile-align-overlay-text-top-bottom
+    ">
+    <div class="cm-split-banner__row grid grid-align-center grid-gap-0">
+        <div class="cm-split-banner__image-col g-col-12 g-col-md-6">
+            
+            <figure class="cm-split-banner__figure">
+                <picture class="cm-split-banner__picture">
+                    
+                        <source srcset="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwc8465225/banner-1-sm.jpg?q=90" media="(max-width: 768px)"/>
+                        <source srcset="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dw27cdd32c/banner-1-lg.jpg?q=90" media="(min-width: 769px)"/>
+                    
+                    <img class="cm-split-banner__image img-fluid"
+                        src="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwc8465225/banner-1-sm.jpg?q=90"
+                        style="--focal-point-x:50%; --focal-point-y:50%"
+                        alt=""
+                    />
+                </picture>
+            </figure>
+        </div>
+        <div class="cm-split-banner__content-col g-col-12 g-col-md-6">
+            <div class="cm-split-banner__content">
+                
+                    
+                
+                <div class="cm-split-banner__content-text">
+                    
+                    
+                        <h2 class="cm-split-banner__title ">
+                            MasterLiquid Core Nex Series
+                        </h2>
+                    
+                    
+                        <div class="cm-split-banner__description">
+                            <p>MasterLiquid Core Nex Series <strong>360 Degrees of Cool​</strong></p>
+                        </div>
+                    
+                    
+                </div>
+                
+                    <div class="cm-split-banner__actions">
+                        <a class="cm-split-banner__btn btn btn-outline-white btn-md px-4 rounded-pill d-md-none"
+                            href="https://www.coolermaster.com/en-global/products/masterliquid-core-nex-series.html" 
+                            target="_blank" 
+                            rel="noreferrer"
+                            >
+                            Explore more
+                        </a>
+                        <a class="cm-split-banner__link d-none d-md-block font-weight-bold text-white" 
+                            href="https://www.coolermaster.com/en-global/products/masterliquid-core-nex-series.html" 
+                            target="_blank" 
+                            rel="noreferrer"
+                            >
+                            Explore more
+                        </a>
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+</div>
+</div><div class="experience-component experience-commerce_assets-cmSplitBanner">
+
+
+<style>#sp-banner-75094b0b60c339bc39fb92f59a strong {font-weight:normal; color:#6632F5}
+@media (max-width: 768px) {#sp-banner-75094b0b60c339bc39fb92f59a .cm-split-banner__content {color: #000}
+}</style>
+
+
+<div id="sp-banner-75094b0b60c339bc39fb92f59a"
+    class="cm-split-banner
+    cm-split-banner--image-left
+    cm-split-banner--mobile-align-overlay-text-top-bottom
+    ">
+    <div class="cm-split-banner__row grid grid-align-center grid-gap-0">
+        <div class="cm-split-banner__image-col g-col-12 g-col-md-6">
+            
+            <figure class="cm-split-banner__figure">
+                <picture class="cm-split-banner__picture">
+                    
+                        <source srcset="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dw738166f6/banner-2-sm.jpg?q=90" media="(max-width: 768px)"/>
+                        <source srcset="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dw5f896e9f/banner-2-lg.jpg?q=90" media="(min-width: 769px)"/>
+                    
+                    <img class="cm-split-banner__image img-fluid"
+                        src="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dw738166f6/banner-2-sm.jpg?q=90"
+                        style="--focal-point-x:50%; --focal-point-y:50%"
+                        alt=""
+                    />
+                </picture>
+            </figure>
+        </div>
+        <div class="cm-split-banner__content-col g-col-12 g-col-md-6">
+            <div class="cm-split-banner__content">
+                
+                    
+                
+                <div class="cm-split-banner__content-text">
+                    
+                    
+                        <h2 class="cm-split-banner__title ">
+                            MasterFrame 360 Panorama S Limited Edition
+                        </h2>
+                    
+                    
+                        <div class="cm-split-banner__description">
+                            <p>MasterLiquid Core Nex Series <strong>Turn your rig into a&nbsp;Stage.</strong></p>
+                        </div>
+                    
+                    
+                </div>
+                
+                    <div class="cm-split-banner__actions">
+                        <a class="cm-split-banner__btn btn btn-outline-white btn-md px-4 rounded-pill d-md-none"
+                            href="https://www.coolermaster.com/en-global/products/masterframe-360-panorama-s-limited-edition.html" 
+                            target="_blank" 
+                            rel="noreferrer"
+                            >
+                            Explore more
+                        </a>
+                        <a class="cm-split-banner__link d-none d-md-block font-weight-bold text-white" 
+                            href="https://www.coolermaster.com/en-global/products/masterframe-360-panorama-s-limited-edition.html" 
+                            target="_blank" 
+                            rel="noreferrer"
+                            >
+                            Explore more
+                        </a>
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+</div>
+</div><div class="experience-component experience-commerce_assets-cmSplitBanner">
+
+
+
+<div id="sp-banner-0ddc265d0747a5e9cdf8cfbffc"
+    class="cm-split-banner
+    cm-split-banner--image-right
+    cm-split-banner--mobile-align-overlay-text-top-bottom
+    ">
+    <div class="cm-split-banner__row grid grid-align-center grid-gap-0">
+        <div class="cm-split-banner__image-col g-col-12 g-col-md-6">
+            
+            <figure class="cm-split-banner__figure">
+                <picture class="cm-split-banner__picture">
+                    
+                        <source srcset="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwff55ce00/banner-3-sm.jpg?q=90" media="(max-width: 768px)"/>
+                        <source srcset="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dw2c7b6f65/banner-3-lg.jpg?q=90" media="(min-width: 769px)"/>
+                    
+                    <img class="cm-split-banner__image img-fluid"
+                        src="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwff55ce00/banner-3-sm.jpg?q=90"
+                        style="--focal-point-x:50%; --focal-point-y:50%"
+                        alt=""
+                    />
+                </picture>
+            </figure>
+        </div>
+        <div class="cm-split-banner__content-col g-col-12 g-col-md-6">
+            <div class="cm-split-banner__content">
+                
+                    
+                
+                <div class="cm-split-banner__content-text">
+                    
+                    
+                        <h2 class="cm-split-banner__title ">
+                            MasterHUB
+                        </h2>
+                    
+                    
+                        <div class="cm-split-banner__description">
+                            <p>MasterHUB is a modular control system built for streamers,</p><p>creators, gamers, and PC enthusiasts who want precision,</p><p>flexibility, and seamless workflow integration.</p>
+                        </div>
+                    
+                    
+                </div>
+                
+                    <div class="cm-split-banner__actions">
+                        <a class="cm-split-banner__btn btn btn-outline-white btn-md px-4 rounded-pill d-md-none"
+                            href="https://www.coolermaster.com/en-global/masterhub.html" 
+                            target="_blank" 
+                            rel="noreferrer"
+                            >
+                            Explore more
+                        </a>
+                        <a class="cm-split-banner__link d-none d-md-block font-weight-bold text-white" 
+                            href="https://www.coolermaster.com/en-global/masterhub.html" 
+                            target="_blank" 
+                            rel="noreferrer"
+                            >
+                            Explore more
+                        </a>
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+</div>
+</div><div class="experience-component experience-commerce_assets-cmProductList"><!-- cmProductList.isml -->
+<div class="product-list-wrapper container py-5">
+    
+    <div class="grid product-grid product-grid__pd">
+        
+            
+            <div class="g-col-6 g-col-sm-6 g-col-md-4">
+                
+
+<div class="product" data-pid="haf-700">
+    <div class="product-tile d-flex flex-column justify-content-start align-items-center gap-2">
+    <!-- dwMarker="product" dwContentID="a889d21a2e40235f3c3ee15ce6" -->
+    <div class="pdp-link text-center">
+    <a class="link text-decoration-none-hover font-weight-bold"
+        href="/en-global/products/haf-700.html"
+        title="HAF 700"
+    >HAF 700</a>
+</div>
+
+    <div class="image-container">
+    <a href="/en-global/products/haf-700.html">
+        
+            <img class="tile-image"
+                src="/on/demandware.static/-/Sites-cooler-master-main/default/dw03ea71e9/Assets/haf-700/medium/haf700-hero-380x380.png"
+                alt="HAF 700"
+                title="HAF 700"
+                itemprop="image"/>
+        
+    </a>
+    
+    
+</div>
+
+    <div class="tile-body text-center">
+        
+        
+        <a href="/en-global/products/haf-700.html" class="tile-link">
+            <span class="tile-link-text text-decoration-none-hover">See More</span>
+        </a>
+    </div>
+    <!-- END_dwmarker -->
+</div>
+
+</div>
+
+            </div>
+        
+            
+            <div class="g-col-6 g-col-sm-6 g-col-md-4">
+                
+
+<div class="product" data-pid="haf-700-evo">
+    <div class="product-tile d-flex flex-column justify-content-start align-items-center gap-2">
+    <!-- dwMarker="product" dwContentID="5b1fea2973576ff0fd0dda6df2" -->
+    <div class="pdp-link text-center">
+    <a class="link text-decoration-none-hover font-weight-bold"
+        href="/en-global/products/haf-700-evo.html"
+        title="HAF 700 EVO"
+    >HAF 700 EVO</a>
+</div>
+
+    <div class="image-container">
+    <a href="/en-global/products/haf-700-evo.html">
+        
+            <img class="tile-image"
+                src="/on/demandware.static/-/Sites-cooler-master-main/default/dw61779701/Assets/haf-700-evo/medium/haf-700-evo-380x380-1-if.png"
+                alt="HAF 700 EVO"
+                title="HAF 700 EVO"
+                itemprop="image"/>
+        
+    </a>
+    
+    
+</div>
+
+    <div class="tile-body text-center">
+        
+        
+        <a href="/en-global/products/haf-700-evo.html" class="tile-link">
+            <span class="tile-link-text text-decoration-none-hover">See More</span>
+        </a>
+    </div>
+    <!-- END_dwmarker -->
+</div>
+
+</div>
+
+            </div>
+        
+            
+            <div class="g-col-6 g-col-sm-6 g-col-md-4">
+                
+
+<div class="product" data-pid="ch351">
+    <div class="product-tile d-flex flex-column justify-content-start align-items-center gap-2">
+    <!-- dwMarker="product" dwContentID="b8114fdc40745ef718f922e293" -->
+    <div class="pdp-link text-center">
+    <a class="link text-decoration-none-hover font-weight-bold"
+        href="/en-global/products/ch351.html"
+        title="CH351"
+    >CH351</a>
+</div>
+
+    <div class="image-container">
+    <a href="/en-global/products/ch351.html">
+        
+            <img class="tile-image"
+                src="/on/demandware.static/-/Sites-cooler-master-main/default/dw3d3d6e6f/Assets/ch351/medium/ch351-black_overview-600x600.png"
+                alt="CH351"
+                title="CH351"
+                itemprop="image"/>
+        
+    </a>
+    
+    
+</div>
+
+    <div class="tile-body text-center">
+        
+        
+        <a href="/en-global/products/ch351.html" class="tile-link">
+            <span class="tile-link-text text-decoration-none-hover">See More</span>
+        </a>
+    </div>
+    <!-- END_dwmarker -->
+</div>
+
+</div>
+
+            </div>
+        
+            
+            <div class="g-col-6 g-col-sm-6 g-col-md-4">
+                
+
+<div class="product" data-pid="caliber-e1">
+    <div class="product-tile d-flex flex-column justify-content-start align-items-center gap-2">
+    <!-- dwMarker="product" dwContentID="6a7ae9a639061a17448ddf33c4" -->
+    <div class="pdp-link text-center">
+    <a class="link text-decoration-none-hover font-weight-bold"
+        href="/en-global/products/caliber-e1.html"
+        title="Caliber E1 Gaming Chair"
+    >Caliber E1 Gaming Chair</a>
+</div>
+
+    <div class="image-container">
+    <a href="/en-global/products/caliber-e1.html">
+        
+            <img class="tile-image"
+                src="/on/demandware.static/-/Sites-cooler-master-main/default/dw54f166e7/Assets/caliber-e1/medium/caliber-e1-380x380-1.png"
+                alt="Caliber E1 Gaming Chair"
+                title="Caliber E1 Gaming Chair"
+                itemprop="image"/>
+        
+    </a>
+    
+    
+</div>
+
+    <div class="tile-body text-center">
+        
+        
+        <a href="/en-global/products/caliber-e1.html" class="tile-link">
+            <span class="tile-link-text text-decoration-none-hover">See More</span>
+        </a>
+    </div>
+    <!-- END_dwmarker -->
+</div>
+
+</div>
+
+            </div>
+        
+            
+            <div class="g-col-6 g-col-sm-6 g-col-md-4">
+                
+
+<div class="product" data-pid="argb-gpu-support-bracket">
+    <div class="product-tile d-flex flex-column justify-content-start align-items-center gap-2">
+    <!-- dwMarker="product" dwContentID="21943088a737280f3a3acac372" -->
+    <div class="pdp-link text-center">
+    <a class="link text-decoration-none-hover font-weight-bold"
+        href="/en-global/products/argb-gpu-support-bracket.html"
+        title="ARGB GPU Support Bracket"
+    >ARGB GPU Support Bracket</a>
+</div>
+
+    <div class="image-container">
+    <a href="/en-global/products/argb-gpu-support-bracket.html">
+        
+            <img class="tile-image"
+                src="/on/demandware.static/-/Sites-cooler-master-main/default/dw0c7fa26f/Assets/argb-gpu-support-bracket/medium/argb-gpu-support-overview-1.png"
+                alt="ARGB GPU Support Bracket"
+                title="ARGB GPU Support Bracket"
+                itemprop="image"/>
+        
+    </a>
+    
+    
+</div>
+
+    <div class="tile-body text-center">
+        
+        
+        <a href="/en-global/products/argb-gpu-support-bracket.html" class="tile-link">
+            <span class="tile-link-text text-decoration-none-hover">See More</span>
+        </a>
+    </div>
+    <!-- END_dwmarker -->
+</div>
+
+</div>
+
+            </div>
+        
+            
+            <div class="g-col-6 g-col-sm-6 g-col-md-4">
+                
+
+<div class="product" data-pid="oracle-air">
+    <div class="product-tile d-flex flex-column justify-content-start align-items-center gap-2">
+    <!-- dwMarker="product" dwContentID="62c0bf9b395c32a363982a950d" -->
+    <div class="pdp-link text-center">
+    <a class="link text-decoration-none-hover font-weight-bold"
+        href="/en-global/products/oracle-air.html"
+        title="Oracle Air"
+    >Oracle Air</a>
+</div>
+
+    <div class="image-container">
+    <a href="/en-global/products/oracle-air.html">
+        
+            <img class="tile-image"
+                src="/on/demandware.static/-/Sites-cooler-master-main/default/dw1e72c792/Assets/oracle-air/medium/oracle-air-380x380-1.png"
+                alt="Oracle Air"
+                title="Oracle Air"
+                itemprop="image"/>
+        
+    </a>
+    
+    
+</div>
+
+    <div class="tile-body text-center">
+        
+        
+        <a href="/en-global/products/oracle-air.html" class="tile-link">
+            <span class="tile-link-text text-decoration-none-hover">See More</span>
+        </a>
+    </div>
+    <!-- END_dwmarker -->
+</div>
+
+</div>
+
+            </div>
+        
+    </div>
+</div>
+</div><div class="experience-component experience-commerce_assets-cmMainBanner">
+
+
+
+
+<div id="cm-main-banner-ea693755f38d1d5b1c568e3ee4"
+    class="cm-main-banner
+    cm-main-banner--content-left
+    cm-main-banner--mobile-align-overlay-text-top-bottom
+    ">
+    <figure class="cm-main-banner__figure">
+        
+            <picture class="cm-main-banner__picture">
+                
+                    <source srcset="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwe0714a92/banner-12-sm.jpg?q=90" media="(max-width: 768px)"/>
+                    <source srcset="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dw5dee6f2a/banner-12-lg.jpg?q=90" media="(min-width: 769px)"/>
+                
+                <img class="cm-main-banner__image img-fluid w-100"
+                    src="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwe0714a92/banner-12-sm.jpg?q=90"
+                    fetchpriority="high"
+                    style="--focal-point-x:50%; --focal-point-y:50%"
+                    alt=""
+                />
+            </picture>
+        
+        <figcaption class="cm-main-banner__content">
+            
+            
+                <h2 class="cm-main-banner__title">
+                    Register Your  Cooler Master Product
+                </h2>
+            
+            
+
+            
+            
+            
+            <div class="cm-main-banner__actions d-flex gap-2 align-items-center justify-content-center ">
+                
+                    
+                    <a class="cm-main-banner__btn btn btn-outline-white btn-md px-4 rounded-pill"
+                        href="https://account.coolermaster.com/"
+                        target="_blank"
+                        rel="noreferrer"
+                        >
+                        Register
+                    </a>
+                
+                
+            </div>
+        </figcaption>
+    </figure>
+</div>
+</div><div class="experience-component experience-commerce_assets-cmMainBanner">
+
+
+
+
+<div id="cm-main-banner-f1fece8644653b398271feacce"
+    class="cm-main-banner
+    cm-main-banner--content-left
+    cm-main-banner--mobile-align-overlay-text-centered
+    ">
+    <figure class="cm-main-banner__figure">
+        
+            <picture class="cm-main-banner__picture">
+                
+                    <source srcset="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwb611be44/banner-13-sm.jpg?q=90" media="(max-width: 768px)"/>
+                    <source srcset="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwf6c76938/banner-13-lg.jpg?q=90" media="(min-width: 769px)"/>
+                
+                <img class="cm-main-banner__image img-fluid w-100"
+                    src="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwb611be44/banner-13-sm.jpg?q=90"
+                    fetchpriority="high"
+                    style="--focal-point-x:50%; --focal-point-y:50%"
+                    alt=""
+                />
+            </picture>
+        
+        <figcaption class="cm-main-banner__content">
+            
+            
+                <h2 class="cm-main-banner__title">
+                    Cooler Master ESG
+                </h2>
+            
+            
+                <div class="cm-main-banner__description">
+                    <p>In response to the Paris Agreement, Cooler Master has established group-level greenhouse gas (GHG) reduction targets, decarbonization pathways, and transition strategies. Our science-based targets were officially validated by the Science Based Targets initiative (SBTi). Through continuous decarbonization efforts, we have achieved meaningful progress: in 2024, our absolute GHG emissions were approximately 59% lower than the 2022 base year, demonstrating steady advancement along our science-based reduction pathway.</p>
+                </div>
+            
+
+            
+            
+            
+            <div class="cm-main-banner__actions d-flex gap-2 align-items-center justify-content-center d-none">
+                
+                
+            </div>
+        </figcaption>
+    </figure>
+</div>
+</div><div class="experience-component experience-commerce_layouts-cmMobileOnly"><div class="cm-pd-block cm-mobile-only d-block d-md-none">
+    <div class="region"><div class="experience-component experience-commerce_layouts-cmBannerCarouselBlock">
+
+<div class="banner-carousel" data-child-slick='{&quot;slidesToShow&quot;:1,&quot;slidesToScroll&quot;:1,&quot;arrows&quot;:true,&quot;dots&quot;:true,&quot;centerMode&quot;:true,&quot;autoplay&quot;:false,&quot;autoplaySpeed&quot;:4000,&quot;infinite&quot;:true,&quot;fade&quot;:true,&quot;speed&quot;:500,&quot;responsive&quot;:[{&quot;breakpoint&quot;:600,&quot;settings&quot;:{&quot;dots&quot;:true,&quot;arrows&quot;:false}}]}'>
+    <div class="mainbanner-slider"><div class="experience-component experience-commerce_assets-cmMainBanner">
+
+
+
+
+<div id="cm-main-banner-1ae935bf2f81fd2d8f4bd3e417"
+    class="cm-main-banner
+    cm-main-banner--content-center
+    cm-main-banner--mobile-align-overlay-text-centered
+    ">
+    <figure class="cm-main-banner__figure">
+        
+            <picture class="cm-main-banner__picture">
+                
+                    <source srcset="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwe4dd62ea/page-designer/homepage/news-banner.jpg?q=90" media="(max-width: 768px)"/>
+                    <source srcset="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwe4dd62ea/page-designer/homepage/news-banner.jpg?q=90" media="(min-width: 769px)"/>
+                
+                <img class="cm-main-banner__image img-fluid w-100"
+                    src="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwe4dd62ea/page-designer/homepage/news-banner.jpg?q=90"
+                    fetchpriority="high"
+                    style="--focal-point-x:50%; --focal-point-y:50%"
+                    alt=""
+                />
+            </picture>
+        
+        <figcaption class="cm-main-banner__content">
+            
+                <span class="cm-main-banner__tagline">
+                    Product News
+                </span>
+            
+            
+                <h2 class="cm-main-banner__title">
+                    Cooler Master Brings Next-Generation Cooling to Intel Core Ultra 200S CPUs
+                </h2>
+            
+            
+
+            
+            
+            
+            <div class="cm-main-banner__actions d-flex gap-2 align-items-center justify-content-center ">
+                
+                    
+                    <a class="cm-main-banner__btn btn btn-outline-white btn-md px-4 rounded-pill"
+                        href="https://www.coolermaster.com/en-global/newsroom/cooler-master-unveils-masterhub-a-forward-thinking-stream-kit-positioned.html"
+                        target="_blank"
+                        rel="noreferrer"
+                        >
+                        Read More
+                    </a>
+                
+                
+            </div>
+        </figcaption>
+    </figure>
+</div>
+</div><div class="experience-component experience-commerce_assets-cmMainBanner">
+
+
+
+
+<div id="cm-main-banner-eb908a2c8abe5b7a6630103eaa"
+    class="cm-main-banner
+    cm-main-banner--content-center
+    cm-main-banner--mobile-align-overlay-text-centered
+    ">
+    <figure class="cm-main-banner__figure">
+        
+            <picture class="cm-main-banner__picture">
+                
+                    <source srcset="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwb54a54d2/page-designer/homepage/cropped-news-banner-col-1.jpg?q=90"/>
+                
+                <img class="cm-main-banner__image img-fluid w-100"
+                    src="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwb54a54d2/page-designer/homepage/cropped-news-banner-col-1.jpg?q=90"
+                    fetchpriority="high"
+                    style="--focal-point-x:50%; --focal-point-y:50%"
+                    alt=""
+                />
+            </picture>
+        
+        <figcaption class="cm-main-banner__content">
+            
+                <span class="cm-main-banner__tagline">
+                    Product News
+                </span>
+            
+            
+                <h2 class="cm-main-banner__title">
+                    Cooler Master Brings Next-Generation Cooling to Intel Core Ultra 200S CPUs
+                </h2>
+            
+            
+
+            
+            
+            
+            <div class="cm-main-banner__actions d-flex gap-2 align-items-center justify-content-center ">
+                
+                    
+                    <a class="cm-main-banner__btn btn btn-outline-white btn-md px-4 rounded-pill"
+                        href="https://www.coolermaster.com/en-global/newsroom/cooler-master-announces-products-compatible-with-intel-core-ultra-200s.html"
+                        target="_blank"
+                        rel="noreferrer"
+                        >
+                        Read More
+                    </a>
+                
+                
+            </div>
+        </figcaption>
+    </figure>
+</div>
+</div><div class="experience-component experience-commerce_assets-cmMainBanner">
+
+
+
+
+<div id="cm-main-banner-addce2cb71258b3028f5317bab"
+    class="cm-main-banner
+    cm-main-banner--content-center
+    cm-main-banner--mobile-align-overlay-text-centered
+    ">
+    <figure class="cm-main-banner__figure">
+        
+            <picture class="cm-main-banner__picture">
+                
+                    <source srcset="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwff2c9d3b/page-designer/homepage/cropped-news-banner-col-2.jpg?q=90"/>
+                
+                <img class="cm-main-banner__image img-fluid w-100"
+                    src="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwff2c9d3b/page-designer/homepage/cropped-news-banner-col-2.jpg?q=90"
+                    fetchpriority="high"
+                    style="--focal-point-x:50%; --focal-point-y:50%"
+                    alt=""
+                />
+            </picture>
+        
+        <figcaption class="cm-main-banner__content">
+            
+                <span class="cm-main-banner__tagline">
+                    Product News
+                </span>
+            
+            
+                <h2 class="cm-main-banner__title">
+                    COOLING X: CLOUD SERVER QUALITY ON YOUR DESK
+                </h2>
+            
+            
+
+            
+            
+            
+            <div class="cm-main-banner__actions d-flex gap-2 align-items-center justify-content-center ">
+                
+                    
+                    <a class="cm-main-banner__btn btn btn-outline-white btn-md px-4 rounded-pill"
+                        href="https://www.coolermaster.com/en-global/guide-and-resources/cooling-x-cloud-server-quality-on-your-desk.html"
+                        target="_blank"
+                        rel="noreferrer"
+                        >
+                        Read More
+                    </a>
+                
+                
+            </div>
+        </figcaption>
+    </figure>
+</div>
+</div></div>
+</div></div></div>
+</div>
+</div><div class="experience-component experience-commerce_layouts-cmDesktopOnly"><div class="cm-pd-block cm-desktop-only d-none d-md-block">
+    <div class="region"><div class="experience-component experience-commerce_layouts-cmBlock1Col">
+
+
+
+<div class="cm-pd-block cm-block-1col grid
+    py-0
+    
+    my-3 my-md-4
+    container"
+    style="background-color: none;">
+    <div class="region g-col-12"><div class="experience-component experience-commerce_assets-cmNewsBanner"><div class="cm-news-banner position-relative overflow-hidden">
+    
+        <picture>
+            <source srcset="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dw738b503c/page-designer/homepage/news-banner-lg.jpg?q=90" media="(min-width: 769px)" />
+            <source srcset="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dw738b503c/page-designer/homepage/news-banner-lg.webp?sw=768&amp;sfrm=jpg&amp;q=90" media="(max-width: 768px)" />
+            <img
+                src="/on/demandware.static/Sites-coolermaster-one-Site/-/default/dw9755d40b/images/1x1.gif"
+                data-src="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dw738b503c/page-designer/homepage/news-banner-lg.webp?sw=768&amp;sfrm=jpg&amp;q=90"
+                class="img-fluid w-100 d-block lazyload"
+                style="--focal-point-x:50%; --focal-point-y:50%"
+                alt="ELITE SERIES"
+            />
+        </picture>
+    
+
+    <div class="cm-news-banner__content position-absolute w-100 h-100 d-flex flex-column justify-content-between p-4 p-md-5 text-white" style="top: 0; left: 0;">
+        
+            <div class="cm-news-banner__tagline mb-2">Product News</div>
+        
+        <div class="spacer"></div>
+        
+            <h2 class="cm-news-banner__title mb-2">ELITE SERIES</h2>
+        
+        
+           <a class="cm-split-banner__link d-none d-md-block font-weight-bold text-white"
+                href="#"
+                target="_blank"
+                rel="noreferrer"
+                >
+                Read More
+            </a>
+        
+    </div>
+</div>
+</div></div>
+</div>
+</div><div class="experience-component experience-commerce_layouts-cmBlock2colAll">
+
+
+
+<div class="cm-pd-block cm-block-2col-all grid
+    py-0
+    
+    my-3 my-md-4
+    grid-gap-md
+    container"
+    style="background-color: none;">
+    <div class="region g-col-6"><div class="experience-component experience-commerce_assets-cmNewsBanner"><div class="cm-news-banner position-relative overflow-hidden">
+    
+        <picture>
+            <source srcset="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwdfc14972/page-designer/homepage/news-banner-col-1.jpg?q=90" media="(min-width: 769px)" />
+            <source srcset="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwdfc14972/page-designer/homepage/news-banner-col-1.jpg?q=90" media="(max-width: 768px)" />
+            <img
+                src="/on/demandware.static/Sites-coolermaster-one-Site/-/default/dw9755d40b/images/1x1.gif"
+                data-src="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwdfc14972/page-designer/homepage/news-banner-col-1.jpg?q=90"
+                class="img-fluid w-100 d-block lazyload"
+                style="--focal-point-x:50%; --focal-point-y:50%"
+                alt="Cooler Master Brings Next-Generation Cooling to Intel Core Ultra 200S CPUs"
+            />
+        </picture>
+    
+
+    <div class="cm-news-banner__content position-absolute w-100 h-100 d-flex flex-column justify-content-between p-4 p-md-5 text-white" style="top: 0; left: 0;">
+        
+            <div class="cm-news-banner__tagline mb-2">Product News</div>
+        
+        <div class="spacer"></div>
+        
+            <h2 class="cm-news-banner__title mb-2">Cooler Master Brings Next-Generation Cooling to Intel Core Ultra 200S CPUs</h2>
+        
+        
+           <a class="cm-split-banner__link d-none d-md-block font-weight-bold text-white"
+                href="https://www.coolermaster.com/en-global/newsroom/cooler-master-announces-products-compatible-with-intel-core-ultra-200s.html"
+                target="_blank"
+                rel="noreferrer"
+                >
+                Read More
+            </a>
+        
+    </div>
+</div>
+</div></div>
+    <div class="region g-col-6"><div class="experience-component experience-commerce_assets-cmNewsBanner"><div class="cm-news-banner position-relative overflow-hidden">
+    
+        <picture>
+            <source srcset="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwbf9a1a40/page-designer/homepage/news-banner-col-2.jpg?q=90" media="(min-width: 769px)" />
+            <source srcset="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwbf9a1a40/page-designer/homepage/news-banner-col-2.jpg?q=90" media="(max-width: 768px)" />
+            <img
+                src="/on/demandware.static/Sites-coolermaster-one-Site/-/default/dw9755d40b/images/1x1.gif"
+                data-src="https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Library-Sites-coolermaster-global/default/dwbf9a1a40/page-designer/homepage/news-banner-col-2.jpg?q=90"
+                class="img-fluid w-100 d-block lazyload"
+                style="--focal-point-x:50%; --focal-point-y:50%"
+                alt="COOLING X: CLOUD SERVER QUALITY ON YOUR DESK"
+            />
+        </picture>
+    
+
+    <div class="cm-news-banner__content position-absolute w-100 h-100 d-flex flex-column justify-content-between p-4 p-md-5 text-white" style="top: 0; left: 0;">
+        
+            <div class="cm-news-banner__tagline mb-2">Product News</div>
+        
+        <div class="spacer"></div>
+        
+            <h2 class="cm-news-banner__title mb-2">COOLING X: CLOUD SERVER QUALITY ON YOUR DESK</h2>
+        
+        
+           <a class="cm-split-banner__link d-none d-md-block font-weight-bold text-white"
+                href="https://www.coolermaster.com/en-global/guide-and-resources/cooling-x-cloud-server-quality-on-your-desk.html"
+                target="_blank"
+                rel="noreferrer"
+                >
+                Read More
+            </a>
+        
+    </div>
+</div>
+</div></div>
+</div>
+</div></div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+
+<div class="footer-page" id="footer-page"
+    style="--footer-background-color: #000000;
+        --footer-text-color: #FFFFFF">
+    <div class="container grid gap-0 d-none d-md-grid">
+        
+            <div class="footer-top g-col-12"><div class="experience-component experience-commerce_assets-cmInlineHTML"><div class="inline-html-component">
+    
+        <svg width="91" height="73" viewBox="0 0 53 45" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M3.16691 16.7419C3.08708 13.6516 4.06331 10.7561 6.51521 10.161C8.1143 9.77323 9.70627 11.2511 10.0472 13.4527L7.81614 13.9007C7.65721 13.0512 7.20606 12.5128 6.54756 12.7119C5.52618 13.0207 5.16136 14.5261 5.19688 16.4085C5.23189 18.2652 5.63717 19.4838 6.63682 19.4075C7.29336 19.3573 7.89815 18.621 8.00464 17.6046C8.00464 17.6046 9.75022 17.4493 10.1466 17.4111C10.1466 19.7088 8.55301 21.804 6.66687 21.804C4.56096 21.804 3.24529 19.7477 3.16691 16.7419ZM18.624 14.0148C18.4397 9.5332 19.4567 5.36048 22.0842 4.28058C24.8208 3.15603 26.7798 7.23144 26.8628 12.3772C26.9626 18.6317 25.219 21.804 22.6044 21.804C20.2646 21.804 18.8122 18.598 18.624 14.0148ZM21.2228 13.7236C21.3085 16.4626 21.806 18.4616 22.6397 18.3741C23.5616 18.276 24.0489 15.8696 23.9742 12.7183C23.8975 9.48271 23.2874 7.39849 22.3516 7.99414C21.6885 8.41608 21.1255 10.6098 21.2228 13.7236ZM10.5464 15.2584C10.4194 11.3623 11.5402 8.0938 13.689 7.31743C16.09 6.44818 17.8307 9.73422 17.9052 13.96C17.9895 18.7766 16.6398 21.8036 14.0622 21.8036C11.9541 21.8036 10.6722 19.0935 10.5464 15.2584ZM12.7676 14.838C12.8318 17.2024 13.3103 18.938 14.1159 18.8651C14.9733 18.7875 15.4846 16.8237 15.4298 14.2628C15.3737 11.6525 14.7727 9.87512 13.9048 10.1836C13.323 10.3907 12.6959 12.1596 12.7676 14.838ZM30.8865 4.51568L27.9288 3.44605V21.6169H34.673V18.3499L30.8865 18.0534V4.51568ZM48.1133 17.3628L49.4114 21.6169H47.3175L46.1606 17.5936L45.3344 17.491V21.6169H42.8757V8.78974L46.8163 10.2169C48.4065 10.7923 49.339 12.6019 49.339 14.5284C49.339 16.2977 48.6936 17.092 48.1133 17.3628ZM47.4361 14.0969C47.4361 13.2793 47.0477 12.6838 46.4922 12.5252L45.3344 12.1944V14.9763L46.4922 15.2093C47.0477 15.3208 47.4361 14.915 47.4361 14.0969ZM27.9288 26.749L29.9873 26.6011L29.989 40.4203L32.8046 39.4093V26.3847L34.6534 26.2209V22.9674H27.9288L27.9288 26.749ZM35.5149 38.4366L42.0195 36.1012V33.3839L38.2006 34.4649V31.6099L41.5664 30.8874V28.1162L38.2006 28.5843V25.9939L42.0195 25.7051V22.9674H35.5149V38.4366ZM48.1258 29.6784L49.4114 33.4503L47.3088 34.2048L46.1654 30.6156L45.3377 30.8106V34.9115L42.8757 35.7947V22.9674H46.8245C48.4202 22.9674 49.3576 24.4477 49.3576 26.3845C49.3576 28.1635 48.7089 29.1964 48.1258 29.6784ZM47.4452 26.6409C47.4452 25.8188 47.0559 25.3621 46.4985 25.4044L45.3377 25.4923V28.2855L46.4985 28.1003C47.0559 28.0115 47.4452 27.4628 47.4452 26.6409ZM16.2912 22.9674L19.0768 38.9856L16.4846 38.0115L16.1395 35.602L13.8051 34.8858L13.5069 36.9143L11.3715 36.1212L13.5994 22.9674H16.2912ZM15.7308 32.4767L14.9041 27.057L14.1409 32.087L15.7308 32.4767ZM6.76023 28.375L5.78267 22.9674H3.39405V33.15L5.06258 33.7784V27.3403L6.32814 34.246L7.04667 34.5148L8.67692 27.9134V35.1234L10.8658 35.9416V22.9674H8.02747L6.76023 28.375ZM52.6992 17.3584V28.26C52.6992 33.7636 51.9235 35.3677 47.2399 37.566C45.6145 38.3236 43.1595 39.6367 36.8873 42.195C34.126 43.3225 29.9731 44.8295 26.3448 44.8295C22.735 44.8295 18.5832 43.3225 15.8123 42.195C9.54806 39.6367 7.09351 38.3236 5.46919 37.566C0.78542 35.3677 0 33.7636 0 28.26V17.3584C0 11.4268 1.31737 9.07339 5.9294 6.79764C6.87664 6.33133 7.96866 5.74754 13.9441 3.38425C20.7941 0.671612 24.224 -6.67572e-06 26.3448 -6.67572e-06C28.4752 -6.67572e-06 31.9047 0.671612 38.7639 3.38425C44.7395 5.74754 45.8314 6.33133 46.7791 6.79764C51.3912 9.07339 52.6992 11.4268 52.6992 17.3584ZM51.2284 16.6292C51.2284 11.2229 48.9723 9.40309 45.7413 7.9547C44.6038 7.43974 44.1338 7.10914 38.4033 4.82326C33.6922 2.93758 29.378 1.52773 26.3448 1.52773C23.3303 1.52773 19.0164 2.93758 14.2957 4.82326C8.57426 7.10914 8.10439 7.43974 6.9585 7.9547C3.73581 9.40309 1.4799 11.2229 1.4799 16.6292V28.6778C1.4799 32.8586 2.3734 34.454 5.57739 35.9999C8.25715 37.2837 8.52875 37.4202 14.0706 39.7634C17.572 41.2414 22.2382 43.1962 26.3448 43.1962C30.4701 43.1962 35.1271 41.2414 38.6291 39.7634C44.1794 37.4202 44.4506 37.2837 47.1305 35.9999C50.3348 34.454 51.2284 32.8586 51.2284 28.6778V16.6292ZM21.8467 27.7889C21.8043 26.8811 22.417 26.2641 23.019 26.3332C23.4648 26.3911 24.0474 26.9035 23.9668 28.1392L26.9043 28.4488C27.0605 25.2512 25.809 22.8449 23.1166 22.7953C21.0297 22.7662 19.0141 24.7019 19.078 27.6191C19.1827 32.8445 24.4707 32.0114 24.5083 36.3482C24.5127 36.9985 24.1752 37.6573 23.5551 37.5902C22.7742 37.4303 22.1868 36.8468 22.1344 35.0605L19.3863 34.3346C19.3588 37.0654 20.2737 39.9503 22.9562 40.576C25.5629 41.1922 27.9535 38.9246 27.3875 35.0259C26.7222 30.4921 21.9665 30.2208 21.8467 27.7889ZM35.5169 21.6169H42.0195V18.8756L38.2006 18.596V15.7983L41.3691 16.258V13.4748L38.2006 12.7744V10.1518L42.0195 11.2437V8.47385L35.5149 6.14803L35.5169 21.6169Z" fill="currentColor"/>
+</svg>
+
+    
+</div>
+</div></div>
+        
+
+        
+            <div class="footer-columns g-col-12 g-col-md-8 g-col-lg-9 d-grid"><div class="experience-component experience-commerce_layouts-footerColumn"><div class="footer-column">
+    
+        <h3 class="footer-column-title mb-3">
+            
+                About Us
+            
+        </h3>
+    
+    
+        <div class="footer-column-links d-flex flex-column gap-1"><div class="experience-component experience-commerce_assets-textLink">
+    
+    <a href="https://www.coolermaster.com/en-global/social-media.html" 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        class="text-link"
+        >Social Media</a>
+
+
+</div><div class="experience-component experience-commerce_assets-textLink">
+    
+    <a href="https://www.coolermaster.com/en-global/newsroom.html" 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        class="text-link"
+        >News</a>
+
+
+</div><div class="experience-component experience-commerce_assets-textLink">
+    
+    <a href="https://www.coolermaster.com/en-global/events.html" 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        class="text-link"
+        >Events</a>
+
+
+</div></div>
+    
+</div>
+
+</div><div class="experience-component experience-commerce_layouts-footerColumn"><div class="footer-column">
+    
+        <h3 class="footer-column-title mb-3">
+            
+                Support
+            
+        </h3>
+    
+    
+        <div class="footer-column-links d-flex flex-column gap-1"><div class="experience-component experience-commerce_assets-textLink">
+    
+    <a href="https://account.coolermaster.com/" 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        class="text-link"
+        >Product Registration</a>
+
+
+</div><div class="experience-component experience-commerce_assets-textLink">
+    
+    <a href="https://account.coolermaster.com/" 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        class="text-link"
+        >Warranty</a>
+
+
+</div><div class="experience-component experience-commerce_assets-textLink">
+    
+    <a href="https://www.coolermaster.com/en-global/faq.html" 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        class="text-link"
+        >FAQ</a>
+
+
+</div><div class="experience-component experience-commerce_assets-textLink">
+    
+    <a href="https://www.coolermaster.com/en-global/contact-us.html" 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        class="text-link"
+        >Contact Us</a>
+
+
+</div></div>
+    
+</div>
+
+</div><div class="experience-component experience-commerce_layouts-footerColumn"><div class="footer-column">
+    
+        <h3 class="footer-column-title mb-3">
+            
+                
+                <a href="https://www.coolermaster.com/en-global/join-us.html" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    >Join Us</a>
+            
+        </h3>
+    
+    
+        <div class="footer-column-links d-flex flex-column gap-1"><div class="experience-component experience-commerce_assets-textLink">
+    
+    <a href="https://www.coolermaster.com/en-global/join-us.html" 
+        target="_self" 
+        rel="noopener noreferrer" 
+        class="text-link"
+        >Careers</a>
+
+
+</div><div class="experience-component experience-commerce_assets-textLink">
+    
+    <a href="https://www.coolermaster.com/en-global/join-us.html" 
+        target="_self" 
+        rel="noopener noreferrer" 
+        class="text-link"
+        >China Recruitment</a>
+
+
+</div><div class="experience-component experience-commerce_assets-textLink">
+    
+    <a href="https://www.coolermaster.com/en-global/join-us.html" 
+        target="_self" 
+        rel="noopener noreferrer" 
+        class="text-link"
+        >Other Regions</a>
+
+
+</div></div>
+    
+</div>
+
+</div><div class="experience-component experience-commerce_layouts-footerColumn"><div class="footer-column">
+    
+        <h3 class="footer-column-title mb-3">
+            
+                
+                <a href="https://linkto.cm/resource-center/" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    >Resource Center</a>
+            
+        </h3>
+    
+    
+        <div class="footer-column-links d-flex flex-column gap-1"><div class="experience-component experience-commerce_assets-textLink">
+    
+    <a href="https://coolermaster.egnyte.com/fl/OYcvQAhUC2/" 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        class="text-link"
+        >Gated Content</a>
+
+
+</div></div>
+    
+</div>
+
+</div></div>
+        
+
+        
+            <div class="footer-about g-col-12 g-col-md-4 g-col-lg-3 px-5"><div class="experience-component experience-commerce_assets-editorialRichText"><div class="editorialRichText-component-container rich-text-content">
+    <p><strong>Global Headquarters</strong></p><p>No. 398, Xinhu 1st Rd, Neihu District, Taipei City, 114, Taiwan</p>
+</div>
+</div><div class="experience-component experience-commerce_assets-socialLinks">
+
+
+    <div class="social-links d-flex gap-3 mt-3">
+        
+            <a href="https://www.facebook.com/coolermaster" target="_blank" rel="noopener noreferrer" class="social-link social-link-facebook" aria-label="facebook">
+                <svg width="25" height="27" viewBox="0 0 25 27" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M17.156 26.365V16.155h3.25l.486-3.978h-3.738V9.636c0-1.152.304-1.938 1.871-1.938h1.998V4.139A33.44 33.44 0 0 0 18.111 3.981C15.231 3.981 13.26 5.836 13.26 9.241v2.936H10v3.978h3.259v10.21H1.38C.618 26.365 0 25.713 0 24.909V1.455C0 .651.618 0 1.38 0h22.24C24.383 0 25 .651 25 1.455v23.454c0 .804-.617 1.456-1.38 1.456H17.156z" fill="currentColor"/></svg>
+                <span class="social-link-label sr-only">facebook</span>
+            </a>
+        
+            <a href="https://www.youtube.com/coolermasteronline?sub_confirmation=1" target="_blank" rel="noopener noreferrer" class="social-link social-link-youtube" aria-label="youtube">
+                <svg width="31" height="27" viewBox="0 0 31 27" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M23.955 0c.925 0 1.841.19 2.696.557a6.3 6.3 0 0 1 2.286 1.588 6.305 6.305 0 0 1 1.527 2.376A6.37 6.37 0 0 1 31 7.324v11.717c0 .962-.182 1.914-.536 2.803a6.304 6.304 0 0 1-1.527 2.376 6.317 6.317 0 0 1-2.286 1.588c-.855.368-1.77.558-2.696.558H7.045c-.925 0-1.841-.19-2.696-.558a6.293 6.293 0 0 1-2.286-1.588C.742 22.846 0 20.984 0 19.041V7.324C0 5.381.742 3.518 2.064 2.145A6.305 6.305 0 0 1 7.045 0h16.91zM11.273 8.788v8.788a1.56 1.56 0 0 0 .192.674 1.27 1.27 0 0 0 .523.599 1.37 1.37 0 0 0 1.487.02l7.045-4.394A1.34 1.34 0 0 0 21.135 13.182a1.34 1.34 0 0 0-.183-.721 1.34 1.34 0 0 0-.5-.545l-7.045-4.394a1.369 1.369 0 0 0-1.588.19 1.264 1.264 0 0 0-.519.537 1.55 1.55 0 0 0-.027 1.539z" fill="currentColor"/></svg>
+                <span class="social-link-label sr-only">youtube</span>
+            </a>
+        
+            <a href="https://www.instagram.com/coolermaster/" target="_blank" rel="noopener noreferrer" class="social-link social-link-instagram" aria-label="instagram">
+                <svg width="25" height="27" viewBox="0 0 25 27" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M5.358 0C3.937 0 2.575.595 1.57 1.654.565 2.713.001 4.15 0 5.648v15.067c0 1.498.564 2.935 1.569 3.995 1.005 1.06 2.368 1.655 3.789 1.655h14.287c1.42 0 2.782-.595 3.787-1.655C24.436 23.65 25 22.213 25 20.715V5.648c0-1.498-.564-2.934-1.569-3.994C22.427.596 21.065 0 19.645 0H5.358zM21.186 5.657a1.643 1.643 0 0 1-.452 1.151 1.627 1.627 0 0 1-2.182 0 1.645 1.645 0 0 1 0-2.302 1.627 1.627 0 0 1 2.182 0 1.644 1.644 0 0 1 .452 1.151zm-8.683 3.012a4.53 4.53 0 1 0 0 9.062 4.53 4.53 0 0 0 0-9.062zm-6.34 4.511a6.01 6.01 0 1 1 12.018 0 6.01 6.01 0 0 1-12.018 0z" fill="currentColor"/></svg>
+                <span class="social-link-label sr-only">instagram</span>
+            </a>
+        
+            <a href="https://x.com/coolermaster/" target="_blank" rel="noopener noreferrer" class="social-link social-link-x" aria-label="x">
+                <svg width="24" height="27" viewBox="0 0 24 27" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14.283 11.163L23.217 0h-2.118l-7.755 9.693L7.147 0H0l9.37 14.659L0 26.365h2.117l8.191-10.237 6.545 10.237H24l-9.718-15.201zM11.383 14.787l-.95-1.46-7.554-11.614h3.252l6.095 9.373 0 0 0 0 0 0 0 0 .949 1.46 7.925 12.184h-3.252L11.383 14.787z" fill="currentColor"/></svg>
+                <span class="social-link-label sr-only">x</span>
+            </a>
+        
+            <a href="https://www.tiktok.com/@coolermasterglobal/" target="_blank" rel="noopener noreferrer" class="social-link social-link-tiktok" aria-label="tiktok">
+                <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M22.905 0H3.095C2.275 0 .327 1.488.327 3.095V22.905C0 24.613 1.388 26 3.095 26h19.81c.82 0 1.607-.326 2.187-.907.581-.58.907-1.367.908-2.187V3.095c0-.821-.326-1.608-.907-2.188A3.09 3.09 0 0 0 22.905 0zm-2.473 11.343c-.911.089-1.827-.098-2.631-.536-.678-.365-1.254-.894-1.675-1.539v7.141c0 1.044-.309 2.064-.889 2.932a4.36 4.36 0 0 1-2.369 1.943 4.37 4.37 0 0 1-3.05-.201 4.42 4.42 0 0 1-2.702-2.445 4.42 4.42 0 0 1-.447-3.05c.4-.964 1.077-1.788 1.945-2.368.868-.58 1.888-.889 2.932-.889.11 0 .217.01.326.017v2.601c-.109-.013-.215-.033-.326-.033a2.576 2.576 0 0 0-1.905.789 2.644 2.644 0 0 0 0 3.74 2.644 2.644 0 0 0 1.905.789c1.488 0 2.803-1.172 2.803-2.659l.026-12.131h2.489c.114 1.081.604 2.088 1.384 2.844.78.757 1.801 1.215 2.885 1.295v2.892z" fill="currentColor"/></svg>
+                <span class="social-link-label sr-only">tiktok</span>
+            </a>
+        
+    </div>
+
+</div></div>
+        
+
+        
+            <div class="footer-copyright g-col-12"><div class="experience-component experience-commerce_layouts-footerCopyright"><div class="grid grid-gap-sm">
+    
+        <div class="footer-copyright-links g-col-12 g-col-xl-9 order-xl-last">
+            <div class="region"><div class="experience-component experience-commerce_assets-textLink">
+    
+    <a href="https://www.coolermaster.com/en-global/terms-of-use.html" 
+        target="_self" 
+        rel="noopener noreferrer" 
+        class="text-link"
+        >Terms of Use</a>
+
+
+</div><div class="experience-component experience-commerce_assets-textLink">
+    
+    <a href="https://www.coolermaster.com/en-global/privacy-policy.html" 
+        target="_self" 
+        rel="noopener noreferrer" 
+        class="text-link"
+        >Privacy Policy</a>
+
+
+</div><div class="experience-component experience-commerce_assets-textLink">
+    
+    <a href="https://www.coolermaster.com/en-global/cookie-policy.html" 
+        target="_self" 
+        rel="noopener noreferrer" 
+        class="text-link"
+        >Cookie Policy</a>
+
+
+</div><div class="experience-component experience-commerce_assets-textLink">
+    
+    <a href="https://www.coolermaster.com/en-global/terms-of-sale.html" 
+        target="_self" 
+        rel="noopener noreferrer" 
+        class="text-link"
+        >General terms and Conditions</a>
+
+
+</div><div class="experience-component experience-commerce_assets-textLink">
+    
+    <a href="https://www.coolermaster.com/en-global/conformity-of-products.html" 
+        target="_self" 
+        rel="noopener noreferrer" 
+        class="text-link"
+        >Conformity of products</a>
+
+
+</div></div>
+        </div>
+    
+    
+        <div class="footer-copyright-text g-col-12 g-col-xl-3 order-xl-first">Copyright 2026 &copy;&nbsp;Cooler Master</div>
+    
+</div></div></div>
+        
+    </div>
+
+    
+        <div class="footer-mobile-footer px-5 pt-4 pb-5 d-md-none text-center"><div class="experience-component experience-commerce_assets-cmInlineHTML"><div class="inline-html-component">
+    
+        <svg width="91" height="73" viewBox="0 0 53 45" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M3.16691 16.7419C3.08708 13.6516 4.06331 10.7561 6.51521 10.161C8.1143 9.77323 9.70627 11.2511 10.0472 13.4527L7.81614 13.9007C7.65721 13.0512 7.20606 12.5128 6.54756 12.7119C5.52618 13.0207 5.16136 14.5261 5.19688 16.4085C5.23189 18.2652 5.63717 19.4838 6.63682 19.4075C7.29336 19.3573 7.89815 18.621 8.00464 17.6046C8.00464 17.6046 9.75022 17.4493 10.1466 17.4111C10.1466 19.7088 8.55301 21.804 6.66687 21.804C4.56096 21.804 3.24529 19.7477 3.16691 16.7419ZM18.624 14.0148C18.4397 9.5332 19.4567 5.36048 22.0842 4.28058C24.8208 3.15603 26.7798 7.23144 26.8628 12.3772C26.9626 18.6317 25.219 21.804 22.6044 21.804C20.2646 21.804 18.8122 18.598 18.624 14.0148ZM21.2228 13.7236C21.3085 16.4626 21.806 18.4616 22.6397 18.3741C23.5616 18.276 24.0489 15.8696 23.9742 12.7183C23.8975 9.48271 23.2874 7.39849 22.3516 7.99414C21.6885 8.41608 21.1255 10.6098 21.2228 13.7236ZM10.5464 15.2584C10.4194 11.3623 11.5402 8.0938 13.689 7.31743C16.09 6.44818 17.8307 9.73422 17.9052 13.96C17.9895 18.7766 16.6398 21.8036 14.0622 21.8036C11.9541 21.8036 10.6722 19.0935 10.5464 15.2584ZM12.7676 14.838C12.8318 17.2024 13.3103 18.938 14.1159 18.8651C14.9733 18.7875 15.4846 16.8237 15.4298 14.2628C15.3737 11.6525 14.7727 9.87512 13.9048 10.1836C13.323 10.3907 12.6959 12.1596 12.7676 14.838ZM30.8865 4.51568L27.9288 3.44605V21.6169H34.673V18.3499L30.8865 18.0534V4.51568ZM48.1133 17.3628L49.4114 21.6169H47.3175L46.1606 17.5936L45.3344 17.491V21.6169H42.8757V8.78974L46.8163 10.2169C48.4065 10.7923 49.339 12.6019 49.339 14.5284C49.339 16.2977 48.6936 17.092 48.1133 17.3628ZM47.4361 14.0969C47.4361 13.2793 47.0477 12.6838 46.4922 12.5252L45.3344 12.1944V14.9763L46.4922 15.2093C47.0477 15.3208 47.4361 14.915 47.4361 14.0969ZM27.9288 26.749L29.9873 26.6011L29.989 40.4203L32.8046 39.4093V26.3847L34.6534 26.2209V22.9674H27.9288L27.9288 26.749ZM35.5149 38.4366L42.0195 36.1012V33.3839L38.2006 34.4649V31.6099L41.5664 30.8874V28.1162L38.2006 28.5843V25.9939L42.0195 25.7051V22.9674H35.5149V38.4366ZM48.1258 29.6784L49.4114 33.4503L47.3088 34.2048L46.1654 30.6156L45.3377 30.8106V34.9115L42.8757 35.7947V22.9674H46.8245C48.4202 22.9674 49.3576 24.4477 49.3576 26.3845C49.3576 28.1635 48.7089 29.1964 48.1258 29.6784ZM47.4452 26.6409C47.4452 25.8188 47.0559 25.3621 46.4985 25.4044L45.3377 25.4923V28.2855L46.4985 28.1003C47.0559 28.0115 47.4452 27.4628 47.4452 26.6409ZM16.2912 22.9674L19.0768 38.9856L16.4846 38.0115L16.1395 35.602L13.8051 34.8858L13.5069 36.9143L11.3715 36.1212L13.5994 22.9674H16.2912ZM15.7308 32.4767L14.9041 27.057L14.1409 32.087L15.7308 32.4767ZM6.76023 28.375L5.78267 22.9674H3.39405V33.15L5.06258 33.7784V27.3403L6.32814 34.246L7.04667 34.5148L8.67692 27.9134V35.1234L10.8658 35.9416V22.9674H8.02747L6.76023 28.375ZM52.6992 17.3584V28.26C52.6992 33.7636 51.9235 35.3677 47.2399 37.566C45.6145 38.3236 43.1595 39.6367 36.8873 42.195C34.126 43.3225 29.9731 44.8295 26.3448 44.8295C22.735 44.8295 18.5832 43.3225 15.8123 42.195C9.54806 39.6367 7.09351 38.3236 5.46919 37.566C0.78542 35.3677 0 33.7636 0 28.26V17.3584C0 11.4268 1.31737 9.07339 5.9294 6.79764C6.87664 6.33133 7.96866 5.74754 13.9441 3.38425C20.7941 0.671612 24.224 -6.67572e-06 26.3448 -6.67572e-06C28.4752 -6.67572e-06 31.9047 0.671612 38.7639 3.38425C44.7395 5.74754 45.8314 6.33133 46.7791 6.79764C51.3912 9.07339 52.6992 11.4268 52.6992 17.3584ZM51.2284 16.6292C51.2284 11.2229 48.9723 9.40309 45.7413 7.9547C44.6038 7.43974 44.1338 7.10914 38.4033 4.82326C33.6922 2.93758 29.378 1.52773 26.3448 1.52773C23.3303 1.52773 19.0164 2.93758 14.2957 4.82326C8.57426 7.10914 8.10439 7.43974 6.9585 7.9547C3.73581 9.40309 1.4799 11.2229 1.4799 16.6292V28.6778C1.4799 32.8586 2.3734 34.454 5.57739 35.9999C8.25715 37.2837 8.52875 37.4202 14.0706 39.7634C17.572 41.2414 22.2382 43.1962 26.3448 43.1962C30.4701 43.1962 35.1271 41.2414 38.6291 39.7634C44.1794 37.4202 44.4506 37.2837 47.1305 35.9999C50.3348 34.454 51.2284 32.8586 51.2284 28.6778V16.6292ZM21.8467 27.7889C21.8043 26.8811 22.417 26.2641 23.019 26.3332C23.4648 26.3911 24.0474 26.9035 23.9668 28.1392L26.9043 28.4488C27.0605 25.2512 25.809 22.8449 23.1166 22.7953C21.0297 22.7662 19.0141 24.7019 19.078 27.6191C19.1827 32.8445 24.4707 32.0114 24.5083 36.3482C24.5127 36.9985 24.1752 37.6573 23.5551 37.5902C22.7742 37.4303 22.1868 36.8468 22.1344 35.0605L19.3863 34.3346C19.3588 37.0654 20.2737 39.9503 22.9562 40.576C25.5629 41.1922 27.9535 38.9246 27.3875 35.0259C26.7222 30.4921 21.9665 30.2208 21.8467 27.7889ZM35.5169 21.6169H42.0195V18.8756L38.2006 18.596V15.7983L41.3691 16.258V13.4748L38.2006 12.7744V10.1518L42.0195 11.2437V8.47385L35.5149 6.14803L35.5169 21.6169Z" fill="currentColor"/>
+</svg>
+
+    
+</div>
+</div><div class="experience-component experience-commerce_assets-editorialRichText"><div class="editorialRichText-component-container rich-text-content">
+    <p><br></p><p><strong><span class="ql-cursor">﻿</span>Global headquarters</strong></p><p>No. 398, Xinhu 1st Rd, Neihu District, Taipei City, 114, Taiwan</p>
+</div>
+</div><div class="experience-component experience-commerce_assets-socialLinks">
+
+
+    <div class="social-links d-flex gap-3 mt-3">
+        
+            <a href="https://www.facebook.com/coolermaster" target="_blank" rel="noopener noreferrer" class="social-link social-link-facebook" aria-label="facebook">
+                <svg width="25" height="27" viewBox="0 0 25 27" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M17.156 26.365V16.155h3.25l.486-3.978h-3.738V9.636c0-1.152.304-1.938 1.871-1.938h1.998V4.139A33.44 33.44 0 0 0 18.111 3.981C15.231 3.981 13.26 5.836 13.26 9.241v2.936H10v3.978h3.259v10.21H1.38C.618 26.365 0 25.713 0 24.909V1.455C0 .651.618 0 1.38 0h22.24C24.383 0 25 .651 25 1.455v23.454c0 .804-.617 1.456-1.38 1.456H17.156z" fill="currentColor"/></svg>
+                <span class="social-link-label sr-only">facebook</span>
+            </a>
+        
+            <a href="https://www.youtube.com/coolermasteronline?sub_confirmation=1" target="_blank" rel="noopener noreferrer" class="social-link social-link-youtube" aria-label="youtube">
+                <svg width="31" height="27" viewBox="0 0 31 27" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M23.955 0c.925 0 1.841.19 2.696.557a6.3 6.3 0 0 1 2.286 1.588 6.305 6.305 0 0 1 1.527 2.376A6.37 6.37 0 0 1 31 7.324v11.717c0 .962-.182 1.914-.536 2.803a6.304 6.304 0 0 1-1.527 2.376 6.317 6.317 0 0 1-2.286 1.588c-.855.368-1.77.558-2.696.558H7.045c-.925 0-1.841-.19-2.696-.558a6.293 6.293 0 0 1-2.286-1.588C.742 22.846 0 20.984 0 19.041V7.324C0 5.381.742 3.518 2.064 2.145A6.305 6.305 0 0 1 7.045 0h16.91zM11.273 8.788v8.788a1.56 1.56 0 0 0 .192.674 1.27 1.27 0 0 0 .523.599 1.37 1.37 0 0 0 1.487.02l7.045-4.394A1.34 1.34 0 0 0 21.135 13.182a1.34 1.34 0 0 0-.183-.721 1.34 1.34 0 0 0-.5-.545l-7.045-4.394a1.369 1.369 0 0 0-1.588.19 1.264 1.264 0 0 0-.519.537 1.55 1.55 0 0 0-.027 1.539z" fill="currentColor"/></svg>
+                <span class="social-link-label sr-only">youtube</span>
+            </a>
+        
+            <a href="https://www.instagram.com/coolermaster/" target="_blank" rel="noopener noreferrer" class="social-link social-link-instagram" aria-label="instagram">
+                <svg width="25" height="27" viewBox="0 0 25 27" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M5.358 0C3.937 0 2.575.595 1.57 1.654.565 2.713.001 4.15 0 5.648v15.067c0 1.498.564 2.935 1.569 3.995 1.005 1.06 2.368 1.655 3.789 1.655h14.287c1.42 0 2.782-.595 3.787-1.655C24.436 23.65 25 22.213 25 20.715V5.648c0-1.498-.564-2.934-1.569-3.994C22.427.596 21.065 0 19.645 0H5.358zM21.186 5.657a1.643 1.643 0 0 1-.452 1.151 1.627 1.627 0 0 1-2.182 0 1.645 1.645 0 0 1 0-2.302 1.627 1.627 0 0 1 2.182 0 1.644 1.644 0 0 1 .452 1.151zm-8.683 3.012a4.53 4.53 0 1 0 0 9.062 4.53 4.53 0 0 0 0-9.062zm-6.34 4.511a6.01 6.01 0 1 1 12.018 0 6.01 6.01 0 0 1-12.018 0z" fill="currentColor"/></svg>
+                <span class="social-link-label sr-only">instagram</span>
+            </a>
+        
+            <a href="https://x.com/coolermaster/" target="_blank" rel="noopener noreferrer" class="social-link social-link-x" aria-label="x">
+                <svg width="24" height="27" viewBox="0 0 24 27" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14.283 11.163L23.217 0h-2.118l-7.755 9.693L7.147 0H0l9.37 14.659L0 26.365h2.117l8.191-10.237 6.545 10.237H24l-9.718-15.201zM11.383 14.787l-.95-1.46-7.554-11.614h3.252l6.095 9.373 0 0 0 0 0 0 0 0 .949 1.46 7.925 12.184h-3.252L11.383 14.787z" fill="currentColor"/></svg>
+                <span class="social-link-label sr-only">x</span>
+            </a>
+        
+            <a href="https://www.tiktok.com/@coolermasterglobal/" target="_blank" rel="noopener noreferrer" class="social-link social-link-tiktok" aria-label="tiktok">
+                <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M22.905 0H3.095C2.275 0 .327 1.488.327 3.095V22.905C0 24.613 1.388 26 3.095 26h19.81c.82 0 1.607-.326 2.187-.907.581-.58.907-1.367.908-2.187V3.095c0-.821-.326-1.608-.907-2.188A3.09 3.09 0 0 0 22.905 0zm-2.473 11.343c-.911.089-1.827-.098-2.631-.536-.678-.365-1.254-.894-1.675-1.539v7.141c0 1.044-.309 2.064-.889 2.932a4.36 4.36 0 0 1-2.369 1.943 4.37 4.37 0 0 1-3.05-.201 4.42 4.42 0 0 1-2.702-2.445 4.42 4.42 0 0 1-.447-3.05c.4-.964 1.077-1.788 1.945-2.368.868-.58 1.888-.889 2.932-.889.11 0 .217.01.326.017v2.601c-.109-.013-.215-.033-.326-.033a2.576 2.576 0 0 0-1.905.789 2.644 2.644 0 0 0 0 3.74 2.644 2.644 0 0 0 1.905.789c1.488 0 2.803-1.172 2.803-2.659l.026-12.131h2.489c.114 1.081.604 2.088 1.384 2.844.78.757 1.801 1.215 2.885 1.295v2.892z" fill="currentColor"/></svg>
+                <span class="social-link-label sr-only">tiktok</span>
+            </a>
+        
+    </div>
+
+</div><div class="experience-component experience-commerce_assets-editorialRichText"><div class="editorialRichText-component-container rich-text-content">
+    <p><br></p><p>Copyright 2025 Cooler Master</p><p><a href="https://account.coolermaster.com/" target="_blank" rel="noopener noreferrer" data-link-type="external" data-link-label="https://account.coolermaster.com/">Warranty Information</a></p><p><a href="https://www.coolermaster.com/en-global/privacy-policy.html" target="_self" data-link-type="page" data-link-label="Privacy Policy" data-content-page-id="privacy-policy">Privacy Policy</a></p>
+</div>
+</div></div>
+    
+</div>
+
+<a href="#top"
+class="d-block back-to-top d-md-none text-decoration-none-hover"
+onclick="event.preventDefault(); $.scrollTop();">
+<svg class="w-100" width="49" height="49" viewBox="0 0 49 49" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M26.1109 18.4771L35 27.6958L32.7781 30L25 21.9335L17.2219 30L15 27.6958L23.8891 18.4771C24.1837 18.1716 24.5833 18 25 18C25.4167 18 25.8163 18.1716 26.1109 18.4771Z" fill="white"/>
+<circle cx="24.5" cy="24.5" r="23.5" stroke="white" stroke-width="2"/>
+</svg>
+</a>
+
+
+
+</div>
+<div class="error-messaging"></div>
+<div class="modal-background"></div>
+
+    
+    <div class="content-asset"><!-- dwMarker="content" dwContentID="9fa38542235aacb9d9f2a02fc7" -->
+        <div class="modal fade cookie-popup" id="cookie-policy-agree" tabindex="-1" role="dialog" aria-hidden="true" data-backdrop="static">
+  <div class="modal-dialog modal-dialog-centered" style="width: fit-content">
+    <div class="modal-content border-0">
+      <div class="modal-body">
+            <h4 class="text-center font-weight-bold mt-2 mb-3">This website uses cookies</h4>
+
+            <p>By continuing to access/use this website, you agree to its use of cookies. To learn more about how you can manage your cookies setting and how our website uses cookies, please read <a href="https://www.coolermaster.com/en-global/cookie-policy.html">Cookies Policy</a>.</p>
+
+            <div class="text-center mt-4">
+                <button type="button" class="btn btn-primary" data-dismiss="modal">I agree</button>
+            </div>
+      </div>
+    </div>
+  </div>
+</div>
+    </div> <!-- End content-asset -->
+
+
+
+<!--[if lt IE 10]>
+<script>//common/scripts.isml</script>
+<script defer type="text/javascript" src="/on/demandware.static/Sites-coolermaster-one-Site/-/en/v1780392494746/js/main.js"></script>
+
+    
+        <script defer type="text/javascript" src="/on/demandware.static/Sites-coolermaster-one-Site/-/en/v1780392494746/js/experience/components/commerceLayouts/pdLayoutCarousel.js"></script>
+    
+
+    
+        <script defer type="text/javascript" src="/on/demandware.static/Sites-coolermaster-one-Site/-/en/v1780392494746/js/campaignBanner.js"></script>
+    
+
+
+<![endif]-->
+
+
+<span class="api-false  tracking-consent"
+    data-caOnline="false"
+    data-url="/on/demandware.store/Sites-coolermaster-one-Site/en/ConsentTracking-GetContent?cid=tracking_hint"
+    data-reject="/on/demandware.store/Sites-coolermaster-one-Site/en/ConsentTracking-SetConsent?consent=false"
+    data-accept="/on/demandware.store/Sites-coolermaster-one-Site/en/ConsentTracking-SetConsent?consent=true"
+    data-acceptText="Yes"
+    data-rejectText="No"
+    data-heading="Tracking Consent"
+    data-tokenName="csrf_token"
+    data-token="94HRvGmz3GUChVZo83u1NfUupBnRQUJA0b7KdlMvN_tBYyrvXHlcZRvgy2TzWIOqk97i-GS0iSbVVTS4fX3_82Ycy4kIB9qpzYa5FVFgWC9CRvXAk9YwP6LjC0aigKq7DsNDWNbiFow5ld5EEQQizv2HvoXXRS7lSsaKhXxeQgi5t0hjQqE="
+    ></span>
+
+<!-- Demandware Analytics code 1.0 (body_end-analytics-tracking-asynch.js) -->
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+function trackPage() {
+    try{
+        var trackingUrl = "https://www.coolermaster.com/on/demandware.store/Sites-coolermaster-one-Site/en/__Analytics-Start";
+        var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
+        if (typeof dw.ac == "undefined") {
+            dwAnalytics.trackPageView();
+        } else {
+            dw.ac.setDWAnalytics(dwAnalytics);
+        }
+    }catch(err) {};
+}
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript" src="/on/demandware.static/Sites-coolermaster-one-Site/-/en/v1780392494746/internal/jscript/dwanalytics-22.2.js" async="async" onload="trackPage()"></script>
+<!-- Demandware Active Data (body_end-active_data.js) -->
+<script src="/on/demandware.static/Sites-coolermaster-one-Site/-/en/v1780392494746/internal/jscript/dwac-21.7.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
+</body>
+</html>
+
+

@@ -1,0 +1,5 @@
+__pycache__/
+.DS_Store
+*副本*
+debug_all_crops/
+debug_unmatched/

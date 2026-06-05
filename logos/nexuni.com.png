@@ -1,0 +1,230 @@
+<!doctype html><html lang="zh-tw"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><meta name="theme-color" content="#000000"/><title>Nexuni 耐思尼 | AI機器人自動化專家</title><meta name="description" content="Nexuni 耐思尼為 NVIDIA Inception 與 Universal Robots 認證技術夥伴，已部署超過 100 套 AI 機器人與自動化系統。提供智慧焊接機器人、自主巡邏機器人、高樓清潔機器人、AI 雙臂服務機器人、車牌辨識停車管理等解決方案，助企業節省 88% 人力成本、生產力提升 150%。服務台灣、新加坡、日本、北美及歐洲。AI robots for facility management, security patrol, smart welding, facade cleaning & parking automation — NVIDIA Inception and Universal Robots certified partner with 100+ deployments."/><meta name="robots" content="index, follow"/><meta property="og:title" content="Nexuni 耐思尼 | AI機器人自動化專家"/><meta property="og:description" content="NVIDIA Inception 與 Universal Robots 認證夥伴，100+ 套 AI 機器人與自動化系統部署。智慧焊接、自主巡邏機器人、高樓清潔、雙臂服務機器人、停車管理系統。"/><meta property="og:image" content="https://www.nexuni.com/og-image.jpg"/><meta property="og:url" content="https://www.nexuni.com"/><meta property="og:type" content="website"/><meta property="og:locale" content="zh_TW"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Nexuni 耐思尼 | AI機器人自動化專家"/><meta name="twitter:description" content="NVIDIA & Universal Robots 認證夥伴，100+ AI 機器人與自動化系統已部署。智慧焊接、自主巡邏機器人、高樓清潔、雙臂服務機器人、停車管理。"/><meta name="twitter:image" content="https://www.nexuni.com/og-image.jpg"/><link rel="canonical" href="https://www.nexuni.com/zh-tw/"/><link rel="alternate" hreflang="zh-TW" href="https://www.nexuni.com/zh-tw/"/><link rel="alternate" hreflang="en" href="https://www.nexuni.com/en/"/><link rel="alternate" hreflang="ja" href="https://www.nexuni.com/ja/"/><link rel="alternate" hreflang="x-default" href="https://www.nexuni.com/zh-tw/"/><link rel="icon" href="/favicon.ico"/><link rel="apple-touch-icon" href="/logo192.png"/><link rel="manifest" href="/manifest.json"/><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100;300;400;500;700;900&family=Open+Sans:wght@300;400;600;700&family=Syne:wght@400;500;600;700;800&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet"/><script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@type": ["Organization", "LocalBusiness"],
+    "name": "Nexuni 耐思尼",
+    "alternateName": ["Nexuni Robotics", "耐思尼機器人", "Nexuni"],
+    "url": "https://www.nexuni.com",
+    "logo": "https://www.nexuni.com/logo192.png",
+    "description": "Nexuni is a certified NVIDIA Inception and Universal Robots technology partner developing AI-powered robots for real-world automation. Over 100 systems deployed across factories, communities, and parking facilities. Products include security patrol robot dogs, smart welding cobots, facade cleaning robots, AI bimanual service robots, and LPR parking management systems. Serving Taiwan, Singapore, Japan, North America & Europe. 耐思尼為 NVIDIA Inception 與 Universal Robots 認證夥伴，100+ 套 AI 機器人已部署，助企業節省 88% 人力成本。",
+    "foundingDate": "2020",
+    "numberOfEmployees": {
+      "@type": "QuantitativeValue",
+      "minValue": 10,
+      "maxValue": 50
+    },
+    "knowsAbout": [
+      "AI robots",
+      "facility management automation",
+      "security patrol robots",
+      "smart welding robots",
+      "facade cleaning robots",
+      "bimanual service robots",
+      "parking management systems",
+      "computer vision",
+      "SLAM",
+      "edge computing",
+      "reinforcement learning",
+      "end-to-end policy learning",
+      "Vision-Language-Action models",
+      "collaborative robots",
+      "Universal Robots integration",
+      "NVIDIA AI platform"
+    ],
+    "award": [
+      "NVIDIA Inception Program Member",
+      "Universal Robots Certified Solution Provider"
+    ],
+    "areaServed": [
+      { "@type": "Country", "name": "Taiwan" },
+      { "@type": "Country", "name": "Singapore" },
+      { "@type": "Country", "name": "Japan" },
+      { "@type": "Country", "name": "United States" },
+      { "@type": "Country", "name": "Canada" },
+      { "@type": "Place", "name": "North America" },
+      { "@type": "Place", "name": "Europe" },
+      { "@type": "Place", "name": "Asia-Pacific" }
+    ],
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "6F-2, No. 31, Huanke 1st Rd., Zhubei City",
+      "addressLocality": "Hsinchu County",
+      "postalCode": "302",
+      "addressCountry": "TW"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "+886-3-555-1566",
+      "contactType": "customer service",
+      "email": "contact@nexuni.com",
+      "availableLanguage": ["Chinese", "English", "Japanese"]
+    },
+    "sameAs": [
+      "https://www.linkedin.com/company/nexuni",
+      "https://www.youtube.com/@nexuni",
+      "https://www.facebook.com/profile.php?id=100070603490643",
+      "https://www.instagram.com/nexuni.co/"
+    ],
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "AI Robots & AI Automation Solutions",
+      "itemListElement": [
+        {
+          "@type": "OfferCatalog",
+          "name": "AI Robots",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "AI Security Patrol Robot Dog",
+                "description": "Autonomous SLAM navigation, real-time anomaly detection, 24/7 unmanned patrol for factories and communities",
+                "brand": { "@type": "Brand", "name": "Nexuni" },
+                "url": "https://www.nexuni.com/en/tech/collie",
+                "image": "https://www.nexuni.com/assets/product/nxbot/collie.webp",
+                "serviceType": "AI Robot Automation",
+                "provider": { "@type": "Organization", "name": "Nexuni" },
+                "areaServed": ["Taiwan", "Singapore", "Japan", "North America", "Europe"]
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Smart Welding Robot",
+                "description": "Laser scanning with Universal Robots collaborative arms, 80% setup time reduction, 50% efficiency boost",
+                "brand": { "@type": "Brand", "name": "Nexuni" },
+                "url": "https://www.nexuni.com/en/tech/beaver",
+                "image": "https://www.nexuni.com/assets/product/nxbot/beaver.jpg",
+                "serviceType": "AI Robot Automation",
+                "provider": { "@type": "Organization", "name": "Nexuni" },
+                "areaServed": ["Taiwan", "Singapore", "Japan", "North America", "Europe"]
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "High-Rise Facade Cleaning Robot",
+                "description": "AI-powered autonomous exterior cleaning replacing dangerous rope-access work",
+                "brand": { "@type": "Brand", "name": "Nexuni" },
+                "url": "https://www.nexuni.com/en/tech/spider",
+                "image": "https://www.nexuni.com/assets/product/nxbot/spider.webp",
+                "serviceType": "AI Robot Automation",
+                "provider": { "@type": "Organization", "name": "Nexuni" },
+                "areaServed": ["Taiwan", "Singapore", "Japan", "North America", "Europe"]
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "AI Bimanual Service Robot",
+                "description": "End-to-end policy learning from human demonstration, learns new tasks from minimal demos",
+                "brand": { "@type": "Brand", "name": "Nexuni" },
+                "url": "https://www.nexuni.com/en/tech/elephant",
+                "image": "https://www.nexuni.com/assets/product/nxbot/elephant.webp",
+                "serviceType": "AI Robot Automation",
+                "provider": { "@type": "Organization", "name": "Nexuni" },
+                "areaServed": ["Taiwan", "Singapore", "Japan", "North America", "Europe"]
+              }
+            }
+          ]
+        },
+        {
+          "@type": "OfferCatalog",
+          "name": "AI Automation",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "AI Parking Management System",
+                "description": "End-to-end AI parking automation with license plate recognition, multi-payment support, and vision-based guidance",
+                "brand": { "@type": "Brand", "name": "Nexuni" },
+                "url": "https://www.nexuni.com/en/tech/pms100",
+                "image": "https://www.nexuni.com/assets/product/nxa/pms.jpg",
+                "serviceType": "AI Automation",
+                "provider": { "@type": "Organization", "name": "Nexuni" },
+                "areaServed": ["Taiwan", "Singapore", "Japan", "North America", "Europe"],
+                "hasOfferCatalog": {
+                  "@type": "OfferCatalog",
+                  "name": "AI Parking Management System Specs",
+                  "itemListElement": [
+                    {
+                      "@type": "Offer",
+                      "itemOffered": {
+                        "@type": "Service",
+                        "name": "AI Parking Management System (PMS100)",
+                        "description": "Standardized AI license plate recognition parking management with cash, credit card, and QR code payment",
+                        "url": "https://www.nexuni.com/en/tech/pms100"
+                      }
+                    },
+                    {
+                      "@type": "Offer",
+                      "itemOffered": {
+                        "@type": "Service",
+                        "name": "LPR Engine (PMS100LE)",
+                        "description": "Compact low-power AI license plate recognition module with open API for system integration",
+                        "url": "https://www.nexuni.com/en/tech/pms100le"
+                      }
+                    },
+                    {
+                      "@type": "Offer",
+                      "itemOffered": {
+                        "@type": "Service",
+                        "name": "Vision-Based Parking Guidance System (VPGS100)",
+                        "description": "AI real-time parking space detection and vehicle guidance for improved facility operations",
+                        "url": "https://www.nexuni.com/en/tech/vpgs100"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "AI Video Security System",
+                "description": "Multi-camera real-time AI monitoring, anomaly alerts, and smart playback search — reduces manual surveillance needs",
+                "brand": { "@type": "Brand", "name": "Nexuni" },
+                "url": "https://www.nexuni.com/en/tech/vs100",
+                "image": "https://www.nexuni.com/assets/product/nxa/vs100.jpg",
+                "serviceType": "AI Automation",
+                "provider": { "@type": "Organization", "name": "Nexuni" },
+                "areaServed": ["Taiwan", "Singapore", "Japan", "North America", "Europe"]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }</script><script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Nexuni Robotics",
+    "alternateName": ["耐思尼機器人", "Nexuni Robotics 耐思尼機器人"],
+    "url": "https://www.nexuni.com/en/solutions",
+    "logo": "https://www.nexuni.com/logo192.png",
+    "description": "Nexuni Robotics develops AI-powered robots for industrial automation — security patrol robot dogs, smart welding cobots, facade cleaning robots, and AI bimanual service robots. NVIDIA Inception and Universal Robots certified partner with 100+ deployments.",
+    "parentOrganization": {
+      "@type": "Organization",
+      "name": "Nexuni 耐思尼",
+      "url": "https://www.nexuni.com"
+    },
+    "knowsAbout": [
+      "AI robots",
+      "security patrol robots",
+      "smart welding robots",
+      "facade cleaning robots",
+      "bimanual service robots",
+      "collaborative robots",
+      "industrial automation",
+      "reinforcement learning",
+      "end-to-end policy learning"
+    ],
+    "sameAs": [
+      "https://www.linkedin.com/company/nexuni",
+      "https://www.youtube.com/@nexuni"
+    ]
+  }</script><script defer="defer" src="/static/js/main.db6ecc24.js"></script><link href="/static/css/main.68a418d8.css" rel="stylesheet"></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"></div></body></html>

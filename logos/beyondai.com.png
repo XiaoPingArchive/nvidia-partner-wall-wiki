@@ -1,0 +1,185 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>BeyondAI</title>
+
+<link rel='stylesheet' id='dashicons-css' href='https://beyondai.com/wp-includes/css/dashicons.min.css' media='all' />
+<link rel='stylesheet' id='buttons-css' href='https://beyondai.com/wp-includes/css/buttons.min.css' media='all' />
+<link rel='stylesheet' id='forms-css' href='https://beyondai.com/wp-admin/css/forms.min.css' media='all' />
+<link rel='stylesheet' id='l10n-css' href='https://beyondai.com/wp-admin/css/l10n.min.css' media='all' />
+<link rel='stylesheet' id='login-css' href='https://beyondai.com/wp-admin/css/login.min.css' media='all' />
+
+<style media="screen">
+#login_error, .login .message, #loginform { margin-bottom: 20px; }
+.password-protected-text-below { display: inline-block; text-align: center; margin-top: 30px;}
+.password-protected-text-above { text-align: center; margin-bottom: 10px;}
+</style>
+
+<style>
+    #login h1 a, .login h1 a {
+        width: 100%;
+        max-width: 250px;
+        background-image: url('https://beyondai.com/wp-content/uploads/2021/02/baiintellignec-logo.png');
+        background-size: contain;
+    }
+</style>
+  <style>
+  	  body.login{
+  	  	background-color:#000 !important;
+  	  }
+  	  body.login #login{
+  	  	margin-top:8% !important;
+  	  	border:1px solid #db9603 !important;
+  	  }
+  	  #login h1 a, .login h1 a {
+		    height: 140px !important;
+		    width: : 140px !important
+		    max-height: 140px !important;
+		    max-width: : 140px !important
+
+		}
+	  .login form {
+	      box-shadow: none!important;
+	      background-color:#000 !important;
+	      color:#fff !important;
+	      border: none !important;
+	  }
+	  .login #login {
+	   background-color:#000 !important;
+	    color:#fff !important;
+	    margin-top: 8% !important;
+	    padding: 30px 15px 0 !important;
+	  }
+	  .login .custom_message {
+	      font-weight: bold;
+	      font-size: 26px;
+	  }
+	  .login #backtoblog{
+	      padding-bottom: 20px!important;
+	      padding-top: 0!important;
+	      margin-top: 10px!important;
+	  }
+	  .login form {
+	    padding: 26px 24px 26px !important;
+	  }
+	  .login .privacy-policy-page-link {
+        display: none;
+      }
+      .login #wp-submit{
+      	background-color:#db9603 !important;
+      	border-color: #db9603 !important;
+      }
+      .login #login_error, .login .message, .login .success {
+      	background-color:#000 !important;
+	    border-left:none !important;
+	    padding: 0 !important;
+	    margin-left: 0;
+	    margin-bottom: 20px;
+	    background-color: #fff;
+	    box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+	    color: red !important;
+	}
+	.login .success, .login .message{
+		 color: #db9603 !important;
+	}
+  </style>
+<meta name='robots' content='noindex, nofollow' />
+<link rel="icon" href="https://beyondai.com/wp-content/uploads/2020/11/bai_logo.png" sizes="32x32" />
+<link rel="icon" href="https://beyondai.com/wp-content/uploads/2020/11/bai_logo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://beyondai.com/wp-content/uploads/2020/11/bai_logo.png" />
+<meta name="msapplication-TileImage" content="https://beyondai.com/wp-content/uploads/2020/11/bai_logo.png" />
+		<meta name="viewport" content="width=device-width" />
+		
+</head>
+<body class="login login-password-protected login-action-password-protected-login wp-core-ui">
+
+<div id="login">
+	<h1 class="wp-login-logo" id="password-protected-logo"><a href="https://beyondai.com/" title="BeyondAI">BeyondAI</a></h1>
+	
+	
+	<form tabindex="0" name="loginform" id="loginform" action="https://beyondai.com/favicon.ico?password-protected=login&#038;redirect_to=http%3A%2F%2Fbeyondai.com%2Ffavicon.ico" method="post">
+
+        <p>
+                    </p>
+
+        <!--
+		We are removing this field PP-245
+             <p>
+                <label for="password_protected_pass">Password</label>
+                <input type="password" name="password_protected_pwd" id="password_protected_pass" class="input" value="" size="20" tabindex="20" autocomplete="false" />
+            </p>
+        -->
+
+        <div class="user-pass-wrap">
+            <label for="password_protected_pass">Password</label>
+            <div class="wp-pwd">
+                <input
+                    id="password_protected_pass"
+                    class="input password-input"
+                    type="password"
+                    name="password_protected_pwd"
+                    value=""
+                    size="20"
+                    autocomplete="false"
+                    spellcheck="false"
+                    required
+                    tabindex="100"
+                >
+                <button
+                    id="pp-hide-show-password"
+                    class="button button-secondary hide-if-no-js wp-hide-pw"
+                    type="button"
+                    data-toggle="0"
+                    aria-label="Show password"
+                    tabindex="101"
+                >
+                    <span class="dashicons dashicons-visibility" aria-hidden="true"></span>
+                </button>
+            </div>
+        </div>
+
+						
+		<p class="submit">
+			<input
+                type="submit"
+                name="wp-submit"
+                id="wp-submit"
+                class="button button-primary button-large"
+                value="Log In"
+                tabindex="103"
+            />
+			<input type="hidden" name="password_protected_cookie_test" value="1" />
+			<input type="hidden" name="password-protected" value="login" />
+			<input type="hidden" name="redirect_to" value="http://beyondai.com/favicon.ico" />
+		</p>
+
+        <div style="display: table;clear: both;"></div>
+
+        <p>
+		            </p>
+
+	</form>
+
+	
+</div>
+
+<script>
+try{document.getElementById('password_protected_pass').focus();}catch(e){}
+if(typeof wpOnload=='function')wpOnload();
+try{let s=document.getElementById("pp-hide-show-password");s.addEventListener("click",function(e){e.preventDefault();let t=document.getElementById("password_protected_pass");"password"===t.type?(t.type="text",s.innerHTML='<span class="dashicons dashicons-hidden" aria-hidden="true"></span>'):(t.type="password",s.innerHTML='<span class="dashicons dashicons-visibility" aria-hidden="true"></span>')})}catch(e){}
+</script>
+
+
+<script src="https://beyondai.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://beyondai.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://beyondai.com/wp-content/plugins/change-wp-admin-login/assets/js/detect.js?ver=2.1.1" id="aio-login--detect-js-js"></script>
+<script src="https://beyondai.com/wp-content/plugins/change-wp-admin-login/assets/js/login.js?ver=2.1.1" id="aio-login--login-js-js"></script>
+
+<div class="clear"></div>
+
+
+</body>
+</html>

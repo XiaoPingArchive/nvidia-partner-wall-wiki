@@ -1,0 +1,1216 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Language" content="zh-CN">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="robots" content="index, follow">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="preconnect" href="https://dgx8.cdn50.nexwebb.com" crossorigin>
+    <link rel="preload" href="/static/fonts_v2/material_icons.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/static/fonts_v2/RedHatDisplay-VariableFont_wght.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="/static/fonts_v2/RedHatText-VariableFont_wght.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="https://dgx8.cdn50.nexwebb.com/aaeon/uif/custom_ui_250319013639_2956.css" as="style">
+    <link rel="preload" href="/static/uif/uif_v3.21/css/dg_main.css" as="style">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://dgx8.cdn50.nexwebb.com/aaeon/uif/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://dgx8.cdn50.nexwebb.com/aaeon/uif/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="48x48" href="https://dgx8.cdn50.nexwebb.com/aaeon/uif/favicon-48x48.png">
+    <link rel="icon" href="https://dgx8.cdn50.nexwebb.com/aaeon/uif/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="https://dgx8.cdn50.nexwebb.com/aaeon/uif/favicon.ico" type="image/x-icon">
+    <link rel="canonical" href="https://www.aaeon.com/cn">
+    <meta name="description" content="研扬科技，先进工业级和嵌入式计算机平台的领先设计者和制造商。致力于创新工程设计，为全球首屈一指的OEM/ODM厂商和系统集成商提供集成解决方案、硬件和服务。研扬科技的宗旨是为客户提供可靠的、高品质的计算机平台，包括工业主板和系统、工业显示器、强固型平板电脑、PC/104模块、PICMG和COM模块、嵌入式单板计算机、嵌入式控制器、网络设备及相关配件。研扬科技还提供客制化服务，从产品概念、产品开发到批量制造和售后服务，一应俱全。研扬科技为英特尔®智能系统联盟的成员。服务热线：4007706868">
+    <meta name="keywords" content="研扬科技，工控机，工业主板，UP board，工控主板，工控，无风扇，Edge AI Solutions工控机，工业平板电脑，强固式平板电脑，工业计算机，工业电脑，工业自动化，智能交通，智慧工厂，工业4.0，物联网，嵌入式主板，嵌入式工控机，工业机箱，IOT，车载电脑，HMI,工业背板，工业">
+    <title>研扬科技- 先进工业级和嵌入式计算机平台的领先设计者和制造商</title>
+    <link rel="stylesheet" href="https://dgx8.cdn50.nexwebb.com/aaeon/uif/custom_ui_250319013639_2956.css">
+    <link rel="stylesheet" href="/static/uif/uif_v3.21/css/default.css">
+    <link rel="stylesheet" href="/static/uif/uif_v3.21/css/dg_main.css">
+</head>
+<body data-rs="RS1" data-cf-cc="CN" data-uif-v="uif_v3.21">
+
+<div id="main" data-clang="cn" data-script_load="load_third_party">
+    <div class="frame_top">
+    
+
+
+<header class="header">
+    
+    <div class="wr0">
+        <div class="icon_list brand_icons"><div class="icon_unit">
+<a href="https://www.aaeon.ai/" class="icon_link" rel="nofollow" target="_blank">
+<img src="https://dgx8.cdn50.nexwebb.com/aaeon/uif/brandIcons_2410_wxPp5d.svg" alt="AAEON AI" title="AAEON AI" height="24px">
+<span class="name">AAEON AI</span>
+</a>
+</div>
+<div class="icon_unit">
+<a href="https://up-shop.org/" class="icon_link" rel="nofollow" target="_blank">
+<img src="https://dgx8.cdn50.nexwebb.com/aaeon/uif/brandIcons_2410_qDNp3F.svg" alt="UP shop" title="UP shop" height="24px">
+<span class="name">UP Shop</span>
+</a>
+</div></div>
+        <div class="icon_list header_icons"><div class="icon_unit">
+<a href="https://www.aaeon.com/cn/contact/contact_form" class="icon_link" rel="nofollow" target="_blank">
+<img src="https://dgx8.cdn50.nexwebb.com/aaeon/uif/headerIcons_2411_eWEQa1.svg" alt="contact us" title="contact us" height="24px">
+<span class="name">400-770-6868</span>
+</a>
+</div>
+<div class="icon_unit">
+<a href="https://eshop.aaeon.com/" class="icon_link" rel="nofollow" target="_blank">
+<img src="https://dgx8.cdn50.nexwebb.com/aaeon/uif/headerIcons_2410_qN2lPY.png" alt="AAEON eShop" title="AAEON eShop" height="24px">
+<span class="name">eShop</span>
+</a>
+</div>
+<div class="icon_unit">
+<a href="https://partnerzone.aaeon.com.tw/" class="icon_link" rel="nofollow" target="_blank">
+<img src="https://dgx8.cdn50.nexwebb.com/aaeon/uif/headerIcons_2410_OIA70y.png" alt="Partners" title="Partners" height="24px">
+<span class="name">Partners</span>
+</a>
+</div>
+<div class="icon_unit">
+<a href="https://www.aaeon.com/en/contact/contact_form" class="icon_link" rel="nofollow" target="_blank">
+<img src="https://dgx8.cdn50.nexwebb.com/aaeon/uif/headerIcons_2410_aOPoQp.png" alt="Inquiry" title="Inquiry" height="24px">
+<span class="name">Inquiry</span>
+</a>
+</div></div>
+    </div>
+    
+    
+    <div class="wr1">
+        <div class="logo"><a href="/cn"><img src="https://dgx8.cdn50.nexwebb.com/aaeon/uif/logo_2501_wFfc9x.svg" alt="AAEON Logo" style="max-height: 42px;"></a></div>
+        
+        <div class="main_search">
+            <div class="search_wr" data-clang="cn">
+                <input type="search" data-id="search" class="input" data-min="2" maxlength="32" value="">
+                <i class="mat search_btn">search</i>
+            </div>
+        </div>
+        
+        
+        <div class="nv_compare">
+            <a href="/cn/compare" data-d="nv_compare_btn">Compare</a>
+        </div>
+        
+        
+        <div class="site_switch">
+            <div class="active_clang">
+                <i class="mat">language</i>
+                <span class="label">简体中文</span>
+            </div>
+            <div class="clang_list">
+                
+
+<div class="clang_unit">
+    <a href="/en"
+       data-status="1"
+       data-local="English"
+       data-en="(Global)"
+       data-code="en"
+       aria-label="visit the Global site.">
+        <span class="label">English</span>
+        <span class="value">(Global)</span>
+    </a>
+</div>
+
+
+
+<div class="clang_unit">
+    <a href="/tw"
+       data-status="1"
+       data-local="繁體中文"
+       data-en="(Chinese Traditional)"
+       data-code="tw"
+       aria-label="visit the Chinese Traditional site.">
+        <span class="label">繁體中文</span>
+        <span class="value">(Chinese Traditional)</span>
+    </a>
+</div>
+
+
+
+<div class="clang_unit">
+    <a href="/cn"
+       data-status="1"
+       data-local="简体中文"
+       data-en="(Simplified Chinese)"
+       data-code="cn"
+       aria-label="visit the Simplified Chinese site.">
+        <span class="label">简体中文</span>
+        <span class="value">(Simplified Chinese)</span>
+    </a>
+</div>
+
+
+
+<div class="clang_unit">
+    <a href="/jp"
+       data-status="1"
+       data-local="日本語"
+       data-en="(Japanese)"
+       data-code="jp"
+       aria-label="visit the Japanese site.">
+        <span class="label">日本語</span>
+        <span class="value">(Japanese)</span>
+    </a>
+</div>
+
+
+
+<div class="clang_unit">
+    <a href="/ru"
+       data-status="1"
+       data-local="Русский"
+       data-en="(Russian)"
+       data-code="ru"
+       aria-label="visit the Russian site.">
+        <span class="label">Русский</span>
+        <span class="value">(Russian)</span>
+    </a>
+</div>
+
+
+
+<div class="clang_unit">
+    <a href="/kr"
+       data-status="1"
+       data-local="한국어"
+       data-en="(Korean)"
+       data-code="kr"
+       aria-label="visit the Korean site.">
+        <span class="label">한국어</span>
+        <span class="value">(Korean)</span>
+    </a>
+</div>
+
+
+
+<div class="clang_unit">
+    <a href="/vi"
+       data-status="1"
+       data-local="Tiếng Việt"
+       data-en="(Vietnamese)"
+       data-code="vi"
+       aria-label="visit the Vietnamese site.">
+        <span class="label">Tiếng Việt</span>
+        <span class="value">(Vietnamese)</span>
+    </a>
+</div>
+
+
+            </div>
+        </div>
+    </div>
+</header>
+
+<nav class="main_navi_wr">
+    <div class="main_navi mnv_mobile">
+        <div class="menu_wr">
+            <span class="mat menu_btn show">menu</span>
+            <span class="mat close_btn">close</span>
+        </div>
+        <div class="mnv_wr">
+            <div class="navi_el tree pt0t1_tmb">
+<span class="label bar expand">
+<i class="mat expand_icon">chevron_right</i>
+研扬产品
+</span>
+<div class="sub_navi">
+<div class="sub_unit">
+<div class="tmb_wr">
+<span class="tmb"><img src="https://s3-web.fra1.digitaloceanspaces.com/aaeon/tmb/tmb_180807_r9dy87.png" alt="主板和模块"></span>
+<span class="label t0">
+<a href="/cn/product/list/embedded-boards">主板和模块</a>
+</span>
+</div>
+<ul class="sub_cat">
+<li class="t1"><a href="/cn/product/list/embedded-single-board-computers">单板计算机</a></li>
+<li class="t1"><a href="/cn/product/list/computer-on-module">模块化电脑</a></li>
+<li class="t1"><a href="/cn/product/list/industrial-motherboards">工业母板</a></li>
+<li class="t1"><a href="/cn/product/list/risc-single-board-computer">RISC精简指令集单板电脑</a></li>
+</ul>
+</div>
+<div class="sub_unit">
+<div class="tmb_wr">
+<span class="tmb"><img src="https://s3-web.fra1.digitaloceanspaces.com/aaeon/tmb/tmb_180824_93uwga.png" alt="计算机系统"></span>
+<span class="label t0">
+<a href="/cn/product/list/computing-systems">计算机系统</a>
+</span>
+</div>
+<ul class="sub_cat">
+<li class="t1"><a href="/cn/product/list/embedded-computers">嵌入式计算机</a></li>
+<li class="t1"><a href="/cn/product/list/in-vehicle-nvr">车载嵌入式BOX PC</a></li>
+<li class="t1"><a href="/cn/product/list/turn-key-chassis-solutions">机箱统包解决方案</a></li>
+<li class="t1"><a href="/cn/product/list/industrial-chassis">工业机箱</a></li>
+<li class="t1"><a href="/cn/product/list/embedded-system">嵌入式系统</a></li>
+</ul>
+</div>
+<div class="sub_unit">
+<div class="tmb_wr">
+<span class="tmb"><img src="https://s3-web.fra1.digitaloceanspaces.com/aaeon/tmb/tmb_181029_rmupjd.png" alt="AI 解决方案"></span>
+<span class="label t0">
+<a href="/cn/product/list/ai-solutions">AI 解决方案</a>
+</span>
+</div>
+<ul class="sub_cat">
+<li class="t1"><a href="/cn/product/list/ai_at_edge_solutions">边缘AI</a></li>
+<li class="t1"><a href="/cn/product/list/ai-modules">AI人工智慧模块</a></li>
+</ul>
+</div>
+<div class="sub_unit">
+<div class="tmb_wr">
+<span class="tmb"><img src="https://s3-web.fra1.digitaloceanspaces.com/aaeon/tmb/tmb_180807_8xvmwt.png" alt="强固型移动设备"></span>
+<span class="label t0">
+<a href="/cn/product/list/rugged-mobile-devices">强固型移动设备</a>
+</span>
+</div>
+<ul class="sub_cat">
+<li class="t1"><a href="/cn/product/list/rugged-tablet-computers">强固型平板电脑</a></li>
+<li class="t1"><a href="/cn/product/list/accessories">强固型平板电脑配件</a></li>
+</ul>
+</div>
+<div class="sub_unit">
+<div class="tmb_wr">
+<span class="tmb"><img src="https://s3-web.fra1.digitaloceanspaces.com/aaeon/tmb/tmb_221213_0j87k4.png" alt="HMI触摸式平板电脑"></span>
+<span class="label t0">
+<a href="/cn/product/list/industrial-panel-pc">HMI触摸式平板电脑</a>
+</span>
+</div>
+<ul class="sub_cat">
+<li class="t1"><a href="/cn/product/list/industrial-all-in-one-panel-pcs">一体式触控平板电脑</a></li>
+<li class="t1"><a href="/cn/product/list/modular-hmi-panel-pcs-and-displays">扩充型 HMI 触控电脑/ 显示器</a></li>
+<li class="t1"><a href="/cn/product/list/ai_panel_pc_solutions">AI Panel PC Solutions</a></li>
+</ul>
+</div>
+<div class="sub_unit">
+<div class="tmb_wr">
+<span class="tmb"><img src="https://s3-web.fra1.digitaloceanspaces.com/aaeon/tmb/tmb_ProductCat_250212081338_ivF3w.png" alt="UP开发者解决方案"></span>
+<span class="label t0">
+<a href="/cn/product/list/up-boards-and-upsystems">UP开发者解决方案</a>
+</span>
+</div>
+<ul class="sub_cat">
+<li class="t1"><a href="/cn/product/list/up-boards">UP创客板</a></li>
+<li class="t1"><a href="/cn/product/list/up-systems">UP 创客系统</a></li>
+<li class="t1"><a href="/cn/product/list/up-edge-computing-kit">UP边缘计算开发套件</a></li>
+<li class="t1"><a href="/cn/product/list/up-edge-ai-toolkit">UP边缘AI开发工具组</a></li>
+</ul>
+</div>
+<div class="sub_unit">
+<div class="tmb_wr">
+<span class="tmb"><img src="https://s3-web.fra1.digitaloceanspaces.com/aaeon/tmb/tmb_230120_vyq5wr.png" alt="网安平台"></span>
+<span class="label t0">
+<a href="/cn/product/list/network-appliance-video-surveillance">网安平台</a>
+</span>
+</div>
+<ul class="sub_cat">
+<li class="t1"><a href="/cn/product/list/desktop-network-security-appliance">桌上型网安平台</a></li>
+<li class="t1"><a href="/cn/product/list/rackmount-network-security-appliance">机架网安平台</a></li>
+<li class="t1"><a href="/cn/product/list/industrial-cyber-security-appliance">工业网络安全设备</a></li>
+<li class="t1"><a href="/cn/product/list/network-interface-module">网络接口模块</a></li>
+</ul>
+</div>
+<div class="sub_unit">
+<div class="tmb_wr">
+<span class="tmb"><img src="https://s3-web.fra1.digitaloceanspaces.com/aaeon/tmb/tmb_240607_bcjq0d.png" alt="物联网网关解决方案"></span>
+<span class="label t0">
+<a href="/cn/product/list/iot-gateway-solutions">物联网网关解决方案</a>
+</span>
+</div>
+<ul class="sub_cat">
+<li class="t1"><a href="/cn/product/list/gateway-boards">物联网网关主机板</a></li>
+<li class="t1"><a href="/cn/product/list/gateway-system">物联网网关系统</a></li>
+</ul>
+</div>
+<div class="sub_unit">
+<div class="tmb_wr">
+<span class="tmb"><img src="https://s3-web.fra1.digitaloceanspaces.com/aaeon/tmb/tmb_230120_aw3pln.png" alt="边缘AI服务器/工作站"></span>
+<span class="label t0">
+<a href="/cn/product/list/industrial-grade-server">边缘AI服务器/工作站</a>
+</span>
+</div>
+<ul class="sub_cat">
+<li class="t1"><a href="/cn/product/list/industrial-grade-server-board">边缘AI服务器主板/工作站主板</a></li>
+<li class="t1"><a href="/cn/product/list/industrial-grade-server-system">边缘AI服务器系统/工作站系统</a></li>
+</ul>
+</div>
+<div class="sub_unit">
+<div class="tmb_wr">
+<span class="tmb"><img src="https://s3-web.fra1.digitaloceanspaces.com/aaeon/tmb/tmb_ProductCat_251024025536_9td5b.png" alt="工作站"></span>
+<span class="label t0">
+<a href="/cn/product/list/workstation">工作站</a>
+</span>
+</div>
+<ul class="sub_cat">
+<li class="t1"><a href="/cn/product/list/ai_workstation">AI工作站</a></li>
+<li class="t1"><a href="/cn/product/list/graphics_workstation">图形工作站</a></li>
+<li class="t1"><a href="/cn/product/list/xinchuang_industrial_computer">信创工控机</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="navi_el btn">
+<a href="/cn/article/list/services">
+服务
+</a>
+</div>
+<div class="navi_el btn">
+<a href="/cn/article/list/applications">
+行业应用
+</a>
+</div>
+<div class="navi_el btn">
+<a href="/cn/support">
+技术支持
+</a>
+</div>
+<div class="navi_el tree nt0t1">
+<span class="label bar expand">
+<i class="mat expand_icon">chevron_right</i>
+新闻及市场活动
+</span>
+<div class="sub_navi">
+<div class="sub_unit">
+<span class="label t0">
+<a href="/cn/news/list/press-release">新闻稿</a>
+</span>
+<ul class="sub_cat">
+<li class="t1"><a href="/cn/news/list/product-news">产品讯息</a></li>
+<li class="t1"><a href="/cn/news/list/company-announcement">公司公告</a></li>
+<li class="t1"><a href="/cn/news/list/trade-show-information">展会信息</a></li>
+</ul>
+</div>
+<div class="sub_unit">
+<span class="label t0">
+<a href="/cn/news/list/marketing-events">营销活动</a>
+</span>
+<ul class="sub_cat">
+<li class="t1"><a href="/cn/news/list/events-in-america">美国</a></li>
+<li class="t1"><a href="/cn/news/list/events-in-europe">欧洲</a></li>
+<li class="t1"><a href="/cn/news/list/apac_and_emerging_countries">APAC &amp; Emerging Countries</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="navi_el btn">
+<a href="/cn/about">
+公司介绍
+</a>
+</div>
+<div class="navi_el btn">
+<a href="/cn/contact">
+联系我们
+</a>
+</div>
+<div class="navi_el btn">
+<a href="https://eshop.aaeon.com/">
+eShop
+</a>
+</div>
+        </div>
+    </div>
+    <div class="main_navi mnv_default">
+        <div class="navi_el tree pt0t1_tmb">
+<span class="label bar expand">
+<i class="mat expand_icon">chevron_right</i>
+研扬产品
+</span>
+<div class="sub_navi">
+<div class="sub_unit">
+<div class="tmb_wr">
+<span class="tmb"><img src="https://s3-web.fra1.digitaloceanspaces.com/aaeon/tmb/tmb_180807_r9dy87.png" alt="主板和模块"></span>
+<span class="label t0">
+<a href="/cn/product/list/embedded-boards">主板和模块</a>
+</span>
+</div>
+<ul class="sub_cat">
+<li class="t1"><a href="/cn/product/list/embedded-single-board-computers">单板计算机</a></li>
+<li class="t1"><a href="/cn/product/list/computer-on-module">模块化电脑</a></li>
+<li class="t1"><a href="/cn/product/list/industrial-motherboards">工业母板</a></li>
+<li class="t1"><a href="/cn/product/list/risc-single-board-computer">RISC精简指令集单板电脑</a></li>
+</ul>
+</div>
+<div class="sub_unit">
+<div class="tmb_wr">
+<span class="tmb"><img src="https://s3-web.fra1.digitaloceanspaces.com/aaeon/tmb/tmb_180824_93uwga.png" alt="计算机系统"></span>
+<span class="label t0">
+<a href="/cn/product/list/computing-systems">计算机系统</a>
+</span>
+</div>
+<ul class="sub_cat">
+<li class="t1"><a href="/cn/product/list/embedded-computers">嵌入式计算机</a></li>
+<li class="t1"><a href="/cn/product/list/in-vehicle-nvr">车载嵌入式BOX PC</a></li>
+<li class="t1"><a href="/cn/product/list/turn-key-chassis-solutions">机箱统包解决方案</a></li>
+<li class="t1"><a href="/cn/product/list/industrial-chassis">工业机箱</a></li>
+<li class="t1"><a href="/cn/product/list/embedded-system">嵌入式系统</a></li>
+</ul>
+</div>
+<div class="sub_unit">
+<div class="tmb_wr">
+<span class="tmb"><img src="https://s3-web.fra1.digitaloceanspaces.com/aaeon/tmb/tmb_181029_rmupjd.png" alt="AI 解决方案"></span>
+<span class="label t0">
+<a href="/cn/product/list/ai-solutions">AI 解决方案</a>
+</span>
+</div>
+<ul class="sub_cat">
+<li class="t1"><a href="/cn/product/list/ai_at_edge_solutions">边缘AI</a></li>
+<li class="t1"><a href="/cn/product/list/ai-modules">AI人工智慧模块</a></li>
+</ul>
+</div>
+<div class="sub_unit">
+<div class="tmb_wr">
+<span class="tmb"><img src="https://s3-web.fra1.digitaloceanspaces.com/aaeon/tmb/tmb_180807_8xvmwt.png" alt="强固型移动设备"></span>
+<span class="label t0">
+<a href="/cn/product/list/rugged-mobile-devices">强固型移动设备</a>
+</span>
+</div>
+<ul class="sub_cat">
+<li class="t1"><a href="/cn/product/list/rugged-tablet-computers">强固型平板电脑</a></li>
+<li class="t1"><a href="/cn/product/list/accessories">强固型平板电脑配件</a></li>
+</ul>
+</div>
+<div class="sub_unit">
+<div class="tmb_wr">
+<span class="tmb"><img src="https://s3-web.fra1.digitaloceanspaces.com/aaeon/tmb/tmb_221213_0j87k4.png" alt="HMI触摸式平板电脑"></span>
+<span class="label t0">
+<a href="/cn/product/list/industrial-panel-pc">HMI触摸式平板电脑</a>
+</span>
+</div>
+<ul class="sub_cat">
+<li class="t1"><a href="/cn/product/list/industrial-all-in-one-panel-pcs">一体式触控平板电脑</a></li>
+<li class="t1"><a href="/cn/product/list/modular-hmi-panel-pcs-and-displays">扩充型 HMI 触控电脑/ 显示器</a></li>
+<li class="t1"><a href="/cn/product/list/ai_panel_pc_solutions">AI Panel PC Solutions</a></li>
+</ul>
+</div>
+<div class="sub_unit">
+<div class="tmb_wr">
+<span class="tmb"><img src="https://s3-web.fra1.digitaloceanspaces.com/aaeon/tmb/tmb_ProductCat_250212081338_ivF3w.png" alt="UP开发者解决方案"></span>
+<span class="label t0">
+<a href="/cn/product/list/up-boards-and-upsystems">UP开发者解决方案</a>
+</span>
+</div>
+<ul class="sub_cat">
+<li class="t1"><a href="/cn/product/list/up-boards">UP创客板</a></li>
+<li class="t1"><a href="/cn/product/list/up-systems">UP 创客系统</a></li>
+<li class="t1"><a href="/cn/product/list/up-edge-computing-kit">UP边缘计算开发套件</a></li>
+<li class="t1"><a href="/cn/product/list/up-edge-ai-toolkit">UP边缘AI开发工具组</a></li>
+</ul>
+</div>
+<div class="sub_unit">
+<div class="tmb_wr">
+<span class="tmb"><img src="https://s3-web.fra1.digitaloceanspaces.com/aaeon/tmb/tmb_230120_vyq5wr.png" alt="网安平台"></span>
+<span class="label t0">
+<a href="/cn/product/list/network-appliance-video-surveillance">网安平台</a>
+</span>
+</div>
+<ul class="sub_cat">
+<li class="t1"><a href="/cn/product/list/desktop-network-security-appliance">桌上型网安平台</a></li>
+<li class="t1"><a href="/cn/product/list/rackmount-network-security-appliance">机架网安平台</a></li>
+<li class="t1"><a href="/cn/product/list/industrial-cyber-security-appliance">工业网络安全设备</a></li>
+<li class="t1"><a href="/cn/product/list/network-interface-module">网络接口模块</a></li>
+</ul>
+</div>
+<div class="sub_unit">
+<div class="tmb_wr">
+<span class="tmb"><img src="https://s3-web.fra1.digitaloceanspaces.com/aaeon/tmb/tmb_240607_bcjq0d.png" alt="物联网网关解决方案"></span>
+<span class="label t0">
+<a href="/cn/product/list/iot-gateway-solutions">物联网网关解决方案</a>
+</span>
+</div>
+<ul class="sub_cat">
+<li class="t1"><a href="/cn/product/list/gateway-boards">物联网网关主机板</a></li>
+<li class="t1"><a href="/cn/product/list/gateway-system">物联网网关系统</a></li>
+</ul>
+</div>
+<div class="sub_unit">
+<div class="tmb_wr">
+<span class="tmb"><img src="https://s3-web.fra1.digitaloceanspaces.com/aaeon/tmb/tmb_230120_aw3pln.png" alt="边缘AI服务器/工作站"></span>
+<span class="label t0">
+<a href="/cn/product/list/industrial-grade-server">边缘AI服务器/工作站</a>
+</span>
+</div>
+<ul class="sub_cat">
+<li class="t1"><a href="/cn/product/list/industrial-grade-server-board">边缘AI服务器主板/工作站主板</a></li>
+<li class="t1"><a href="/cn/product/list/industrial-grade-server-system">边缘AI服务器系统/工作站系统</a></li>
+</ul>
+</div>
+<div class="sub_unit">
+<div class="tmb_wr">
+<span class="tmb"><img src="https://s3-web.fra1.digitaloceanspaces.com/aaeon/tmb/tmb_ProductCat_251024025536_9td5b.png" alt="工作站"></span>
+<span class="label t0">
+<a href="/cn/product/list/workstation">工作站</a>
+</span>
+</div>
+<ul class="sub_cat">
+<li class="t1"><a href="/cn/product/list/ai_workstation">AI工作站</a></li>
+<li class="t1"><a href="/cn/product/list/graphics_workstation">图形工作站</a></li>
+<li class="t1"><a href="/cn/product/list/xinchuang_industrial_computer">信创工控机</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="navi_el btn">
+<a href="/cn/article/list/services">
+服务
+</a>
+</div>
+<div class="navi_el btn">
+<a href="/cn/article/list/applications">
+行业应用
+</a>
+</div>
+<div class="navi_el btn">
+<a href="/cn/support">
+技术支持
+</a>
+</div>
+<div class="navi_el tree nt0t1">
+<span class="label bar expand">
+<i class="mat expand_icon">chevron_right</i>
+新闻及市场活动
+</span>
+<div class="sub_navi">
+<div class="sub_unit">
+<span class="label t0">
+<a href="/cn/news/list/press-release">新闻稿</a>
+</span>
+<ul class="sub_cat">
+<li class="t1"><a href="/cn/news/list/product-news">产品讯息</a></li>
+<li class="t1"><a href="/cn/news/list/company-announcement">公司公告</a></li>
+<li class="t1"><a href="/cn/news/list/trade-show-information">展会信息</a></li>
+</ul>
+</div>
+<div class="sub_unit">
+<span class="label t0">
+<a href="/cn/news/list/marketing-events">营销活动</a>
+</span>
+<ul class="sub_cat">
+<li class="t1"><a href="/cn/news/list/events-in-america">美国</a></li>
+<li class="t1"><a href="/cn/news/list/events-in-europe">欧洲</a></li>
+<li class="t1"><a href="/cn/news/list/apac_and_emerging_countries">APAC &amp; Emerging Countries</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="navi_el btn">
+<a href="/cn/about">
+公司介绍
+</a>
+</div>
+<div class="navi_el btn">
+<a href="/cn/contact">
+联系我们
+</a>
+</div>
+<div class="navi_el btn">
+<a href="https://eshop.aaeon.com/">
+eShop
+</a>
+</div>
+    </div>
+</nav>
+
+<div id="mega_menu_wr">
+    <div class="mega_menu_wr">
+        <div class="mega_menu_close"><span class="mat">close</span></div>
+        <div class="mega_menu_content"></div>
+    </div>
+</div>
+
+    </div>
+    <div class="page_render">
+        <div class=" block block_sld sld_bnr_wr screen_1">
+<div class="cell sld_cell ctx_position_left" data-box-position="left"  >
+<div class="content_box">
+<div class="dg_code dgc_flex_left" data-font_color="#12356d" data-text_align="left">
+<h1>研 扬 助 您 突 破</h1><h1> 智 慧 医 疗 整 合 挑 战
+</h1>
+<br>
+<h3>从 AI 辅助诊断、跌倒侦测、ICU 监控到送药机器人，</h3><h3>研扬提供稳定可靠的边缘 AI 平台，协助智慧医</h3><h3>疗应用更快落地。</h3><br>
+</div>
+<span class="data" data-fn="img_260528030906_MaACQv.jpg" data-img="https://dgx8.cdn50.nexwebb.com/aaeon/sld/img_260528030906_MaACQv.jpg"></span>
+<span class="data" data-link="https://www.aaeon.com/cn/article/detail/smart-healthcare-ebook"></span>
+<div class="pe_btn_wr position_left">
+<span class="pe_btn btn_blue"><a href="https://www.aaeon.com/cn/article/detail/smart-healthcare-ebook">免费下载 eBook</a></span>
+</div>
+</div>
+</div>
+<div class="cell sld_cell ctx_position_left" data-box-position="left"  >
+<div class="content_box">
+<div class="dg_code dgc_flex_left" data-font_color="#010101" data-text_align="left">
+<h1>三冠荣耀</h1><h1>研扬荣获</h1><h1>三座台湾精品奖！</h1>
+</div>
+<span class="data" data-fn="img_260119062103_J49r0B.jpg" data-img="https://dgx8.cdn50.nexwebb.com/aaeon/sld/img_260119062103_J49r0B.jpg"></span>
+<span class="data" data-link="https://www.aaeon.com/cn/news/detail/taiwan_excellence_award_2026"></span>
+<div class="pe_btn_wr position_left">
+<span class="pe_btn btn_same_as_text"><a href="https://www.aaeon.com/cn/news/detail/taiwan_excellence_award_2026">了解详情</a></span>
+</div>
+</div>
+</div>
+<div class="cell sld_cell ctx_position_left" data-box-position="left"  >
+<div class="content_box">
+<span class="data" data-fn="img_260206024803_2QdUgV.jpg" data-img="https://dgx8.cdn50.nexwebb.com/aaeon/sld/img_260206024803_2QdUgV.jpg"></span>
+<div class="dg_code dgc_flex_left" data-font_color="#375090" data-text_align="left">
+<br>
+<h1>MXM 模块化高性能工作站</h2>
+<h1>MEX-BTS</h1>
+<br>
+<br>
+<h3>全面兼容 MXM 3.1 Type A 与 Type B 显卡</h3>
+</div>
+<div class="pe_btn_wr position_left">
+<span class="pe_btn btn_blue"><a href="https://www.aaeon.com/cn/product/detail/ai_edge_computing_solutions_mex-bts">产品介绍</a></span>
+</div>
+</div>
+</div>
+<div class="cell sld_cell ctx_position_"  >
+<div class="content_box">
+<span class="data" data-fn="img_260325074630_ARex04.jpg" data-img="https://dgx8.cdn50.nexwebb.com/aaeon/sld/img_260325074630_ARex04.jpg"></span>
+<span class="data" data-link="https://www.aaeon.com/cn/product/detail/ai-edge-solutions-boxer-8741ai"></span>
+<div class="dg_code dgc_flex_left" data-font_color="#ffffff" data-text_align="left">
+<h2>塑造实体 AI 的未来</h2>
+<h1>BOXER-8741AI</h1>
+<h3>NVIDIA® Jetson T5000™</h3>
+<h3>最高可达 2070 FP4 TFLOPS AI 运算性能</h3>
+<h3>支持 NVIDIA JetPack™ 7</h3>
+</div>
+<div class="pe_btn_wr position_left">
+<span class="pe_btn btn_white"><a href="https://www.aaeon.com/cn/product/detail/ai-edge-solutions-boxer-8741ai">了解更多</a></span>
+</div>
+</div>
+</div>
+<div class="cell sld_cell ctx_position_left" data-box-position="left"  >
+<div class="content_box">
+<div class="dg_code dgc_flex_left" data-font_color="#aaeffd" data-text_align="left">
+<h1>UP Xtreme PTL Edge</h1>
+<h3>Intel® Core™ Ultra 系列 3 处理器</h3>
+<em> <h3>高达 180 TOPS、超高速紧凑边缘 AI 系统</h3> </em>
+</div>
+<span class="data" data-fn="img_260408100729_L20XUJ.jpg" data-img="https://dgx8.cdn50.nexwebb.com/aaeon/sld/img_260408100729_L20XUJ.jpg"></span>
+<span class="data" data-link="https://www.aaeon.com/cn/product/detail/up-systems-up-xtreme-ptl-edge"></span>
+<div class="pe_btn_wr position_left">
+<span class="pe_btn btn_same_as_text"><a href="https://www.aaeon.com/cn/product/detail/up-systems-up-xtreme-ptl-edge">立即探索</a></span>
+</div>
+</div>
+</div>
+<div class="cell sld_cell ctx_position_right" data-box-position="right"  >
+<div class="content_box">
+<span class="data" data-fn="img_241023094744_GdkUMj.png" data-img="https://dgx8.cdn50.nexwebb.com/aaeon/sld/img_241023094744_GdkUMj.png"></span>
+<span class="data" data-link="https://www.aaeon.com/cn/product/list/rugged-tablet-computers"></span>
+<div class="dg_code dgc_flex_center" data-font_color="#07273b" data-text_align="center">
+<h1>坚固型平板解决方案</h1>
+<h2>24/7 移动工作站</h2>
+<h3>• 7&quot; 至 11.6&quot; 多尺寸选择</h3>
+<h3>• 支持 Windows 11 与 Android 11</h3>
+<h3>• 可热插拔电池设计</h3>
+</div>
+<div class="pe_btn_wr position_center">
+<span class="pe_btn btn_same_as_text"><a href="https://www.aaeon.com/cn/product/list/rugged-tablet-computers">产品介绍</a></span>
+</div>
+</div>
+</div>
+<div class="cell sld_cell ctx_position_left" data-rgba="rgba(63, 124, 197, 0.6)" data-box-position="left"  >
+<div class="content_box">
+<span class="data" data-fn="img_241023100819_Tr4oCH.jpg" data-img="https://dgx8.cdn50.nexwebb.com/aaeon/sld/img_241023100819_Tr4oCH.jpg"></span>
+<span class="data" data-link="https://www.aaeon.com/cn/product/detail/desktop-network-appliances-fws-2290"></span>
+<div class="dg_code dgc_flex_left" data-font_color="#ffffff" data-text_align="left">
+<h2>驾驭次世代网络，开启全新效能领域</h2>
+<p></p>
+<h1>FWS-2290</h1>
+<h3>Intel® N 系列处理器</h3>
+</div>
+<div class="pe_btn_wr position_center">
+<span class="pe_btn btn_same_as_text"><a href="https://www.aaeon.com/cn/product/detail/desktop-network-appliances-fws-2290">产品详细介绍</a></span>
+</div>
+</div>
+</div>
+<div class="cell sld_cell ctx_position_"  >
+<div class="content_box">
+<span class="data" data-fn="img_250707064333_RNUwva.jpg" data-img="https://dgx8.cdn50.nexwebb.com/aaeon/sld/img_250707064333_RNUwva.jpg"></span>
+<span class="data" data-link="https://eshop.aaeon.com/ai-edge-computing-platform.html?NVIDIA_Options=84"></span>
+</div>
+</div>
+</div>
+<div class="block block_sld_m sld_bnr_wr">
+<div class="cell sld_m_cell " data-vertical-align="top"  >
+<div class="content_box">
+<span class="data" data-fn="img_260528031842_6pxIA7.jpg" data-img="https://dgx8.cdn50.nexwebb.com/aaeon/sld_m/img_260528031842_6pxIA7.jpg"></span>
+<span class="data" data-link="https://www.aaeon.com/cn/article/detail/smart-healthcare-ebook"></span>
+<div class="dg_code dgc_flex_center" data-font_color="#13296c" data-text_align="center">
+<h1>研 扬 助 您 突 破</h1><h1>智 慧 医 疗 整 合 挑 战</h1>
+<br>
+<p>从 AI 辅助诊断、跌倒侦测、ICU 监控到送药机器人，研扬提供稳定可靠的边缘 AI 平台，协助智慧医疗应用更快落地。</p>
+<br>
+</div>
+<div class="pe_btn_wr position_center">
+<span class="pe_btn btn_blue"><a href="https://www.aaeon.com/cn/article/detail/smart-healthcare-ebook">免费下载 eBook</a></span>
+</div>
+</div>
+</div>
+<div class="cell sld_m_cell " data-vertical-align="bottom"  >
+<div class="content_box">
+<div class="dg_code dgc_flex_left" data-font_color="#010101" data-text_align="left">
+<h1>研扬荣获三座台湾精品奖！</h1>
+</div>
+<span class="data" data-fn="img_260119062826_ORp65q.jpg" data-img="https://dgx8.cdn50.nexwebb.com/aaeon/sld_m/img_260119062826_ORp65q.jpg"></span>
+<span class="data" data-link="https://www.aaeon.com/cn/news/detail/taiwan_excellence_award_2026"></span>
+<div class="pe_btn_wr position_center">
+<span class="pe_btn btn_same_as_text"><a href="https://www.aaeon.com/cn/news/detail/taiwan_excellence_award_2026">了解详情</a></span>
+</div>
+</div>
+</div>
+<div class="cell sld_m_cell " data-vertical-align="bottom"  >
+<div class="content_box">
+<span class="data" data-fn="img_260206031553_bxli34.jpg" data-img="https://dgx8.cdn50.nexwebb.com/aaeon/sld_m/img_260206031553_bxli34.jpg"></span>
+<span class="data" data-link="https://www.aaeon.com/cn/product/detail/ai_edge_computing_solutions_mex-bts"></span>
+<div class="dg_code dgc_flex_left" data-font_color="#385495" data-text_align="left">
+<br>
+<h1>MXM 模块化高性能工作站</h2>
+<h1>MEX-BTS</h1>
+<br>
+<br>
+<h3>全面兼容 MXM 3.1 Type A 与 Type B 显卡</h3>
+</div>
+<div class="pe_btn_wr position_left">
+<span class="pe_btn btn_blue"><a href="https://www.aaeon.com/cn/product/detail/ai_edge_computing_solutions_mex-bts">产品介绍</a></span>
+</div>
+</div>
+</div>
+<div class="cell sld_m_cell " data-vertical-align="bottom"  >
+<div class="content_box">
+<div class="dg_code dgc_flex_left" data-font_color="#fafafa" data-text_align="left">
+<h2>塑造实体 AI 的未来</h2>
+<h1>BOXER-8741AI</h1>
+<h3>NVIDIA® Jetson T5000™</h3>
+<h3>最高可达 2070 FP4 TFLOPS AI 运算性能</h3>
+<h3>支持 NVIDIA JetPack™ 7</h3>
+</div>
+<span class="data" data-fn="img_260325074814_dMgtQ2.jpg" data-img="https://dgx8.cdn50.nexwebb.com/aaeon/sld_m/img_260325074814_dMgtQ2.jpg"></span>
+<span class="data" data-link="https://www.aaeon.com/cn/product/detail/ai-edge-solutions-boxer-8741ai"></span>
+<div class="pe_btn_wr position_left">
+<span class="pe_btn btn_white"><a href="https://www.aaeon.com/cn/product/detail/ai-edge-solutions-boxer-8741ai">了解更多</a></span>
+</div>
+</div>
+</div>
+<div class="cell sld_m_cell " data-vertical-align="bottom"  >
+<div class="content_box">
+<span class="data" data-fn="img_260408101113_ok63Pl.jpg" data-img="https://dgx8.cdn50.nexwebb.com/aaeon/sld_m/img_260408101113_ok63Pl.jpg"></span>
+<span class="data" data-link="https://www.aaeon.com/cn/product/detail/up-systems-up-xtreme-ptl-edge"></span>
+<div class="dg_code dgc_flex_left" data-font_color="#a5e3fd" data-text_align="left">
+<h1>UP Xtreme PTL Edge</h1>
+<h3>Intel® Core™ Ultra 系列 3 处理器</h3>
+<em> <h3>高达 180 TOPS、超高速紧凑边缘 AI 系统</h3> </em>
+</div>
+<div class="pe_btn_wr position_left">
+<span class="pe_btn btn_same_as_text"><a href="https://www.aaeon.com/cn/product/detail/up-systems-up-xtreme-ptl-edge">立即探索</a></span>
+</div>
+</div>
+</div>
+<div class="cell sld_m_cell " data-vertical-align="bottom"  >
+<div class="content_box">
+<span class="data" data-fn="img_250414085034_hqq75C.jpg" data-img="https://dgx8.cdn50.nexwebb.com/aaeon/sld_m/img_250414085034_hqq75C.jpg"></span>
+<span class="data" data-link="https://www.aaeon.com/cn/product/list/rugged-tablet-computers"></span>
+<div class="dg_code dgc_flex_center" data-font_color="#0e1943" data-text_align="center">
+<h1>坚固型平板解决方案</h1>
+<h2>24/7 移动工作站</h2>
+<h3>• 7&quot; 至 11.6&quot; 多尺寸选择</h3>
+<h3>• 支持 Windows 11 与 Android 11</h3>
+<h3>• 可热插拔电池设计</h3>
+</div>
+<div class="pe_btn_wr position_center">
+<span class="pe_btn btn_same_as_text"><a href="https://www.aaeon.com/cn/product/list/rugged-tablet-computers">产品介绍</a></span>
+</div>
+</div>
+</div>
+<div class="cell sld_m_cell " data-vertical-align="bottom"  >
+<div class="content_box">
+<span class="data" data-fn="img_250414085350_bNSMqR.jpg" data-img="https://dgx8.cdn50.nexwebb.com/aaeon/sld_m/img_250414085350_bNSMqR.jpg"></span>
+<span class="data" data-link="https://www.aaeon.com/cn/product/detail/desktop-network-appliances-fws-2290"></span>
+<div class="dg_code dgc_flex_left" data-font_color="#1f2947" data-text_align="left">
+<h2>驾驭次世代网络，开启全新效能领域</h2>
+<p></p>
+<h1>FWS-2290</h1>
+<h3>Intel® N 系列处理器</h3>
+</div>
+<div class="pe_btn_wr position_left">
+<span class="pe_btn btn_same_as_text"><a href="https://www.aaeon.com/cn/product/detail/desktop-network-appliances-fws-2290">产品详细介绍</a></span>
+</div>
+</div>
+</div>
+<div class="cell sld_m_cell "  >
+<div class="content_box">
+<span class="data" data-fn="img_250423085538_OeRxBq.jpg" data-img="https://dgx8.cdn50.nexwebb.com/aaeon/sld_m/img_250423085538_OeRxBq.jpg"></span>
+<span class="data" data-link="https://eshop.aaeon.com/"></span>
+</div>
+</div>
+</div>
+<div class="block col123 block_col1" >
+<div class="cells_wr">
+<div class="cell" >
+<div class="cell_sub rich_text"  style="text-align: center; ">
+<h1>热门解决方案</h1>
+</div>
+</div>
+</div>
+</div>
+<div class="block grid grid8"  style="text-align: center; ">
+<div class="cells_wr grid8">
+<div class="cell" >
+<div class="cell_sub img" >
+<a href="https://www.aaeon.com/cn/product/list/ai-solutions"><img src="https://dgx8.cdn50.nexwebb.com/aaeon/grid8/img_241112104053_YDHYxM.png" alt="AI 解决方案"></a>
+</div>
+<div class="cell_sub title" >
+<span class="title">AI 解决方案</span>
+</div>
+</div>
+<div class="cell" >
+<div class="cell_sub img" >
+<a href="https://www.aaeon.com/cn/product/list/computing-systems"><img src="https://dgx8.cdn50.nexwebb.com/aaeon/grid8/img_241112104133_wjWGEt.png" alt="计算机系统"></a>
+</div>
+<div class="cell_sub title" >
+<span class="title">计算机系统</span>
+</div>
+</div>
+<div class="cell" >
+<div class="cell_sub img" >
+<a href="https://www.aaeon.com/cn/product/list/embedded-boards"><img src="https://dgx8.cdn50.nexwebb.com/aaeon/grid8/img_241112104212_KsMK24.png" alt="主板和模块"></a>
+</div>
+<div class="cell_sub title" >
+<span class="title">主板和模块</span>
+</div>
+</div>
+<div class="cell" >
+<div class="cell_sub img" >
+<a href="https://www.aaeon.com/cn/product/list/rugged-tablet-computers"><img src="https://dgx8.cdn50.nexwebb.com/aaeon/grid8/img_241112104306_5qT55N.png" alt="强固型移动设备"></a>
+</div>
+<div class="cell_sub title" >
+<span class="title">强固型移动设备</span>
+</div>
+</div>
+<div class="cell" >
+<div class="cell_sub img" >
+<a href="https://www.aaeon.com/cn/product/list/network-appliance-video-surveillance"><img src="https://dgx8.cdn50.nexwebb.com/aaeon/grid8/img_241112104403_xmrnci.png" alt="网安平台"></a>
+</div>
+<div class="cell_sub title" >
+<span class="title">网安平台</span>
+</div>
+</div>
+<div class="cell" >
+<div class="cell_sub img" >
+<a href="https://www.aaeon.com/cn/product/list/up-boards-and-upsystems"><img src="https://dgx8.cdn50.nexwebb.com/aaeon/grid8/img_250212031627_fdOy1K.png" alt="UP开发者解决方案"></a>
+</div>
+<div class="cell_sub title" >
+<span class="title">UP开发者解决方案</span>
+</div>
+</div>
+<div class="cell" >
+<div class="cell_sub img" >
+<a href="https://www.aaeon.com/cn/product/list/gateway-system"><img src="https://dgx8.cdn50.nexwebb.com/aaeon/grid8/img_241112104821_cOQamC.png" alt="物联网网关系统"></a>
+</div>
+<div class="cell_sub title" >
+<span class="title">物联网网关系统</span>
+</div>
+</div>
+<div class="cell" >
+<div class="cell_sub img" >
+<a href="https://www.aaeon.com/cn/product/list/industrial-panel-pc"><img src="https://dgx8.cdn50.nexwebb.com/aaeon/grid8/img_241112104420_RgqpeQ.png" alt="HMI触摸式平板电脑"></a>
+</div>
+<div class="cell_sub title" >
+<span class="title">HMI触摸式平板电脑</span>
+</div>
+</div>
+</div>
+</div>
+<div class="block col123 block_col4"  style="background-color: #eeeeee; text-align: center; ">
+<div class="cells_wr">
+<div class="cell" >
+<div class="cell_sub rich_text" >
+<a href="https://www.aaeon.com/cn/article/list/catalogs"> 目录</a>
+</div>
+</div>
+<div class="cell" >
+<div class="cell_sub rich_text" >
+<a href="https://www.aaeon.com/cn/article/list/application-stories">应用案例</a>
+</div>
+</div>
+<div class="cell" >
+<div class="cell_sub rich_text" >
+<a href="https://www.aaeon.com/cn/ac/white-papers ">白皮书</a>
+</div>
+</div>
+<div class="cell" >
+<div class="cell_sub rich_text" >
+<a href="https://www.aaeon.com/cn/contact/enews_form "> 订阅电子报 </a>
+</div>
+</div>
+</div>
+</div>
+<div class="block tile_block"  style="background-color: #eeeeee; ">
+<div class="cells_wr tiles">
+<div class="cell section_4" >
+<section class="tile_content tile"  style="background-color: #ffffff; color: #ffffff !important; background-image: url('https://dgx8.cdn50.nexwebb.com/aaeon/bg/cell_sub_tile_250711035745_c50.jpg'); " data-link="https://www.aaeon.com/cn/article/detail/smart_locker_up_squared_7100_edge">
+<div class="content_wr">
+<span class="title">AI赋能的智能储物柜解决方案</span>
+<span class="caption">应用案例</span>
+</div>
+</section>
+<section class="tile_content tile" data-vertical-align="top"  style="color: #ffffff !important; text-align: left; background-image: url('https://dgx8.cdn50.nexwebb.com/aaeon/bg/cell_sub_tile_250711063032_tQF.png'); " data-link="https://www.aaeon.com/cn/article/detail/karaoke_entertainment_system_ktv">
+<div class="content_wr">
+<span class="title">连锁K歌门店升级方案</span>
+<span class="caption">应用案例</span>
+</div>
+</section>
+<section class="tile_content tile" data-vertical-align="bottom"  style="color: #ffffff !important; text-align: left; background-image: url('https://dgx8.cdn50.nexwebb.com/aaeon/bg/cell_sub_tile_250711071608_HzW.jpg'); " data-link="https://www.aaeon.com/cn/article/detail/com-rapc6_humanoid_robot">
+<div class="content_wr">
+<span class="title">人形机器人的智慧引擎：模块化 AI 核心</span>
+<span class="caption">应用案例</span>
+</div>
+</section>
+<section class="tile_content tile" data-vertical-align="bottom"  style="color: #ffffff !important; text-align: left; background-image: url('https://dgx8.cdn50.nexwebb.com/aaeon/bg/cell_sub_tile_250711052612_k0y.png'); " data-link="https://www.aaeon.com/cn/article/detail/mix-q670d1_nvr_solution">
+<div class="content_wr">
+<span class="title">智慧城市专属高效NVR方案</span>
+<span class="caption">应用案例</span>
+</div>
+</section>
+</div>
+<div class="cell section_1" >
+<section class="tile_content tile" data-vertical-align="bottom"  style="background-color: #c2e1e1; color: #fafafa !important; text-align: left; background-image: url('https://dgx8.cdn50.nexwebb.com/aaeon/bg/cell_sub_tile_251219030345_fro.png'); background-blend-mode: multiply; " data-link="https://www.aaeon.com/cn/article/detail/unmanned-vehicle-technology">
+<div class="content_wr">
+<span class="title">横跨陆海空的无人载具技术</span>
+<span class="caption">📥 立即下载《无人载具技术》电子书</span>
+</div>
+</section>
+</div>
+</div>
+</div>
+<div class="block col123 block_col1"  style="background-color: #eeeeee; ">
+<div class="cells_wr">
+<div class="cell" >
+</div>
+</div>
+</div>
+<div class=" block block_bnr sld_bnr_wr screen_1">
+<div class="cell bnr_cell ctx_position_right" data-box-position="right"  >
+<div class="content_box">
+<div class="dg_code dgc_flex_left" data-font_color="#fcfcfc" data-text_align="left">
+<br>
+<h1>Accelerate Robotics</h1><h1> Development</h1>
+<h1>with</h1>
+<h1>AAEON X Intel</h1>
+</div>
+<span class="data" data-fn="img_260415024602_Ebm9D3.jpg" data-img="https://dgx8.cdn50.nexwebb.com/aaeon/bnr/img_260415024602_Ebm9D3.jpg"></span>
+<span class="data" data-link="https://www.aaeon.com/cn/article/detail/accelerate-robotics-development-aaeon-intel"></span>
+<div class="pe_btn_wr position_">
+<span class="pe_btn btn_same_as_text"><a href="https://www.aaeon.com/cn/article/detail/accelerate-robotics-development-aaeon-intel">Discover More</a></span>
+</div>
+</div>
+</div>
+</div>
+<div class="block block_bnr_m sld_bnr_wr">
+<div class="cell bnr_m_cell " data-vertical-align="bottom"  >
+<div class="content_box">
+<span class="data" data-fn="img_260414073621_QAjboV.png" data-img="https://dgx8.cdn50.nexwebb.com/aaeon/bnr_m/img_260414073621_QAjboV.png"></span>
+<span class="data" data-link="https://www.aaeon.com/cn/article/detail/accelerate-robotics-development-aaeon-intel"></span>
+<div class="pe_btn_wr position_left">
+</div>
+</div>
+</div>
+</div>
+<div class=" block block_bnr sld_bnr_wr screen_1">
+<div class="cell bnr_cell ctx_position_left" data-box-position="left"  >
+<div class="content_box">
+<div class="dg_code dgc_flex_left" data-font_color="#01c7ef" data-text_align="left">
+<h1>工业级数据防护</h1>
+<h2>BOXER-6619-TWL：安全、坚固、高性能</h2>
+<h3>• 采用 Intel® Twin Lake 平台</h3>
+<h3>• 内建 BIOS 与操作系统级安全防护</h3>
+<h3>• 支持远程监控与诊断</h3>
+</div>
+<span class="data" data-fn="img_260325074924_aCQ7rN.jpg" data-img="https://dgx8.cdn50.nexwebb.com/aaeon/bnr/img_260325074924_aCQ7rN.jpg"></span>
+<span class="data" data-link="https://www.aaeon.com/cn/product/detail/compact-fanless-box-pc-solutions-boxer-6619-twl"></span>
+<div class="pe_btn_wr position_left">
+<span class="pe_btn btn_blue"><a href="https://www.aaeon.com/cn/product/detail/compact-fanless-box-pc-solutions-boxer-6619-twl">探索最新产品</a></span>
+</div>
+</div>
+</div>
+</div>
+<div class="block block_bnr_m sld_bnr_wr">
+<div class="cell bnr_m_cell " data-vertical-align="bottom"  >
+<div class="content_box">
+<span class="data" data-fn="img_260325075012_rBhnld.jpg" data-img="https://dgx8.cdn50.nexwebb.com/aaeon/bnr_m/img_260325075012_rBhnld.jpg"></span>
+<span class="data" data-link="https://www.aaeon.com/cn/product/detail/compact-fanless-box-pc-solutions-boxer-6619-twl"></span>
+<div class="dg_code dgc_flex_left" data-font_color="#ffffff" data-text_align="left">
+<h1>工业级数据防护</h1>
+<h2>BOXER-6619-TWL</h2>
+<h3>• 采用 Intel® Twin Lake 平台</h3>
+<h3>• 内建 BIOS 与操作系统级安全防护</h3>
+<h3>• 支持远程监控与诊断</h3>
+</div>
+<div class="pe_btn_wr position_center">
+<span class="pe_btn btn_white"><a href="https://www.aaeon.com/cn/product/detail/compact-fanless-box-pc-solutions-boxer-6619-twl">探索最新产品</a></span>
+</div>
+</div>
+</div>
+</div>
+<div class=" block block_bnr sld_bnr_wr screen_1">
+<div class="cell bnr_cell ctx_position_left" data-box-position="left"  >
+<div class="content_box">
+<div class="dg_code dgc_flex_left" data-font_color="#1c385e" data-text_align="left">
+<em> <h3> 获 2025 台湾精品奖 </h3> </em>
+<h2> UP Xtreme 7100 Edge </h2>
+<h3>AMR &amp; 机器人应用无风扇解决方案</h3>
+</div>
+<span class="data" data-fn="img_241128095235_sJzp6l.jpg" data-img="https://dgx8.cdn50.nexwebb.com/aaeon/bnr/img_241128095235_sJzp6l.jpg"></span>
+<span class="data" data-link="https://www.aaeon.com/cn/product/detail/up-systems-up-xtreme-7100-edge"></span>
+<div class="pe_btn_wr position_left">
+<span class="pe_btn btn_blue"><a href="https://www.aaeon.com/cn/product/detail/up-systems-up-xtreme-7100-edge">了解更多</a></span>
+</div>
+</div>
+</div>
+</div>
+<div class="block block_bnr_m sld_bnr_wr">
+<div class="cell bnr_m_cell " data-vertical-align="bottom"  >
+<div class="content_box">
+<div class="dg_code dgc_flex_left" data-font_color="#1c385e" data-text_align="left">
+<em> <h3>获 2025 台湾精品奖</h3> </em>
+<h2> UP Xtreme 7100 Edge </h2>
+<h3>AMR &amp; 机器人应用无风扇解决方案</h3>
+</div>
+<span class="data" data-fn="img_250414092340_Mlgp97.jpg" data-img="https://dgx8.cdn50.nexwebb.com/aaeon/bnr_m/img_250414092340_Mlgp97.jpg"></span>
+<span class="data" data-link="https://www.aaeon.com/cn/product/detail/up-systems-up-xtreme-7100-edge"></span>
+<div class="pe_btn_wr position_left">
+<span class="pe_btn btn_blue"><a href="https://www.aaeon.com/cn/product/detail/up-systems-up-xtreme-7100-edge">了解更多</a></span>
+</div>
+</div>
+</div>
+</div>
+<div class=" block block_bnr sld_bnr_wr screen_1">
+<div class="cell bnr_cell ctx_position_"  >
+<div class="content_box">
+<div class="dg_code dgc_flex_" data-font_color="#f2d5b5" data-text_align="">
+<h1>工业级面板电脑与显示解决方案</h1>
+<h2>ACP / OMNI / NIKY 系列</h2>
+<h3>．7&quot; 至 27&quot; 多尺寸选择</h3>
+<h3>．灵活面板配置</h3>
+<h3>．支持有线、无线与工业通信</h3>
+</div>
+<span class="data" data-fn="img_241023064750_08ecEK.jpg" data-img="https://dgx8.cdn50.nexwebb.com/aaeon/bnr/img_241023064750_08ecEK.jpg"></span>
+<span class="data" data-link="https://www.aaeon.com/cn/c/industrial-all-in-one-panel-pcs/"></span>
+<div class="pe_btn_wr position_">
+<span class="pe_btn btn_same_as_text"><a href="https://www.aaeon.com/cn/product/list/industrial-all-in-one-panel-pcs">详细介绍</a></span>
+</div>
+</div>
+</div>
+</div>
+<div class="block block_bnr_m sld_bnr_wr">
+<div class="cell bnr_m_cell " data-vertical-align="bottom"  >
+<div class="content_box">
+<span class="data" data-fn="img_260325075405_6hrqxu.jpg" data-img="https://dgx8.cdn50.nexwebb.com/aaeon/bnr_m/img_260325075405_6hrqxu.jpg"></span>
+<span class="data" data-link="https://www.aaeon.com/cn/product/list/industrial-all-in-one-panel-pcs"></span>
+<div class="dg_code dgc_flex_left" data-font_color="#f2d5b5" data-text_align="left">
+<h1>工业级面板电脑与显示解决方案</h1>
+<h2>ACP / OMNI / NIKY 系列</h2>
+<h3>．7&quot; 至 27&quot; 多尺寸选择</h3>
+<h3>．灵活面板配置</h3>
+<h3>．支持有线、无线与工业通信</h3>
+</div>
+<div class="pe_btn_wr position_center">
+<span class="pe_btn btn_same_as_text"><a href="https://www.aaeon.com/cn/product/list/industrial-all-in-one-panel-pcs">立即了解产品</a></span>
+</div>
+</div>
+</div>
+</div>
+    </div>
+    <div class="frame_bottom">
+        <div class="footer_blocks_wr g_4">
+<div class="footer_block">
+<span class="title">常用链接</span>
+<ul class="footer_block_links">
+<li><a href="https://up-board.org/" target="_blank">UP产品网站</a></li>
+<li><a href="https://www.aaeon.com/cn/about/careers" target="_blank">职业生涯</a></li>
+<li><a href="https://www.aaeon.com/cn/news/list/press-release" target="_blank">新闻发布</a></li>
+<li><a href="https://www.aaeon.com/cn/news/list/global-events" target="_blank">全球事件</a></li>
+<li><a href="https://www.aaeon.com/cn/article/list/application-stories" target="_blank">应用案例</a></li>
+<li><a href="https://www.aaeon.com/cn/article/list/videos" target="_blank">视频</a></li>
+<li><a href="https://www.aaeon.com/cn/article/list/white-papers" target="_blank">白皮书</a></li>
+</ul>
+</div>
+<div class="footer_block">
+<span class="title">服务</span>
+<ul class="footer_block_links">
+<li><a href="https://www.aaeon.com/cn/article/list/catalogs" target="_blank">目录</a></li>
+<li><a href="https://www.aaeon.com/cn/product/list/end-of-life-products" target="_blank">下架产品</a></li>
+<li><a href="https://www.aaeon.com/cn/article/list/design-manufacturing-service" target="_blank">设计制造服务</a></li>
+<li><a href="https://www.aaeon.com/cn/article/list/customization-services" target="_blank">原始设计制造商</a></li>
+<li><a href="https://www.aaeon.com/cn/article/list/q-service-embedded-boards-computer-on-module" target="_blank">Q服务</a></li>
+<li><a href="https://www.aaeon.com/cn/article/list/embedded-software-services" target="_blank">嵌入式软件</a></li>
+<li><a href="https://www.aaeon.com/cn/article/list/bios-customization-services" target="_blank">BIOS服务</a></li>
+</ul>
+</div>
+<div class="footer_block">
+<span class="title">热门产品</span>
+<ul class="footer_block_links">
+<li><a href="https://www.aaeon.com/cn/product/list/rugged-tablet-computers" target="_blank">强固型平板</a></li>
+<li><a href="https://www.aaeon.com/cn/product/list/aaeon-panel-pc" target="_blank">HMI触摸式平板电脑</a></li>
+<li><a href="https://www.aaeon.com/cn/product/list/network-appliance-video-surveillance" target="_blank">网络安全设备</a></li>
+<li><a href="https://www.aaeon.com/cn/product/list/embedded-single-board-computers" target="_blank">嵌入式单板计算机</a></li>
+<li><a href="https://www.aaeon.com/cn/product/list/industrial-motherboards" target="_blank">工业母板</a></li>
+<li><a href="https://www.aaeon.com/cn/product/list/fanless-embedded-box-pc" target="_blank">无风扇嵌入式Box电脑</a></li>
+</ul>
+</div>
+<div class="footer_block">
+<span class="title">热门话题</span>
+<ul class="footer_block_links">
+<li><a href="https://www.aaeon.com/cn/article/list/industrial-automation" target="_blank">工业自动化</a></li>
+<li><a href="https://www.aaeon.com/cn/article/list/transportation-and-harbor" target="_blank">交通运输</a></li>
+<li><a href="https://www.aaeon.com/cn/article/list/digital-signage" target="_blank">数字标牌</a></li>
+<li><a href="https://www.aaeon.com/cn/article/list/rugged-platforms" target="_blank">强固型平台</a></li>
+<li><a href="https://www.aaeon.com/cn/article/list/wide-temperature-platforms" target="_blank">宽温平台</a></li>
+<li><a href="https://www.aaeon.com/cn/article/list/aaeon-hi-safe" target="_blank">研扬Hi-Safe</a></li>
+<li><a href="https://www.aaeon.com/cn/article/list/aaeon-hi-manager" target="_blank">研扬Hi-Manager</a></li>
+</ul>
+</div>
+</div><div class="footer_copyright">
+Copyright &copy; 2026 AAEON Technology Inc. All rights reserved.
+</div><div class="certificate_icons">
+<div class="icon_unit">
+<img src="https://dgx8.cdn50.nexwebb.com/aaeon/uif/footerCertificates_2502_cj831D.png" alt="cn_certificate">
+<span class="name">苏公网安备 32059002002996号</span>
+</div>
+</div><div class="footer_link_bar">
+<a href="https://beian.miit.gov.cn/" target="_blank">备案号：苏ICP备11021970号</a>
+</div>
+    </div>
+    <div id="cta" class="hide" data-click_dismiss="2" data-link="/cn/contact/contact_form">
+    <span class="cta_close mat">close</span>
+    
+    <span class="cta_msg">欢迎联系我们，我们很乐意为您提供专业的服务与建议</span>
+    
+    <span class="cta_btn">报价谘询</span>
+</div>
+</div>
+
+<script type="module" src="/static/uif/uif_v3.21/js/dg_main.js"></script>
+<div class="ccb_wr">
+    <div class="cookie_consent_box" data-clang="cn" role="dialog" aria-live="polite" aria-label="cookie consent">
+        <span class="close_btn">
+            <i class="mat">close</i>
+        </span>
+        
+        <div class="ccb_stage">
+            <div class="ccb_msg">
+                <h3 data-d="cookie_notice_title">Privacy preferences</h3>
+                <p data-d="cookie_notice_text">我们使用Cookie来改善您的体验、分析流量并提升服务。点击“接受”，即表示您同意我们使用Cookie。您可以在“设置”选项中管理您的偏好。</p>
+            </div>
+            <div class="ccb_actions">
+            <span class="privacy_terms" data-d="cookie_privacy_terms">
+                <a href="/cn/terms/privacy_terms">Privacy policy</a>
+            </span>
+                <span class="settings_btn" data-d="cookie_settings">Cookie设置</span>
+                <span class="accept_btn" data-d="cookie_accept_all">接受所有</span>
+            </div>
+        </div>
+        
+    </div>
+</div>
+<!-- Powered By DUGAA® -->
+</body>
+</html>
