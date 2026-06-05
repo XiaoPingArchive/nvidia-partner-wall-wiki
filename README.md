@@ -62,7 +62,25 @@
 
 ---
 
+## 🤝 参与贡献
+
+我们非常欢迎社区研究者共同维护和扩充这个数据库！
+如果您发现了信息错误、想补充新的企业、或者想优化官网翻译：
+* 请先阅读我们的 [贡献指南 (Contributing Guide)](CONTRIBUTING.md)。
+* 通过提交 Issue 反馈问题，或者直接发起 Pull Request (PR) 贡献代码。
+
+---
+
+## 🌐 在线发布 (GitHub Pages 部署)
+
+本项目完全由静态文件组成，极易进行线上部署。若要将其作为公开的在线 Wiki 访问，建议使用 **GitHub Pages**：
+1. 进入 GitHub 仓库页面，点击 **Settings** -> **Pages**。
+2. 在 **Build and deployment** 部分，将 Source 设置为 `Deploy from a branch`。
+3. 选择 `main` 分支和根目录 `/ (root)`，点击 **Save**。
+4. 稍等片刻，GitHub 便会为您生成一个公网可访问的静态网站链接，此后任何合并入 `main` 的 PR 都会自动触发线上热更新。
+
+---
+
 ## 📄 开源协议
 
 本项目基于 [MIT License](LICENSE) 协议开源，允许自由使用、分发和修改。
-
