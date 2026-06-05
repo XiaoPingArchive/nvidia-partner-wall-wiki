@@ -18,6 +18,7 @@ const companies = [
       "y1": 71,
       "y2": 121
     },
+    "description": "主打物理AI方向：OpenAI投资的人形机器人先驱。 给英伟达的 AI 大脑“长身体”的具身智能先锋。通过英伟达的 Isaac 或 Jetson 平台训练机器人，共同探索物理世界的下一代搞钱风口。",
     "disassembly": "主打物理AI方向：OpenAI投资的人形机器人先驱。",
     "money": "给英伟达的 AI 大脑“长身体”的具身智能先锋。通过英伟达的 Isaac 或 Jetson 平台训练机器人，共同探索物理世界的下一代搞钱风口。",
     "action": "“给英伟达算力‘装上铁脚板’的未来玩家！让 AI 大脑控制钢筋铁骨，这才是下一代物理世界大杀器。”",
@@ -37,6 +38,7 @@ const companies = [
       "y1": 71,
       "y2": 121
     },
+    "description": "【企业官网介绍】\nAAEON, provider of advanced Edge AI Solutions, Rugged Tablets, Embedded Controllers, Panel PCs, Servers, Industrial Motherboards, COM Modules, Embedded SBCs, and Customization Services.\n\n【NVIDIA 协同与生态定位】\n定位是 研扬科技，全球先进工业电脑与边缘计算平台制造商。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 研扬科技，全球先进工业电脑与边缘计算平台制造商。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -56,6 +58,7 @@ const companies = [
       "y1": 71,
       "y2": 121
     },
+    "description": "【企业官网介绍】\nGlobal technology leader in electrification and automation. ABB helps industries run at high performance, while becoming more efficient, productive and sustainable.\n\n【NVIDIA 协同与生态定位】\n主打物理AI方向：全球工业机器人四大家族之一，工业自动化巨头。 给英伟达的 AI 大脑“长身体”的具身智能先锋。通过英伟达的 Isaac 或 Jetson 平台训练机器人，共同探索物理世界的下一代搞钱风口。",
     "disassembly": "主打物理AI方向：全球工业机器人四大家族之一，工业自动化巨头。",
     "money": "给英伟达的 AI 大脑“长身体”的具身智能先锋。通过英伟达的 Isaac 或 Jetson 平台训练机器人，共同探索物理世界的下一代搞钱风口。",
     "action": "“给英伟达算力‘装上铁脚板’的未来玩家！让 AI 大脑控制钢筋铁骨，这才是下一代物理世界大杀器。”",
@@ -75,6 +78,7 @@ const companies = [
       "y1": 71,
       "y2": 121
     },
+    "description": "专注学术与前沿应用：台湾学术研究机构（中央研究院）。 英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "disassembly": "专注学术与前沿应用：台湾学术研究机构（中央研究院）。",
     "money": "英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "action": "“科学家与万亿资本的梦幻联动！帮老黄把算力火种播撒在攻克绝症与超级计算的无人区里。”",
@@ -94,6 +98,7 @@ const companies = [
       "y1": 71,
       "y2": 121
     },
+    "description": "定位是 智邦科技，全球云数据中心交换机代工龙头。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 智邦科技，全球云数据中心交换机代工龙头。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -113,6 +118,7 @@ const companies = [
       "y1": 71,
       "y2": 121
     },
+    "description": "主打软件与 AI 平台：高精度AI视觉或系统方案商。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：高精度AI视觉或系统方案商。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -132,6 +138,7 @@ const companies = [
       "y1": 71,
       "y2": 121
     },
+    "description": "定位是 宏碁，知名个人电脑与硬件品牌。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 宏碁，知名个人电脑与硬件品牌。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -151,6 +158,7 @@ const companies = [
       "y1": 71,
       "y2": 121
     },
+    "description": "【企业官网介绍】\nEdge computing and IoT solutions supporting the transition to connected industrial IoT systems across industries. Learn more about ADLINK Technology.\n\n【NVIDIA 协同与生态定位】\n专注网络与安全侧：凌华科技，工业电脑与边缘计算专家。 算力帝国的安全盾牌。GPU 数据中心开得越猛，流量与防护需求就越大。他们专门提供数据防漏与零信任防线。",
     "disassembly": "专注网络与安全侧：凌华科技，工业电脑与边缘计算专家。",
     "money": "算力帝国的安全盾牌。GPU 数据中心开得越猛，流量与防护需求就越大。他们专门提供数据防漏与零信任防线。",
     "action": "“算力帝国的金牌保镖！GPU 跑得再快，数据被偷了也是白搭，他们就是帮老黄看门的最强数字哨兵。”",
@@ -170,6 +178,7 @@ const companies = [
       "y1": 71,
       "y2": 121
     },
+    "description": "数字创意巨头 Adobe 与英伟达深度合作，将其 Firefly 系列生成式 AI 模型与 Creative Cloud 工作流原生集成。通过适配英伟达的端侧硬件加速，用户可在本地的创意软件中实现秒级图像生成，兼顾极高的数据安全与流程流畅度。",
     "disassembly": "数字创意巨头 Adobe 与英伟达深度合作，将其 Firefly 系列生成式 AI 模型与 Creative Cloud 工作流原生集成。通过适配英伟达的端侧硬件加速，用户可在本地的创意软件中实现秒级图像生成，兼顾极高的数据安全与流程流畅度。",
     "money": "随着 Adobe 本地 AI Agent 接口的成熟，设计与自媒体领域的人均产出效率将获得倍数级提升，大幅降低创意设计的软硬件综合成本。",
     "action": "“Adobe 与英伟达的端侧加速合作，实现了在本地 Photoshop 等经典工具中秒级运行生成式 AI 模型。”",
@@ -189,6 +198,7 @@ const companies = [
       "y1": 71,
       "y2": 121
     },
+    "description": "定位是 前沿智能硬件/软件方案商。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 前沿智能硬件/软件方案商。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -208,6 +218,7 @@ const companies = [
       "y1": 71,
       "y2": 121
     },
+    "description": "定位是 研华科技，全球工业电脑与边缘物联网龙头。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 研华科技，全球工业电脑与边缘物联网龙头。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -227,6 +238,7 @@ const companies = [
       "y1": 71,
       "y2": 121
     },
+    "description": "主要提供算力落地支持：安提国际，边缘AI硬件与GPU加速方案商。 负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "disassembly": "主要提供算力落地支持：安提国际，边缘AI硬件与GPU加速方案商。",
     "money": "负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "action": "“老黄出图纸，他们出工程！直接帮英伟达把服务器柜子插满客户数据中心的超级装配工。”",
@@ -246,6 +258,7 @@ const companies = [
       "y1": 71,
       "y2": 121
     },
+    "description": "主打软件与 AI 平台：边缘AI与智能连接技术。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：边缘AI与智能连接技术。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -265,6 +278,7 @@ const companies = [
       "y1": 71,
       "y2": 121
     },
+    "description": "主打物理AI方向：智元机器人，国内具身智能明星企业。 给英伟达的 AI 大脑“长身体”的具身智能先锋。通过英伟达的 Isaac 或 Jetson 平台训练机器人，共同探索物理世界的下一代搞钱风口。",
     "disassembly": "主打物理AI方向：智元机器人，国内具身智能明星企业。",
     "money": "给英伟达的 AI 大脑“长身体”的具身智能先锋。通过英伟达的 Isaac 或 Jetson 平台训练机器人，共同探索物理世界的下一代搞钱风口。",
     "action": "“给英伟达算力‘装上铁脚板’的未来玩家！让 AI 大脑控制钢筋铁骨，这才是下一代物理世界大杀器。”",
@@ -284,6 +298,7 @@ const companies = [
       "y1": 71,
       "y2": 121
     },
+    "description": "【企业官网介绍】\nAs a leader in AI-driven robotics and automation, we provide innovative solutions that set new industry standards globally.\n\n【NVIDIA 协同与生态定位】\n主打物理AI方向：思灵机器人，智能机器人独角兽。 给英伟达的 AI 大脑“长身体”的具身智能先锋。通过英伟达的 Isaac 或 Jetson 平台训练机器人，共同探索物理世界的下一代搞钱风口。",
     "disassembly": "主打物理AI方向：思灵机器人，智能机器人独角兽。",
     "money": "给英伟达的 AI 大脑“长身体”的具身智能先锋。通过英伟达的 Isaac 或 Jetson 平台训练机器人，共同探索物理世界的下一代搞钱风口。",
     "action": "“给英伟达算力‘装上铁脚板’的未来玩家！让 AI 大脑控制钢筋铁骨，这才是下一代物理世界大杀器。”",
@@ -303,6 +318,7 @@ const companies = [
       "y1": 71,
       "y2": 121
     },
+    "description": "【企业官网介绍】\nAgility's humanoid robots are deployed today in manufacturing, distribution, and logistics. Proven automation for industrial environments.\n\n【NVIDIA 协同与生态定位】\n主打物理AI方向：知名双足机器人Digit研发商。 给英伟达的 AI 大脑“长身体”的具身智能先锋。通过英伟达的 Isaac 或 Jetson 平台训练机器人，共同探索物理世界的下一代搞钱风口。",
     "disassembly": "主打物理AI方向：知名双足机器人Digit研发商。",
     "money": "给英伟达的 AI 大脑“长身体”的具身智能先锋。通过英伟达的 Isaac 或 Jetson 平台训练机器人，共同探索物理世界的下一代搞钱风口。",
     "action": "“给英伟达算力‘装上铁脚板’的未来玩家！让 AI 大脑控制钢筋铁骨，这才是下一代物理世界大杀器。”",
@@ -322,6 +338,7 @@ const companies = [
       "y1": 71,
       "y2": 121
     },
+    "description": "【企业官网介绍】\nAI Agents for Business Users at Enterprise Scale Agentic Analytics automatically looks at millions of patterns to surface actionable insights Agentic Analytics using reasoning and tool calling to find custom insights based on user feedback Media Agent finding key insights in video / image / audio and learning from user feedback on reasoning steps Operational Agent automating end-to-end business processes like Order-To-Cash spanning analytics, predictive, tool calling, etc.\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：企业级AI分析与自动化部署。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：企业级AI分析与自动化部署。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -341,6 +358,7 @@ const companies = [
       "y1": 71,
       "y2": 121
     },
+    "description": "主要提供算力落地支持：营邦企业，服务器机壳与系统设计商。 负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "disassembly": "主要提供算力落地支持：营邦企业，服务器机壳与系统设计商。",
     "money": "负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "action": "“老黄出图纸，他们出工程！直接帮英伟达把服务器柜子插满客户数据中心的超级装配工。”",
@@ -360,6 +378,7 @@ const companies = [
       "y1": 71,
       "y2": 121
     },
+    "description": "【企业官网介绍】\nAI-powered video analytics that improves safety and operational efficiency across construction, manufacturing, and all heavy industries.\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：AI视频安全监控解决方案。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：AI视频安全监控解决方案。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -379,6 +398,7 @@ const companies = [
       "y1": 71,
       "y2": 121
     },
+    "description": "【企业官网介绍】\nDiscover the latest breaking news in the U.S. and around the world — politics, weather, entertainment, lifestyle, finance, sports and much more.\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：前沿计算方案商。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：前沿计算方案商。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -398,6 +418,7 @@ const companies = [
       "y1": 71,
       "y2": 121
     },
+    "description": "主打软件与 AI 平台：下一代云数据中心服务器供应商。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：下一代云数据中心服务器供应商。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -417,6 +438,7 @@ const companies = [
       "y1": 136,
       "y2": 186
     },
+    "description": "专注网络与安全侧：全球CDN与边缘安全巨头。 算力帝国的安全盾牌。GPU 数据中心开得越猛，流量与防护需求就越大。他们专门提供数据防漏与零信任防线。",
     "disassembly": "专注网络与安全侧：全球CDN与边缘安全巨头。",
     "money": "算力帝国的安全盾牌。GPU 数据中心开得越猛，流量与防护需求就越大。他们专门提供数据防漏与零信任防线。",
     "action": "“算力帝国的金牌保镖！GPU 跑得再快，数据被偷了也是白搭，他们就是帮老黄看门的最强数字哨兵。”",
@@ -436,6 +458,7 @@ const companies = [
       "y1": 148,
       "y2": 178
     },
+    "description": "主打软件与 AI 平台：生物技术与AI计算。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：生物技术与AI计算。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -455,6 +478,7 @@ const companies = [
       "y1": 136,
       "y2": 186
     },
+    "description": "专攻芯片级核心技术：世芯电子，高阶ASIC芯片设计龙头。 老黄 GPU 帝国的基石。没有他们的先进制程、高带宽显存（HBM）或芯片IP，老黄的芯片根本无法大规模量产。",
     "disassembly": "专攻芯片级核心技术：世芯电子，高阶ASIC芯片设计龙头。",
     "money": "老黄 GPU 帝国的基石。没有他们的先进制程、高带宽显存（HBM）或芯片IP，老黄的芯片根本无法大规模量产。",
     "action": "“万亿算力大厦的硬核地基！别光盯着英伟达的显卡，没有他们托底，老黄的芯片根本走不出实验室！”",
@@ -474,6 +498,7 @@ const companies = [
       "y1": 136,
       "y2": 186
     },
+    "description": "【企业官网介绍】\nAlibaba Cloud offers integrated suite of cloud products and services to businesses in America, to help to digitalize by providing scalable, secure and reliable cloud computing solutions. Try for Free.\n\n【NVIDIA 协同与生态定位】\n主要提供算力落地支持：阿里云，中国最大云服务提供商。 负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "disassembly": "主要提供算力落地支持：阿里云，中国最大云服务提供商。",
     "money": "负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "action": "“老黄出图纸，他们出工程！直接帮英伟达把服务器柜子插满客户数据中心的超级装配工。”",
@@ -493,6 +518,7 @@ const companies = [
       "y1": 136,
       "y2": 186
     },
+    "description": "【企业官网介绍】\nRevolutionizing semiconductor design & process through artificial intelligence innovation. Meet our leadership team and explore cutting-edge semiconductor solutions.\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：半导体设计与AI方案商。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：半导体设计与AI方案商。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -512,6 +538,7 @@ const companies = [
       "y1": 136,
       "y2": 186
     },
+    "description": "【企业官网介绍】\nAnthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：大模型独角兽，Claude母公司。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：大模型独角兽，Claude母公司。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -531,6 +558,7 @@ const companies = [
       "y1": 73,
       "y2": 123
     },
+    "description": "【企业官网介绍】\nFrom cloud to edge, Arm provides the compute platforms behind today’s most advanced AI, trusted by innovators worldwide.\n\n【NVIDIA 协同与生态定位】\n专攻芯片级核心技术：半导体芯片架构巨头，移动与端侧AI基石。 老黄 GPU 帝国的基石。没有他们的先进制程、高带宽显存（HBM）或芯片IP，老黄的芯片根本无法大规模量产。",
     "disassembly": "专攻芯片级核心技术：半导体芯片架构巨头，移动与端侧AI基石。",
     "money": "老黄 GPU 帝国的基石。没有他们的先进制程、高带宽显存（HBM）或芯片IP，老黄的芯片根本无法大规模量产。",
     "action": "“万亿算力大厦的硬核地基！别光盯着英伟达的显卡，没有他们托底，老黄的芯片根本走不出实验室！”",
@@ -550,6 +578,7 @@ const companies = [
       "y1": 136,
       "y2": 186
     },
+    "description": "主打软件与 AI 平台：大语言模型及企业知识库引擎。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：大语言模型及企业知识库引擎。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -569,6 +598,7 @@ const companies = [
       "y1": 136,
       "y2": 186
     },
+    "description": "专攻芯片级核心技术：物联网资产管理与网络安全龙头。 老黄 GPU 帝国的基石。没有他们的先进制程、高带宽显存（HBM）或芯片IP，老黄的芯片根本无法大规模量产。",
     "disassembly": "专攻芯片级核心技术：物联网资产管理与网络安全龙头。",
     "money": "老黄 GPU 帝国的基石。没有他们的先进制程、高带宽显存（HBM）或芯片IP，老黄的芯片根本无法大规模量产。",
     "action": "“万亿算力大厦的硬核地基！别光盯着英伟达的显卡，没有他们托底，老黄的芯片根本走不出实验室！”",
@@ -588,6 +618,7 @@ const companies = [
       "y1": 136,
       "y2": 186
     },
+    "description": "定位是 华擎科技，知名主板及显卡硬件品牌。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 华擎科技，知名主板及显卡硬件品牌。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -607,6 +638,7 @@ const companies = [
       "y1": 136,
       "y2": 186
     },
+    "description": "主要提供算力落地支持：华擎科技旗下AI服务器品牌。 负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "disassembly": "主要提供算力落地支持：华擎科技旗下AI服务器品牌。",
     "money": "负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "action": "“老黄出图纸，他们出工程！直接帮英伟达把服务器柜子插满客户数据中心的超级装配工。”",
@@ -626,6 +658,7 @@ const companies = [
       "y1": 136,
       "y2": 186
     },
+    "description": "【企业官网介绍】\nAstera Labs: Purpose-Built Connectivity for Rack-Scale AI\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：高带宽连接芯片设计新贵，AI独角兽。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：高带宽连接芯片设计新贵，AI独角兽。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -645,6 +678,7 @@ const companies = [
       "y1": 136,
       "y2": 186
     },
+    "description": "华硕作为全球知名的个人电脑与电竞硬件巨头，在英伟达的高性能计算生态中扮演着关键硬件集成商的角色。除了提供搭载 RTX 系列显卡的顶级设备外，华硕还与英伟达联合调优本地端侧的多模态 AI 辅助应用（如 Project G-Assist），提升电竞与创作领域的交互体验。",
     "disassembly": "华硕作为全球知名的个人电脑与电竞硬件巨头，在英伟达的高性能计算生态中扮演着关键硬件集成商的角色。除了提供搭载 RTX 系列显卡的顶级设备外，华硕还与英伟达联合调优本地端侧的多模态 AI 辅助应用（如 Project G-Assist），提升电竞与创作领域的交互体验。",
     "money": "高性能电竞硬件和创作工作站是端侧 AI 最早商业化的落地场景。高功耗端侧 GPU 配合本地 AI 辅助软件，将为极客与专业创作者提供极高附加值的解决方案。",
     "action": "“华硕与英伟达在高性能 PC 和本地多模态 AI 辅助程序方面的联调，极大拓宽了端侧算力边界。”",
@@ -664,6 +698,7 @@ const companies = [
       "y1": 136,
       "y2": 186
     },
+    "description": "【企业官网介绍】\nDigitalizing the world’s largest enterprises- smart, sustainable solutions for the modern business. We create the foundations for a thriving tomorrow.\n\n【NVIDIA 协同与生态定位】\n定位是 欧洲IT服务与超级计算机巨头。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 欧洲IT服务与超级计算机巨头。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -683,6 +718,7 @@ const companies = [
       "y1": 136,
       "y2": 186
     },
+    "description": "【企业官网介绍】\nInspired by the human brain, Autobrains' technologies are closer to how human driving works. Making roads a safer place for everyone.\n\n【NVIDIA 协同与生态定位】\n主打物理AI方向：自动驾驶与ADAS车用视觉芯片与防撞算法开发商。 给英伟达的 AI 大脑“长身体”的具身智能先锋。通过英伟达的 Isaac 或 Jetson 平台训练机器人，共同探索物理世界的下一代搞钱风口。",
     "disassembly": "主打物理AI方向：自动驾驶与ADAS车用视觉芯片与防撞算法开发商。",
     "money": "给英伟达的 AI 大脑“长身体”的具身智能先锋。通过英伟达的 Isaac 或 Jetson 平台训练机器人，共同探索物理世界的下一代搞钱风口。",
     "action": "“给英伟达算力‘装上铁脚板’的未来玩家！让 AI 大脑控制钢筋铁骨，这才是下一代物理世界大杀器。”",
@@ -702,6 +738,7 @@ const companies = [
       "y1": 136,
       "y2": 186
     },
+    "description": "【企业官网介绍】\nAVerMedia strives to create cutting-edge technology. In terms of content creation, video collaboration, and Edge AI, AVerMedia provides a variety of products including capture cards, webcams, microphones, embedded systems, and more.\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：圆刚科技，视频采集卡与边缘AI设备商。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：圆刚科技，视频采集卡与边缘AI设备商。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -721,6 +758,7 @@ const companies = [
       "y1": 136,
       "y2": 186
     },
+    "description": "定位是 亚马逊云科技，全球云计算老大。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 亚马逊云科技，全球云计算老大。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -740,6 +778,7 @@ const companies = [
       "y1": 136,
       "y2": 186
     },
+    "description": "【企业官网介绍】\nAxiomtek, an industrial PC field expert, designs and manufactures embedded computer, Box PC, industrial motherboard, single board computer, system on module, touch panel PC, Ethernet switch, network security appliance and digital signage.\n\n【NVIDIA 协同与生态定位】\n定位是 艾讯科技，工业物联网与嵌入式电脑。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 艾讯科技，工业物联网与嵌入式电脑。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -759,6 +798,7 @@ const companies = [
       "y1": 136,
       "y2": 186
     },
+    "description": "位于 Beyond AI 旁边的滑稽手绘狗头，附有‘爱优的狗’字样。这代表英伟达在严谨、硬核的生态背板中，植入的一丝极客幽默感与趣味彩蛋。",
     "disassembly": "位于 Beyond AI 旁边的滑稽手绘狗头，附有‘爱优的狗’字样。这代表英伟达在严谨、硬核的生态背板中，植入的一丝极客幽默感与趣味彩蛋。",
     "money": "",
     "action": "",
@@ -778,6 +818,7 @@ const companies = [
       "y1": 136,
       "y2": 186
     },
+    "description": "主打软件与 AI 平台：智能多媒体与AI算法提供商。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：智能多媒体与AI算法提供商。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -797,6 +838,7 @@ const companies = [
       "y1": 136,
       "y2": 186
     },
+    "description": "位于 BizLink 旁边的趣味中文标志，是黄仁勋在合作伙伴大屏幕中设计的一个生活气息与在地印记符号。",
     "disassembly": "位于 BizLink 旁边的趣味中文标志，是黄仁勋在合作伙伴大屏幕中设计的一个生活气息与在地印记符号。",
     "money": "",
     "action": "",
@@ -816,6 +858,7 @@ const companies = [
       "y1": 136,
       "y2": 186
     },
+    "description": "【企业官网介绍】\nUnlock your business's potential with BizLink's interconnectivity expertise. We empower visions to turn possibilities into reality, connecting you deeper with customers.\n\n【NVIDIA 协同与生态定位】\n专注网络与安全侧：贸联，全球高性能连接线缆巨头。 算力帝国的安全盾牌。GPU 数据中心开得越猛，流量与防护需求就越大。他们专门提供数据防漏与零信任防线。",
     "disassembly": "专注网络与安全侧：贸联，全球高性能连接线缆巨头。",
     "money": "算力帝国的安全盾牌。GPU 数据中心开得越猛，流量与防护需求就越大。他们专门提供数据防漏与零信任防线。",
     "action": "“算力帝国的金牌保镖！GPU 跑得再快，数据被偷了也是白搭，他们就是帮老黄看门的最强数字哨兵。”",
@@ -835,6 +878,7 @@ const companies = [
       "y1": 136,
       "y2": 186
     },
+    "description": "【企业官网介绍】\nBlack Forest Labs is building visual intelligence: models that understand, reason, and act in the world. Use FLUX models via our API.\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：Flux开源图像模型母公司。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：Flux开源图像模型母公司。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -854,6 +898,7 @@ const companies = [
       "y1": 136,
       "y2": 186
     },
+    "description": "【企业官网介绍】\nBYD has developed blade battery, electronic platform 3.0 and dual-mode hybrid technology for electric cars, giving full play to the advantages of intelligence, efficiency, safety and beauty brought by electrification to electric cars.\n\n【NVIDIA 协同与生态定位】\n定位是 比亚迪，新能源车与代工巨头。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 比亚迪，新能源车与代工巨头。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -873,6 +918,7 @@ const companies = [
       "y1": 201,
       "y2": 251
     },
+    "description": "【企业官网介绍】\nByteDance is a technology company operating a range of content platforms that inform, educate, entertain and inspire people across languages, cultures and geographies.\n\n【NVIDIA 协同与生态定位】\n定位是 字节跳动，全球短视频与算法巨头。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 字节跳动，全球短视频与算法巨头。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -892,6 +938,7 @@ const companies = [
       "y1": 201,
       "y2": 251
     },
+    "description": "【企业官网介绍】\n我們將圖面與歷史詢/報價資料進行整合，找出相似零件即可迅速推估新零件的合理價位！資料自動匯入，無需手動輸入、無維護成本。\n\n【NVIDIA 协同与生态定位】\n主打物理AI方向：智能工业方案商。 给英伟达的 AI 大脑“长身体”的具身智能先锋。通过英伟达的 Isaac 或 Jetson 平台训练机器人，共同探索物理世界的下一代搞钱风口。",
     "disassembly": "主打物理AI方向：智能工业方案商。",
     "money": "给英伟达的 AI 大脑“长身体”的具身智能先锋。通过英伟达的 Isaac 或 Jetson 平台训练机器人，共同探索物理世界的下一代搞钱风口。",
     "action": "“给英伟达算力‘装上铁脚板’的未来玩家！让 AI 大脑控制钢筋铁骨，这才是下一代物理世界大杀器。”",
@@ -911,6 +958,7 @@ const companies = [
       "y1": 201,
       "y2": 251
     },
+    "description": "专攻芯片级核心技术：EDA芯片设计软件巨头。 老黄 GPU 帝国的基石。没有他们的先进制程、高带宽显存（HBM）或芯片IP，老黄的芯片根本无法大规模量产。",
     "disassembly": "专攻芯片级核心技术：EDA芯片设计软件巨头。",
     "money": "老黄 GPU 帝国的基石。没有他们的先进制程、高带宽显存（HBM）或芯片IP，老黄的芯片根本无法大规模量产。",
     "action": "“万亿算力大厦的硬核地基！别光盯着英伟达的显卡，没有他们托底，老黄的芯片根本走不出实验室！”",
@@ -930,6 +978,7 @@ const companies = [
       "y1": 201,
       "y2": 251
     },
+    "description": "【企业官网介绍】\nDrive innovation in your enterprise with trusted open source from Canonical — simple, cost-effective, and supported.\n\n【NVIDIA 协同与生态定位】\n专注学术与前沿应用：Ubuntu Linux发行版母公司。 英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "disassembly": "专注学术与前沿应用：Ubuntu Linux发行版母公司。",
     "money": "英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "action": "“科学家与万亿资本的梦幻联动！帮老黄把算力火种播撒在攻克绝症与超级计算的无人区里。”",
@@ -949,6 +998,7 @@ const companies = [
       "y1": 201,
       "y2": 251
     },
+    "description": "【企业官网介绍】\nA private, global research university, Carnegie Mellon stands among the world's top educational institutions with its cutting-edge programs and innovations.\n\n【NVIDIA 协同与生态定位】\n专注学术与前沿应用：卡耐基梅隆大学，顶尖计算机与机器人高校。 英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "disassembly": "专注学术与前沿应用：卡耐基梅隆大学，顶尖计算机与机器人高校。",
     "money": "英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "action": "“科学家与万亿资本的梦幻联动！帮老黄把算力火种播撒在攻克绝症与超级计算的无人区里。”",
@@ -968,6 +1018,7 @@ const companies = [
       "y1": 201,
       "y2": 251
     },
+    "description": "主打软件与 AI 平台：国泰金控，台湾最大金融控股集团，AI智能理财与智慧金融基石。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：国泰金控，台湾最大金融控股集团，AI智能理财与智慧金融基石。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -987,6 +1038,7 @@ const companies = [
       "y1": 201,
       "y2": 251
     },
+    "description": "定位是 全球数字化平台与数据标注商。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 全球数字化平台与数据标注商。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -1006,6 +1058,7 @@ const companies = [
       "y1": 201,
       "y2": 251
     },
+    "description": "专注学术与前沿应用：长庚纪念医院，台湾智慧医疗示范院所。 英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "disassembly": "专注学术与前沿应用：长庚纪念医院，台湾智慧医疗示范院所。",
     "money": "英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "action": "“科学家与万亿资本的梦幻联动！帮老黄把算力火种播撒在攻克绝症与超级计算的无人区里。”",
@@ -1025,6 +1078,7 @@ const companies = [
       "y1": 201,
       "y2": 251
     },
+    "description": "【企业官网介绍】\nCheck Point Software Technologies Ltd. is a leading provider of cyber security solutions to corporate enterprises and governments globally.\n\n【NVIDIA 协同与生态定位】\n专注网络与安全侧：全球网络安全巨头。 算力帝国的安全盾牌。GPU 数据中心开得越猛，流量与防护需求就越大。他们专门提供数据防漏与零信任防线。",
     "disassembly": "专注网络与安全侧：全球网络安全巨头。",
     "money": "算力帝国的安全盾牌。GPU 数据中心开得越猛，流量与防护需求就越大。他们专门提供数据防漏与零信任防线。",
     "action": "“算力帝国的金牌保镖！GPU 跑得再快，数据被偷了也是白搭，他们就是帮老黄看门的最强数字哨兵。”",
@@ -1044,6 +1098,7 @@ const companies = [
       "y1": 201,
       "y2": 251
     },
+    "description": "定位是 勤诚兴业，全球服务器机壳制造龙头。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 勤诚兴业，全球服务器机壳制造龙头。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -1063,6 +1118,7 @@ const companies = [
       "y1": 201,
       "y2": 251
     },
+    "description": "定位是 中华电信，台湾最大电信运营商。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 中华电信，台湾最大电信运营商。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -1082,6 +1138,7 @@ const companies = [
       "y1": 201,
       "y2": 251
     },
+    "description": "【企业官网介绍】\nCisco is a worldwide technology leader powering an inclusive future for all. Learn more about our products, services, solutions, and innovations.\n\n【NVIDIA 协同与生态定位】\n专注网络与安全侧：思科，网络硬件设备巨头。 算力帝国的安全盾牌。GPU 数据中心开得越猛，流量与防护需求就越大。他们专门提供数据防漏与零信任防线。",
     "disassembly": "专注网络与安全侧：思科，网络硬件设备巨头。",
     "money": "算力帝国的安全盾牌。GPU 数据中心开得越猛，流量与防护需求就越大。他们专门提供数据防漏与零信任防线。",
     "action": "“算力帝国的金牌保镖！GPU 跑得再快，数据被偷了也是白搭，他们就是帮老黄看门的最强数字哨兵。”",
@@ -1101,6 +1158,7 @@ const companies = [
       "y1": 201,
       "y2": 251
     },
+    "description": "【企业官网介绍】\nClevo was founded in 1983 and is one of Taiwan\n\n【NVIDIA 协同与生态定位】\n定位是 蓝天电脑，知名笔记本代工大厂。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 蓝天电脑，知名笔记本代工大厂。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -1120,6 +1178,7 @@ const companies = [
       "y1": 201,
       "y2": 251
     },
+    "description": "【企业官网介绍】\nWelcome to Cloudflare - Powering the next generation of applications\n\n【NVIDIA 协同与生态定位】\n主要提供算力落地支持：全球CDN与边缘安全网络。 负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "disassembly": "主要提供算力落地支持：全球CDN与边缘安全网络。",
     "money": "负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "action": "“老黄出图纸，他们出工程！直接帮英伟达把服务器柜子插满客户数据中心的超级装配工。”",
@@ -1139,6 +1198,7 @@ const companies = [
       "y1": 201,
       "y2": 251
     },
+    "description": "【企业官网介绍】\nAI-ready storage that understands your data™. On-prem security and leading performance. Exabyte scalable and S3 compatible. Proven worldwide.\n\n【NVIDIA 协同与生态定位】\n主要提供算力落地支持：企业级混合云对象存储。 负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "disassembly": "主要提供算力落地支持：企业级混合云对象存储。",
     "money": "负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "action": "“老黄出图纸，他们出工程！直接帮英伟达把服务器柜子插满客户数据中心的超级装配工。”",
@@ -1158,6 +1218,7 @@ const companies = [
       "y1": 201,
       "y2": 251
     },
+    "description": "【企业官网介绍】\nYour Code Defines Your Skills\n\n【NVIDIA 协同与生态定位】\n定位是 智能代码与开发工具。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 智能代码与开发工具。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -1177,6 +1238,7 @@ const companies = [
       "y1": 201,
       "y2": 251
     },
+    "description": "定位是 仁宝电脑，全球最大的笔记本代工厂之一。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 仁宝电脑，全球最大的笔记本代工厂之一。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -1196,6 +1258,7 @@ const companies = [
       "y1": 201,
       "y2": 251
     },
+    "description": "仁宝电脑（COMPAL）与散热巨头酷冷至尊（Cooler Master）在视觉上的合并简称，被极客圈谐音称为老黄的‘快乐可乐’，代表两大代工与硬件基石在英伟达产业链中的协同支持。",
     "disassembly": "仁宝电脑（COMPAL）与散热巨头酷冷至尊（Cooler Master）在视觉上的合并简称，被极客圈谐音称为老黄的‘快乐可乐’，代表两大代工与硬件基石在英伟达产业链中的协同支持。",
     "money": "",
     "action": "",
@@ -1215,6 +1278,7 @@ const companies = [
       "y1": 201,
       "y2": 251
     },
+    "description": "定位是 酷冷至尊，全球电脑散热、均热板与水冷排解决方案巨头。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 酷冷至尊，全球电脑散热、均热板与水冷排解决方案巨头。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -1234,6 +1298,7 @@ const companies = [
       "y1": 201,
       "y2": 251
     },
+    "description": "【企业官网介绍】\nCoreWeave is the force multiplier that empowers pioneers with momentum, magnitude, and mastery—enabling them to innovate with confidence. Explore the #1 AI Cloud.\n\n【NVIDIA 协同与生态定位】\n主要提供算力落地支持：英伟达投资的GPU算力云新星。 负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "disassembly": "主要提供算力落地支持：英伟达投资的GPU算力云新星。",
     "money": "负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "action": "“老黄出图纸，他们出工程！直接帮英伟达把服务器柜子插满客户数据中心的超级装配工。”",
@@ -1253,6 +1318,7 @@ const companies = [
       "y1": 201,
       "y2": 251
     },
+    "description": "【企业官网介绍】\nCrowdStrike is a global cybersecurity leader with an advanced cloud-native platform for protecting endpoints, cloud workloads, identities and data.\n\n【NVIDIA 协同与生态定位】\n定位是 全球终端安全与杀毒巨头。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 全球终端安全与杀毒巨头。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -1272,6 +1338,7 @@ const companies = [
       "y1": 201,
       "y2": 251
     },
+    "description": "【企业官网介绍】\nCrusoe provides next-gen AI infrastructure and cloud compute using an energy-first approach. Deploy AI workloads at scale with reliable performance and 24/7 support.\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：绿色能源/清洁电力AI算力云。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：绿色能源/清洁电力AI算力云。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -1291,6 +1358,7 @@ const companies = [
       "y1": 266,
       "y2": 316
     },
+    "description": "【企业官网介绍】\nWe engineer solutions that increase machine productivity, reduce emissions, lower energy consumption, and enable electrification. We are a family-owned company dedicated to creating long-term value for all our stakeholders.\n\n【NVIDIA 协同与生态定位】\n定位是 丹佛斯，工业精密散热与变频器。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 丹佛斯，工业精密散热与变频器。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -1310,6 +1378,7 @@ const companies = [
       "y1": 266,
       "y2": 316
     },
+    "description": "【企业官网介绍】\nThrough virtual twin technologies, Dassault Systèmes’ collaborative platform empowers business and people to create sustainable innovations.\n\n【NVIDIA 协同与生态定位】\n定位是 达索系统，全球领先的 3D 体验与 PLM 工业设计软件巨头。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 达索系统，全球领先的 3D 体验与 PLM 工业设计软件巨头。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -1329,6 +1398,7 @@ const companies = [
       "y1": 271,
       "y2": 317
     },
+    "description": "主打软件与 AI 平台：数据中心与AI算力系统。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：数据中心与AI算力系统。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -1348,6 +1418,7 @@ const companies = [
       "y1": 266,
       "y2": 316
     },
+    "description": "【企业官网介绍】\nFrom Smart home security cameras, smart plugs, Wi-Fi routers and range extenders to Enterprise grade networking, wireless LAN and surveillance solutions.\n\n【NVIDIA 协同与生态定位】\n专注网络与安全侧：友讯科技，全球知名的网络设备商。 算力帝国的安全盾牌。GPU 数据中心开得越猛，流量与防护需求就越大。他们专门提供数据防漏与零信任防线。",
     "disassembly": "专注网络与安全侧：友讯科技，全球知名的网络设备商。",
     "money": "算力帝国的安全盾牌。GPU 数据中心开得越猛，流量与防护需求就越大。他们专门提供数据防漏与零信任防线。",
     "action": "“算力帝国的金牌保镖！GPU 跑得再快，数据被偷了也是白搭，他们就是帮老黄看门的最强数字哨兵。”",
@@ -1367,6 +1438,7 @@ const companies = [
       "y1": 266,
       "y2": 316
     },
+    "description": "【企业官网介绍】\nRevolutionize your AI & HPC ops with DDN® data storage & management solutions. Achieve peak performance, seamless cloud integration & scalable efficiency.\n\n【NVIDIA 协同与生态定位】\n专注网络与安全侧：DataDirect Networks，高性能大模型海量存储。 算力帝国的安全盾牌。GPU 数据中心开得越猛，流量与防护需求就越大。他们专门提供数据防漏与零信任防线。",
     "disassembly": "专注网络与安全侧：DataDirect Networks，高性能大模型海量存储。",
     "money": "算力帝国的安全盾牌。GPU 数据中心开得越猛，流量与防护需求就越大。他们专门提供数据防漏与零信任防线。",
     "action": "“算力帝国的金牌保镖！GPU 跑得再快，数据被偷了也是白搭，他们就是帮老黄看门的最强数字哨兵。”",
@@ -1386,6 +1458,7 @@ const companies = [
       "y1": 271,
       "y2": 317
     },
+    "description": "【企业官网介绍】\nExplore our AI suite and get more done: Translate speech, text, and media, or integrate the DeepL API.\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：全球领先的AI翻译与多语言大模型平台。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：全球领先的AI翻译与多语言大模型平台。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -1405,6 +1478,7 @@ const companies = [
       "y1": 266,
       "y2": 316
     },
+    "description": "【企业官网介绍】\nUse Physical AI to capture expert knowledge, guide frontline workers, and verify task execution in real time. Improve operator proficiency, productivity, safety, and compliance with an AI knowledge and verification platform built for manufacturing and pharmaceutical operations.\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：面向工业技能培训的AI视频工作流。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：面向工业技能培训的AI视频工作流。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -1424,6 +1498,7 @@ const companies = [
       "y1": 266,
       "y2": 316
     },
+    "description": "主打软件与 AI 平台：医疗影像AI智能诊断。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：医疗影像AI智能诊断。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -1443,6 +1518,7 @@ const companies = [
       "y1": 266,
       "y2": 316
     },
+    "description": "【企业官网介绍】\nDell provides technology solutions, services & support. Buy Laptops, Touch Screen PCs, Desktops, Servers, Storage, Monitors, Gaming & Accessories\n\n【NVIDIA 协同与生态定位】\n主要提供算力落地支持：戴尔科技，传统PC与服务器巨头。 负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "disassembly": "主要提供算力落地支持：戴尔科技，传统PC与服务器巨头。",
     "money": "负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "action": "“老黄出图纸，他们出工程！直接帮英伟达把服务器柜子插满客户数据中心的超级装配工。”",
@@ -1462,6 +1538,7 @@ const companies = [
       "y1": 266,
       "y2": 316
     },
+    "description": "定位是 台达电，全球电源与工业散热龙头。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 台达电，全球电源与工业散热龙头。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -1481,6 +1558,7 @@ const companies = [
       "y1": 266,
       "y2": 316
     },
+    "description": "主打物理AI方向：具身智能机器人手臂及方案商。 给英伟达的 AI 大脑“长身体”的具身智能先锋。通过英伟达的 Isaac 或 Jetson 平台训练机器人，共同探索物理世界的下一代搞钱风口。",
     "disassembly": "主打物理AI方向：具身智能机器人手臂及方案商。",
     "money": "给英伟达的 AI 大脑“长身体”的具身智能先锋。通过英伟达的 Isaac 或 Jetson 平台训练机器人，共同探索物理世界的下一代搞钱风口。",
     "action": "“给英伟达算力‘装上铁脚板’的未来玩家！让 AI 大脑控制钢筋铁骨，这才是下一代物理世界大杀器。”",
@@ -1500,6 +1578,7 @@ const companies = [
       "y1": 266,
       "y2": 316
     },
+    "description": "定位是 玉山银行，台湾智慧金融试点银行。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 玉山银行，台湾智慧金融试点银行。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -1519,6 +1598,7 @@ const companies = [
       "y1": 271,
       "y2": 317
     },
+    "description": "【企业官网介绍】\n益登科技是您值得信賴的合作夥伴, 提供一流服務與最先進的技術，為客戶和原廠創造最大的價值. 從IC設計，平台方案到系統組裝，提供一站式的完整服務.益登科技為專業的IC代理商及經銷商，服務大中華區及東南亞地區之客戶。所代理的產品應用範圍包括可攜式/穿戴式產品、有線/無線通訊/5G產品、AI, 物聯網、汽車、工業控制、電腦、光電以及消費類電子產品，全面涵蓋數位、類比、混合訊號等領域, 代理產品包括 Silicon Labs, Skyworks, STMicroelectronics, Marvell, NVIDIA, ROHM\n\n【NVIDIA 协同与生态定位】\n定位是 益登科技，亚太领先的半导体器件代理商与技术通路商。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 益登科技，亚太领先的半导体器件代理商与技术通路商。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -1538,6 +1618,7 @@ const companies = [
       "y1": 266,
       "y2": 316
     },
+    "description": "定位是 智能计算及软件。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 智能计算及软件。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -1557,6 +1638,7 @@ const companies = [
       "y1": 271,
       "y2": 317
     },
+    "description": "主打软件与 AI 平台：企业AI智能应用与业务工作流管理。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：企业AI智能应用与业务工作流管理。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -1576,6 +1658,7 @@ const companies = [
       "y1": 266,
       "y2": 316
     },
+    "description": "定位是 苏黎世联邦理工学院，顶尖科技名校。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 苏黎世联邦理工学院，顶尖科技名校。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -1595,6 +1678,7 @@ const companies = [
       "y1": 266,
       "y2": 316
     },
+    "description": "【企业官网介绍】\nEverFocus Electronics Corp., established in 1995, is a global provider of intelligent security and smart transportation solutions. Committed to the principles of\n\n【NVIDIA 协同与生态定位】\n定位是 慧友电子，车载监控与智能出行。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 慧友电子，车载监控与智能出行。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -1614,6 +1698,7 @@ const companies = [
       "y1": 266,
       "y2": 316
     },
+    "description": "【企业官网介绍】\nLeading with the needs of both our customers and our communities, Pentair creates dependable solutions necessary to help deliver the future of reliable, accessible, clean water.\n\n【NVIDIA 协同与生态定位】\n定位是 工业及民用滤水与系统环境。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 工业及民用滤水与系统环境。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -1633,6 +1718,7 @@ const companies = [
       "y1": 270,
       "y2": 315
     },
+    "description": "专注学术与前沿应用：逢甲大学，知名科技与工程高校。 英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "disassembly": "专注学术与前沿应用：逢甲大学，知名科技与工程高校。",
     "money": "英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "action": "“科学家与万亿资本的梦幻联动！帮老黄把算力火种播撒在攻克绝症与超级计算的无人区里。”",
@@ -1652,6 +1738,7 @@ const companies = [
       "y1": 266,
       "y2": 316
     },
+    "description": "主打物理AI方向：顶尖人形机器人独角兽。 给英伟达的 AI 大脑“长身体”的具身智能先锋。通过英伟达的 Isaac 或 Jetson 平台训练机器人，共同探索物理世界的下一代搞钱风口。",
     "disassembly": "主打物理AI方向：顶尖人形机器人独角兽。",
     "money": "给英伟达的 AI 大脑“长身体”的具身智能先锋。通过英伟达的 Isaac 或 Jetson 平台训练机器人，共同探索物理世界的下一代搞钱风口。",
     "action": "“给英伟达算力‘装上铁脚板’的未来玩家！让 AI 大脑控制钢筋铁骨，这才是下一代物理世界大杀器。”",
@@ -1671,6 +1758,7 @@ const companies = [
       "y1": 266,
       "y2": 316
     },
+    "description": "【企业官网介绍】\nWe design and operate Firmus Cloud and AI Factories — sovereign, modular systems that optimise cost and power at every layer of the stack.\n\n【NVIDIA 协同与生态定位】\n定位是 液冷超算数据中心服务商。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 液冷超算数据中心服务商。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -1690,6 +1778,7 @@ const companies = [
       "y1": 271,
       "y2": 317
     },
+    "description": "【企业官网介绍】\nUnified delivery & security for applications, APIs, & AI workloads across any infrastructure, trusted by 85% of the Fortune 500. Secure your digital ecosystem.\n\n【NVIDIA 协同与生态定位】\n专注网络与安全侧：全球领先的超大规模应用安全与多云流量调度交付巨头。 算力帝国的安全盾牌。GPU 数据中心开得越猛，流量与防护需求就越大。他们专门提供数据防漏与零信任防线。",
     "disassembly": "专注网络与安全侧：全球领先的超大规模应用安全与多云流量调度交付巨头。",
     "money": "算力帝国的安全盾牌。GPU 数据中心开得越猛，流量与防护需求就越大。他们专门提供数据防漏与零信任防线。",
     "action": "“算力帝国的金牌保镖！GPU 跑得再快，数据被偷了也是白搭，他们就是帮老黄看门的最强数字哨兵。”",
@@ -1709,6 +1798,7 @@ const companies = [
       "y1": 266,
       "y2": 316
     },
+    "description": "【企业官网介绍】\nFlex is the manufacturing partner of choice for streamlined product lifecycles. From design to end of life, our end-to-end services optimize efficiency.\n\n【NVIDIA 协同与生态定位】\n定位是 伟创力，全球大型电子制造与组装商。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 伟创力，全球大型电子制造与组装商。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -1728,6 +1818,7 @@ const companies = [
       "y1": 271,
       "y2": 317
     },
+    "description": "定位是 智能网络与数据分析。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 智能网络与数据分析。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -1747,6 +1838,7 @@ const companies = [
       "y1": 266,
       "y2": 316
     },
+    "description": "【企业官网介绍】\nHigh-fidelity physics simulation built with modern technology from the ground up.\n\n【NVIDIA 协同与生态定位】\n主要提供算力落地支持：超算物理仿真计算系统。 负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "disassembly": "主要提供算力落地支持：超算物理仿真计算系统。",
     "money": "负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "action": "“老黄出图纸，他们出工程！直接帮英伟达把服务器柜子插满客户数据中心的超级装配工。”",
@@ -1766,6 +1858,7 @@ const companies = [
       "y1": 332,
       "y2": 382
     },
+    "description": "【企业官网介绍】\nFortinet delivers cybersecurity everywhere you need it. We secure the entire digital attack surface from devices, data, and apps and from data center to home office.\n\n【NVIDIA 协同与生态定位】\n专注网络与安全侧：飞塔，全球防火墙与安全巨巨头。 算力帝国的安全盾牌。GPU 数据中心开得越猛，流量与防护需求就越大。他们专门提供数据防漏与零信任防线。",
     "disassembly": "专注网络与安全侧：飞塔，全球防火墙与安全巨巨头。",
     "money": "算力帝国的安全盾牌。GPU 数据中心开得越猛，流量与防护需求就越大。他们专门提供数据防漏与零信任防线。",
     "action": "“算力帝国的金牌保镖！GPU 跑得再快，数据被偷了也是白搭，他们就是帮老黄看门的最强数字哨兵。”",
@@ -1785,6 +1878,7 @@ const companies = [
       "y1": 332,
       "y2": 382
     },
+    "description": "主打软件与 AI 平台：企业AI系统集成。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：企业AI系统集成。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -1804,6 +1898,7 @@ const companies = [
       "y1": 332,
       "y2": 382
     },
+    "description": "富士康正在其新一代电动车厂及服务器制造工厂中，全面引入英伟达的 Isaac 机器人开发平台和 Omniverse 仿真技术。在实体智能机器人部署到实际产线之前，先在虚拟的物理模拟中进行大规模强化学习训练，显著缩短了智能工厂的自动化部署周期。",
     "disassembly": "富士康正在其新一代电动车厂及服务器制造工厂中，全面引入英伟达的 Isaac 机器人开发平台和 Omniverse 仿真技术。在实体智能机器人部署到实际产线之前，先在虚拟的物理模拟中进行大规模强化学习训练，显著缩短了智能工厂的自动化部署周期。",
     "money": "依靠物理仿真和具身智能的自动化流水线，不仅极大提升了高密度智能设备的生产效率，也为全球制造业的自动化机器人技术集成开拓了新路径。",
     "action": "“依托英伟达 Isaac 平台，富士康实现了在虚拟物理世界中对智能机器人和机械臂的高效训练与落地部署。”",
@@ -1823,6 +1918,7 @@ const companies = [
       "y1": 334,
       "y2": 377
     },
+    "description": "专注网络与安全侧：正崴精密，全球领先的精密连接器、线缆与核心组件制造商。 算力帝国的安全盾牌。GPU 数据中心开得越猛，流量与防护需求就越大。他们专门提供数据防漏与零信任防线。",
     "disassembly": "专注网络与安全侧：正崴精密，全球领先的精密连接器、线缆与核心组件制造商。",
     "money": "算力帝国的安全盾牌。GPU 数据中心开得越猛，流量与防护需求就越大。他们专门提供数据防漏与零信任防线。",
     "action": "“算力帝国的金牌保镖！GPU 跑得再快，数据被偷了也是白搭，他们就是帮老黄看门的最强数字哨兵。”",
@@ -1842,6 +1938,7 @@ const companies = [
       "y1": 332,
       "y2": 382
     },
+    "description": "定位是 全汉电源，高功率电源供应器专家。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 全汉电源，高功率电源供应器专家。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -1861,6 +1958,7 @@ const companies = [
       "y1": 332,
       "y2": 382
     },
+    "description": "定位是 富士通，日本最大的IT服务商。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 富士通，日本最大的IT服务商。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -1880,6 +1978,7 @@ const companies = [
       "y1": 332,
       "y2": 382
     },
+    "description": "定位是 台湾半导体封测及自动化设备联盟。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 台湾半导体封测及自动化设备联盟。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -1899,6 +1998,7 @@ const companies = [
       "y1": 334,
       "y2": 377
     },
+    "description": "定位是 前沿智能硬件与系统集成。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 前沿智能硬件与系统集成。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -1918,6 +2018,7 @@ const companies = [
       "y1": 332,
       "y2": 382
     },
+    "description": "定位是 全球权威信息技术咨询公司。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 全球权威信息技术咨询公司。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -1937,6 +2038,7 @@ const companies = [
       "y1": 332,
       "y2": 382
     },
+    "description": "【企业官网介绍】\n技鋼科技原為技嘉科技網通事業群，於2023年元月1日由技嘉分拆獨立為技鋼科技股份有限公司。新成立的技鋼科技將持續以GIGABYTE品牌推動伺服器業務擴展與研發創新，銷售企業級應用產品和解決方案，以保有客戶對技嘉企業級產品的支持與愛護。\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：技钢科技，技嘉旗下AI服务器品牌。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：技钢科技，技嘉旗下AI服务器品牌。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -1956,6 +2058,7 @@ const companies = [
       "y1": 332,
       "y2": 382
     },
+    "description": "主要提供算力落地支持：技嘉科技，显卡、主板及高性能计算。 负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "disassembly": "主要提供算力落地支持：技嘉科技，显卡、主板及高性能计算。",
     "money": "负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "action": "“老黄出图纸，他们出工程！直接帮英伟达把服务器柜子插满客户数据中心的超级装配工。”",
@@ -1975,6 +2078,7 @@ const companies = [
       "y1": 332,
       "y2": 382
     },
+    "description": "【企业官网介绍】\nOn April 8, 2019, I got hit with the news – Mantel Cell Lymphoma, or simply put, Cancer! Today, I’m thrilled to share that I’m in remission after diving into some cutting-edge treatment in 2023. Welcome to my blog, where I want to have a chat with you about this rollercoaster journey. Why? Because if […]\n\n【NVIDIA 协同与生态定位】\n定位是 吉佳通，亚太区硬件与半导体代理分销商。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 吉佳通，亚太区硬件与半导体代理分销商。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -1994,6 +2098,7 @@ const companies = [
       "y1": 332,
       "y2": 382
     },
+    "description": "【企业官网介绍】\nThe Goldman Sachs Group, Inc. is a leading global investment banking, securities, and asset and wealth management firm that provides a wide range of financial services.\n\n【NVIDIA 协同与生态定位】\n定位是 高盛集团，全球顶级投行。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 高盛集团，全球顶级投行。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -2013,6 +2118,7 @@ const companies = [
       "y1": 332,
       "y2": 382
     },
+    "description": "【企业官网介绍】\nMeet your business challenges head on with AI and cloud computing services from Google, including security, data management, and hybrid & multi-cloud.\n\n【NVIDIA 协同与生态定位】\n主要提供算力落地支持：谷歌云，全球三大公有云之一。 负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "disassembly": "主要提供算力落地支持：谷歌云，全球三大公有云之一。",
     "money": "负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "action": "“老黄出图纸，他们出工程！直接帮英伟达把服务器柜子插满客户数据中心的超级装配工。”",
@@ -2032,6 +2138,7 @@ const companies = [
       "y1": 332,
       "y2": 382
     },
+    "description": "【企业官网介绍】\nGreneta Solutions is a data and software consultancy leveraging Rust, R, Python, and SQL to transform your ideas into deliverables.\n\n【NVIDIA 协同与生态定位】\n定位是 前沿智能系统。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 前沿智能系统。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -2051,6 +2158,7 @@ const companies = [
       "y1": 332,
       "y2": 382
     },
+    "description": "专攻芯片级核心技术：创意电子，台积电旗下ASIC定制芯片设计大厂。 老黄 GPU 帝国的基石。没有他们的先进制程、高带宽显存（HBM）或芯片IP，老黄的芯片根本无法大规模量产。",
     "disassembly": "专攻芯片级核心技术：创意电子，台积电旗下ASIC定制芯片设计大厂。",
     "money": "老黄 GPU 帝国的基石。没有他们的先进制程、高带宽显存（HBM）或芯片IP，老黄的芯片根本无法大规模量产。",
     "action": "“万亿算力大厦的硬核地基！别光盯着英伟达的显卡，没有他们托底，老黄的芯片根本走不出实验室！”",
@@ -2070,6 +2178,7 @@ const companies = [
       "y1": 332,
       "y2": 382
     },
+    "description": "【企业官网介绍】\nHarvard University is devoted to excellence in teaching, learning, and research, and to developing leaders who make a difference globally.\n\n【NVIDIA 协同与生态定位】\n专注学术与前沿应用：哈佛大学，全球顶尖名校。 英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "disassembly": "专注学术与前沿应用：哈佛大学，全球顶尖名校。",
     "money": "英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "action": "“科学家与万亿资本的梦幻联动！帮老黄把算力火种播撒在攻克绝症与超级计算的无人区里。”",
@@ -2089,6 +2198,7 @@ const companies = [
       "y1": 332,
       "y2": 382
     },
+    "description": "主打软件与 AI 平台：禾赛科技，全球激光雷达龙头。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：禾赛科技，全球激光雷达龙头。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -2108,6 +2218,7 @@ const companies = [
       "y1": 340,
       "y2": 375
     },
+    "description": "【企业官网介绍】\nDiscover sustainable, green IT solutions for data infrastructure and hybrid cloud solutions with Hitachi Vantara. Request a demo today for eco-friendly technology.\n\n【NVIDIA 协同与生态定位】\n定位是 日立旗下海量数据存储与混合云。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 日立旗下海量数据存储与混合云。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -2127,6 +2238,7 @@ const companies = [
       "y1": 332,
       "y2": 382
     },
+    "description": "【企业官网介绍】\nHolon Solutions delivers intelligent, point-of-care guidance that reduces administrative burden and empowers providers to focus on patient care.\n\n【NVIDIA 协同与生态定位】\n定位是 智能建筑与能源管理。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 智能建筑与能源管理。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -2146,6 +2258,7 @@ const companies = [
       "y1": 334,
       "y2": 377
     },
+    "description": "【企业官网介绍】\nLearn about HP laptops, pc desktops, printers, accessories and more at the Official HP® Website\n\n【NVIDIA 协同与生态定位】\n定位是 惠普，全球领先的个人电脑与数位打印硬件品牌。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 惠普，全球领先的个人电脑与数位打印硬件品牌。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -2165,6 +2278,7 @@ const companies = [
       "y1": 332,
       "y2": 382
     },
+    "description": "主要提供算力落地支持：慧与科技，大型服务器与超级计算机供应商。 负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "disassembly": "主要提供算力落地支持：慧与科技，大型服务器与超级计算机供应商。",
     "money": "负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "action": "“老黄出图纸，他们出工程！直接帮英伟达把服务器柜子插满客户数据中心的超级装配工。”",
@@ -2184,6 +2298,7 @@ const companies = [
       "y1": 395,
       "y2": 445
     },
+    "description": "【企业官网介绍】\nHUMAIN is a full-stack AI ecosystem. We build the future of AI from sovereign data centers and cloud to generative AI models and applications.\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：AI虚拟人与3D数字资产自动生成。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：AI虚拟人与3D数字资产自动生成。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -2203,6 +2318,7 @@ const companies = [
       "y1": 395,
       "y2": 445
     },
+    "description": "定位是 高带宽存储网络方案。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 高带宽存储网络方案。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -2222,6 +2338,7 @@ const companies = [
       "y1": 395,
       "y2": 445
     },
+    "description": "【企业官网介绍】\nHyve designs, builds, and deploys rack-scale infrastructure for AI, cloud, and connected edge. Integrated engineering, manufacturing, and services reduce rework and keep deployments predictable.\n\n【NVIDIA 协同与生态定位】\n定位是 超大型数据中心定制化服务器设计商。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 超大型数据中心定制化服务器设计商。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -2241,6 +2358,7 @@ const companies = [
       "y1": 395,
       "y2": 445
     },
+    "description": "【企业官网介绍】\nFor more than a century, IBM has been a global technology innovator, leading advances in AI, automation and hybrid cloud solutions that help businesses grow.\n\n【NVIDIA 协同与生态定位】\n定位是 蓝色巨人，提供企业混合云与红帽Linux生态。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 蓝色巨人，提供企业混合云与红帽Linux生态。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -2260,6 +2378,7 @@ const companies = [
       "y1": 395,
       "y2": 445
     },
+    "description": "定位是 映众，知名游戏显卡品牌。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 映众，知名游戏显卡品牌。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -2279,6 +2398,7 @@ const companies = [
       "y1": 395,
       "y2": 445
     },
+    "description": "主打软件与 AI 平台：英特尔，CPU巨头，AI加速计算重要参与者。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：英特尔，CPU巨头，AI加速计算重要参与者。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -2298,6 +2418,7 @@ const companies = [
       "y1": 405,
       "y2": 435
     },
+    "description": "定位是 英业达，知名服务器与笔记本ODM厂商。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 英业达，知名服务器与笔记本ODM厂商。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -2317,6 +2438,7 @@ const companies = [
       "y1": 390,
       "y2": 430
     },
+    "description": "定位是 迎广科技，全球领先的专业电脑机箱、服务器机壳与系统液冷机架制造商。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 迎广科技，全球领先的专业电脑机箱、服务器机壳与系统液冷机架制造商。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -2336,6 +2458,7 @@ const companies = [
       "y1": 395,
       "y2": 445
     },
+    "description": "【企业官网介绍】\nJabil is a trusted partner for the world\n\n【NVIDIA 协同与生态定位】\n定位是 捷普，全球电子组装与结构件巨头。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 捷普，全球电子组装与结构件巨头。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -2355,6 +2478,7 @@ const companies = [
       "y1": 395,
       "y2": 445
     },
+    "description": "定位是 捷迈，专业六轴运动传感器。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 捷迈，专业六轴运动传感器。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -2374,6 +2498,7 @@ const companies = [
       "y1": 394,
       "y2": 462
     },
+    "description": "【企业官网介绍】\nExplore IREN's 100% renewable-powered data centers offering AI Cloud, GPU clusters, colocation, and build-to-suit infrastructure for scalable compute workloads.\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：Iris Energy, 绿色能源驱动的超大型AI数据中心算力托管提供商。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：Iris Energy, 绿色能源驱动的超大型AI数据中心算力托管提供商。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -2393,6 +2518,7 @@ const companies = [
       "y1": 395,
       "y2": 445
     },
+    "description": "【企业官网介绍】\n健策精密工業股份有限公司自1987年成立以來，致力於為客戶創造價值，並不斷超越期待。立足於半導體產業鏈，健策運用卓越的專業技術，整合先進散熱解決方案，提供全方位的垂直整合服務。憑藉對創新、新技術與卓越客戶服務的堅定承諾，健策穩居業界領導地位，成為客戶值得信賴的長期合作夥伴。Jentech Precision Industrial Co., LTD., established in 1987, specializes in providing advanced thermal solutions and vertical integration services within the semiconductor supply chain. With a focus on innovation, cutting-edge technology, and outstanding customer service, Jentech has become a trusted industry leader and reliable partner worldwide.\n\n【NVIDIA 协同与生态定位】\n定位是 健策精密，半导体均热片与散热老大。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 健策精密，半导体均热片与散热老大。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -2412,6 +2538,7 @@ const companies = [
       "y1": 395,
       "y2": 445
     },
+    "description": "定位是 佳必琪，高速连接线缆与光收发模块。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 佳必琪，高速连接线缆与光收发模块。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -2431,6 +2558,7 @@ const companies = [
       "y1": 395,
       "y2": 445
     },
+    "description": "专注学术与前沿应用：义守大学，知名科技院校。 英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "disassembly": "专注学术与前沿应用：义守大学，知名科技院校。",
     "money": "英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "action": "“科学家与万亿资本的梦幻联动！帮老黄把算力火种播撒在攻克绝症与超级计算的无人区里。”",
@@ -2450,6 +2578,7 @@ const companies = [
       "y1": 395,
       "y2": 445
     },
+    "description": "定位是 广运机械，自动化物流与服务器液冷散热。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 广运机械，自动化物流与服务器液冷散热。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -2469,6 +2598,7 @@ const companies = [
       "y1": 395,
       "y2": 445
     },
+    "description": "定位是 京元电子，全球大型半导体封装测试厂。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 京元电子，全球大型半导体封装测试厂。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -2488,6 +2618,7 @@ const companies = [
       "y1": 395,
       "y2": 445
     },
+    "description": "定位是 容器化大模型部署与调度平台。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 容器化大模型部署与调度平台。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -2507,6 +2638,7 @@ const companies = [
       "y1": 395,
       "y2": 445
     },
+    "description": "【企业官网介绍】\nCloud GPUs, on-demand clusters, private cloud, and hardware for AI training and inference. Run B200 and H100, deploy fast, and scale cost effectively.\n\n【NVIDIA 协同与生态定位】\n主要提供算力落地支持：专注GPU算力租用的云平台。 负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "disassembly": "主要提供算力落地支持：专注GPU算力租用的云平台。",
     "money": "负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "action": "“老黄出图纸，他们出工程！直接帮英伟达把服务器柜子插满客户数据中心的超级装配工。”",
@@ -2526,6 +2658,7 @@ const companies = [
       "y1": 400,
       "y2": 432
     },
+    "description": "定位是 立端科技，全球网络安全与车载边缘电脑。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 立端科技，全球网络安全与车载边缘电脑。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -2545,6 +2678,7 @@ const companies = [
       "y1": 395,
       "y2": 445
     },
+    "description": "【企业官网介绍】\nLeadtek is a world-renowned professional developer and manufacturer of graphics cards, the main product lines include GeForce graphics cards, Quadro graphics cards, AI software and hardware solutions, AI and High Performance Computing, Virtual Desktop System( Zero Client and Thin Client), and deep learning solutions.\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：丽台科技，专业显卡与AI算力工作站。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：丽台科技，专业显卡与AI算力工作站。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -2564,6 +2698,7 @@ const companies = [
       "y1": 459,
       "y2": 509
     },
+    "description": "联想集团作为全球领先的个人电脑及企业级服务器制造商，正在与英伟达深度结合。在英伟达 AI 生态中，联想是端侧本地 AI 智能体（Agent）硬件分发与部署的关键合作伙伴。其搭载 RTX 系列芯片的高性能 AI PC 和数据中心混合云解决方案，共同推动了企业端侧计算的高效落地。",
     "disassembly": "联想集团作为全球领先的个人电脑及企业级服务器制造商，正在与英伟达深度结合。在英伟达 AI 生态中，联想是端侧本地 AI 智能体（Agent）硬件分发与部署的关键合作伙伴。其搭载 RTX 系列芯片的高性能 AI PC 和数据中心混合云解决方案，共同推动了企业端侧计算的高效落地。",
     "money": "在数据中心与高性能计算领域，联想与英伟达合作紧密。随着企业对本地数据隐私与端侧智能体处理能力需求的爆发，联想的本地化 AI 部署和集成服务正在迎来长期的行业红利期。",
     "action": "“联想不仅是个人电脑巨头，更是英伟达在端侧 AI 智能体落地和普及的核心合作伙伴。”",
@@ -2583,6 +2718,7 @@ const companies = [
       "y1": 398,
       "y2": 448
     },
+    "description": "【企业官网介绍】\nDN global high-quality domain name trading platform provides you with metai.com High-quality one-price domain name trading , metai.com Domain name price details and metai.com Domain name management and domain name transfer, etc. Global high-quality domain names are sold , purchased and managed on Dn.com.\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：工业元宇宙协同设计。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：工业元宇宙协同设计。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -2602,6 +2738,7 @@ const companies = [
       "y1": 459,
       "y2": 509
     },
+    "description": "【企业官网介绍】\nLightricks is a leading AI technology company transforming creative workflows with innovative tools; across web, mobile and open source innovation, for content creators, marketers, and professionals. Discover how our cutting-edge AI empowers creativity at every level.\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：AI修图与视频编辑独角兽。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：AI修图与视频编辑独角兽。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -2621,6 +2758,7 @@ const companies = [
       "y1": 462,
       "y2": 515
     },
+    "description": "【企业官网介绍】\nDiscover Linker Vision AI Platform: A unique end-to-end AI solution empowering vision AI with data-centric insights and seamless edge integration. Our platform offers robust, continuous learning and a data-centric approach, combined with advanced software/hardware integration, tailored for diverse industry needs. Experience the evolution of visual intelligence today.\n\n【NVIDIA 协同与生态定位】\n专注网络与安全侧：Linker Vision, 工业多模态大模型与连续视觉AI安全检测方案商。 算力帝国的安全盾牌。GPU 数据中心开得越猛，流量与防护需求就越大。他们专门提供数据防漏与零信任防线。",
     "disassembly": "专注网络与安全侧：Linker Vision, 工业多模态大模型与连续视觉AI安全检测方案商。",
     "money": "算力帝国的安全盾牌。GPU 数据中心开得越猛，流量与防护需求就越大。他们专门提供数据防漏与零信任防线。",
     "action": "“算力帝国的金牌保镖！GPU 跑得再快，数据被偷了也是白搭，他们就是帮老黄看门的最强数字哨兵。”",
@@ -2640,6 +2778,7 @@ const companies = [
       "y1": 459,
       "y2": 509
     },
+    "description": "定位是 光宝科技，服务器高效电源与液冷机构龙头。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 光宝科技，服务器高效电源与液冷机构龙头。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -2659,6 +2798,7 @@ const companies = [
       "y1": 462,
       "y2": 515
     },
+    "description": "【企业官网介绍】\nNous sommes un service d\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：智能金融与企业级生成式AI工作流平台。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：智能金融与企业级生成式AI工作流平台。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -2678,6 +2818,7 @@ const companies = [
       "y1": 459,
       "y2": 509
     },
+    "description": "【企业官网介绍】\nLucid is the future of sustainable mobility, designing electric cars that further reimagines the driving experience.\n\n【NVIDIA 协同与生态定位】\n定位是 豪华智能电动车品牌。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 豪华智能电动车品牌。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -2697,6 +2838,7 @@ const companies = [
       "y1": 470,
       "y2": 505
     },
+    "description": "主要提供算力落地支持：光子与红外图像AI计算。 负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "disassembly": "主要提供算力落地支持：光子与红外图像AI计算。",
     "money": "负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "action": "“老黄出图纸，他们出工程！直接帮英伟达把服务器柜子插满客户数据中心的超级装配工。”",
@@ -2716,6 +2858,7 @@ const companies = [
       "y1": 459,
       "y2": 509
     },
+    "description": "专注学术与前沿应用：马偕纪念医院，知名智慧医疗示范机构。 英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "disassembly": "专注学术与前沿应用：马偕纪念医院，知名智慧医疗示范机构。",
     "money": "英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "action": "“科学家与万亿资本的梦幻联动！帮老黄把算力火种播撒在攻克绝症与超级计算的无人区里。”",
@@ -2735,6 +2878,7 @@ const companies = [
       "y1": 459,
       "y2": 509
     },
+    "description": "主打软件与 AI 平台：日本第一大半导体与AI方案分销商。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：日本第一大半导体与AI方案分销商。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -2754,6 +2898,7 @@ const companies = [
       "y1": 459,
       "y2": 509
     },
+    "description": "定位是 美满电子，高速光通信与以太网芯片老大。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 美满电子，高速光通信与以太网芯片老大。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -2773,6 +2918,7 @@ const companies = [
       "y1": 459,
       "y2": 509
     },
+    "description": "定位是 铭瑄，高性价比显卡与主板硬件。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 铭瑄，高性价比显卡与主板硬件。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -2792,6 +2938,7 @@ const companies = [
       "y1": 470,
       "y2": 498
     },
+    "description": "联发科与英伟达展开了深度的芯片级战略合作，将联发科的低功耗 SoC 设计能力与英伟达 Blackwell 架构的强劲 GPU 算力相结合，推出了下一代 ARM 架构的智能座舱芯片及个人电脑芯片，为端侧多模态推理开辟了新赛道。",
     "disassembly": "联发科与英伟达展开了深度的芯片级战略合作，将联发科的低功耗 SoC 设计能力与英伟达 Blackwell 架构的强劲 GPU 算力相结合，推出了下一代 ARM 架构的智能座舱芯片及个人电脑芯片，为端侧多模态推理开辟了新赛道。",
     "money": "两强联手将推动 ARM 架构本地 AI 应用生态（如轻量级 Agent 框架和边缘计算接口）的爆发，使端侧智能体能流畅运行于更省电的汽车与物联网平台。",
     "action": "“联发科低功耗设计与英伟达 Blackwell GPU 算力融合，正全面重塑智能出行与端侧计算的格局。”",
@@ -2811,6 +2958,7 @@ const companies = [
       "y1": 459,
       "y2": 509
     },
+    "description": "定位是 开源大模型Llama的发布者。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 开源大模型Llama的发布者。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -2830,6 +2978,7 @@ const companies = [
       "y1": 459,
       "y2": 509
     },
+    "description": "【企业官网介绍】\nExplore Micron Technology, leading in semiconductors with a broad range of performance-enhancing memory and storage solutions\n\n【NVIDIA 协同与生态定位】\n专攻芯片级核心技术：美光科技，内存与高性能HBM3E供应商。 老黄 GPU 帝国的基石。没有他们的先进制程、高带宽显存（HBM）或芯片IP，老黄的芯片根本无法大规模量产。",
     "disassembly": "专攻芯片级核心技术：美光科技，内存与高性能HBM3E供应商。",
     "money": "老黄 GPU 帝国的基石。没有他们的先进制程、高带宽显存（HBM）或芯片IP，老黄的芯片根本无法大规模量产。",
     "action": "“万亿算力大厦的硬核地基！别光盯着英伟达的显卡，没有他们托底，老黄的芯片根本走不出实验室！”",
@@ -2849,6 +2998,7 @@ const companies = [
       "y1": 459,
       "y2": 509
     },
+    "description": "主打软件与 AI 平台：微软，AI应用与Copilot端侧系统。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：微软，AI应用与Copilot端侧系统。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -2868,6 +3018,7 @@ const companies = [
       "y1": 459,
       "y2": 509
     },
+    "description": "专注学术与前沿应用：辅仁大学，知名智慧医疗/工程高校。 英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "disassembly": "专注学术与前沿应用：辅仁大学，知名智慧医疗/工程高校。",
     "money": "英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "action": "“科学家与万亿资本的梦幻联动！帮老黄把算力火种播撒在攻克绝症与超级计算的无人区里。”",
@@ -2887,6 +3038,7 @@ const companies = [
       "y1": 459,
       "y2": 509
     },
+    "description": "【企业官网介绍】\nExascale data infrastructure for AI, agentic computing, and analytics. MinIO AIStor natively supports S3 for objects, Iceberg for tables, and SFTP for files.\n\n【NVIDIA 协同与生态定位】\n定位是 超高速开源分布式对象存储。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 超高速开源分布式对象存储。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -2906,6 +3058,7 @@ const companies = [
       "y1": 464,
       "y2": 504
     },
+    "description": "专注学术与前沿应用：卫生福利部，推动台湾智慧医疗与健康数据治理。 英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "disassembly": "专注学术与前沿应用：卫生福利部，推动台湾智慧医疗与健康数据治理。",
     "money": "英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "action": "“科学家与万亿资本的梦幻联动！帮老黄把算力火种播撒在攻克绝症与超级计算的无人区里。”",
@@ -2925,6 +3078,7 @@ const companies = [
       "y1": 528,
       "y2": 578
     },
+    "description": "定位是 企业级云和Kubernetes容器服务商。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 企业级云和Kubernetes容器服务商。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -2944,6 +3098,7 @@ const companies = [
       "y1": 527,
       "y2": 575
     },
+    "description": "主打软件与 AI 平台：智能系统与企业计算技术。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：智能系统与企业计算技术。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -2963,6 +3118,7 @@ const companies = [
       "y1": 528,
       "y2": 578
     },
+    "description": "【企业官网介绍】\nListed on Taiwan Stock Exchange, headquarter in Taiwan, Mitac is developing into a multinational organization of JDM / ODM / OEM , design and R&D, manufacturing, testing, assembling, marketing, and servicing, and selling products all over the world with leading brands including Mio, Magellan, and Navman and TYAN, focusing on server, datacenter, automotive electronics (dashboard camera),Listed on Taiwan Stock Exchange, headquarter in Taiwan, Mitac is developing into a multinational organization of JDM / ODM / OEM , design and R&D, manufacturing, testing, assembling, marketing, and servicing, and selling products all over the world with leading brands including Mio, Magellan, and Navman and TYAN, focusing on server, datacenter, automotive electronics (dashboard camera)\n\n【NVIDIA 协同与生态定位】\n定位是 神达电脑，工业控制与服务器制造。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 神达电脑，工业控制与服务器制造。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -2982,6 +3138,7 @@ const companies = [
       "y1": 528,
       "y2": 578
     },
+    "description": "【企业官网介绍】\nExplore the global website of Mitsubishi Electric Corporation, a leading worldwide manufacturer of electrical and electronic products including Air Conditioning Systems,Automotive Equipment,Building Systems,Energy Systems,Factory Automation Systems,Home Products,Information & Communication Systems,Public Systems,Semiconductors & Devices,Space Systems,Transportation Systems,Visual Information Systems.\n\n【NVIDIA 协同与生态定位】\n定位是 三菱电机，精密工业自动化与机械臂。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 三菱电机，精密工业自动化与机械臂。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -3001,6 +3158,7 @@ const companies = [
       "y1": 528,
       "y2": 578
     },
+    "description": "主打软件与 AI 平台：心理与人机交互AI。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：心理与人机交互AI。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -3020,6 +3178,7 @@ const companies = [
       "y1": 528,
       "y2": 578
     },
+    "description": "微星科技致力于开发基于英伟达高性能 RTX 平台的高密度紧凑型工作站与液冷服务器，为中小企业、AI 研发团队及工作室提供高保密性、高性价比的本地化工作流部署方案。",
     "disassembly": "微星科技致力于开发基于英伟达高性能 RTX 平台的高密度紧凑型工作站与液冷服务器，为中小企业、AI 研发团队及工作室提供高保密性、高性价比的本地化工作流部署方案。",
     "money": "在对数据保密性要求极高的中小型企业市场，微星通过提供免去昂贵云端会员与 Token 消耗的本地化 AI 一体机，承接算力改装与系统集成，具有广阔的 B2B 市场空间。",
     "action": "“微星的高密度紧凑型 GPU 工作站，为需要高本地计算与数据安全的团队提供了极佳的一体化方案。”",
@@ -3039,6 +3198,7 @@ const companies = [
       "y1": 528,
       "y2": 578
     },
+    "description": "【企业官网介绍】\nLeading the world in high-power lasers for mission-critical directed energy, sensing, and advanced manufacturing applications.\n\n【NVIDIA 协同与生态定位】\n定位是 恩耐激光，高功率半导体激光器。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 恩耐激光，高功率半导体激光器。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -3058,6 +3218,7 @@ const companies = [
       "y1": 528,
       "y2": 578
     },
+    "description": "【企业官网介绍】\nGet the latest stock market news, stock information & quotes, data analysis reports, as well as a general overview of the market landscape from Nasdaq.\n\n【NVIDIA 协同与生态定位】\n定位是 纳斯达克，全球科技交易所。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 纳斯达克，全球科技交易所。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -3077,6 +3238,7 @@ const companies = [
       "y1": 527,
       "y2": 575
     },
+    "description": "专注学术与前沿应用：国家高速网络与计算中心，台湾高性能学术计算与超算核心。 英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "disassembly": "专注学术与前沿应用：国家高速网络与计算中心，台湾高性能学术计算与超算核心。",
     "money": "英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "action": "“科学家与万亿资本的梦幻联动！帮老黄把算力火种播撒在攻克绝症与超级计算的无人区里。”",
@@ -3096,6 +3258,7 @@ const companies = [
       "y1": 528,
       "y2": 578
     },
+    "description": "专注学术与前沿应用：国立中央大学，台湾主要科研院校。 英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "disassembly": "专注学术与前沿应用：国立中央大学，台湾主要科研院校。",
     "money": "英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "action": "“科学家与万亿资本的梦幻联动！帮老黄把算力火种播撒在攻克绝症与超级计算的无人区里。”",
@@ -3115,6 +3278,7 @@ const companies = [
       "y1": 533,
       "y2": 573
     },
+    "description": "【企业官网介绍】\n數位發展部 Ministry of Digital Affairs (moda) 作為臺灣數位發展的「mòda（馬達）」，將連結「公民」與「技術」、提升「產業」及「安全」，實現智慧國家的願景，並以臺灣模式持續引領世界。\n\n【NVIDIA 协同与生态定位】\n专注学术与前沿应用：数位发展部，推动数位转型、网络安全与数据治理。 英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "disassembly": "专注学术与前沿应用：数位发展部，推动数位转型、网络安全与数据治理。",
     "money": "英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "action": "“科学家与万亿资本的梦幻联动！帮老黄把算力火种播撒在攻克绝症与超级计算的无人区里。”",
@@ -3134,6 +3298,7 @@ const companies = [
       "y1": 530,
       "y2": 575
     },
+    "description": "专注学术与前沿应用：国立成功大学（重复排布）。 英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "disassembly": "专注学术与前沿应用：国立成功大学（重复排布）。",
     "money": "英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "action": "“科学家与万亿资本的梦幻联动！帮老黄把算力火种播撒在攻克绝症与超级计算的无人区里。”",
@@ -3153,6 +3318,7 @@ const companies = [
       "y1": 528,
       "y2": 578
     },
+    "description": "专注学术与前沿应用：国立阳明交通大学，台湾半导体黄埔军校。 英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "disassembly": "专注学术与前沿应用：国立阳明交通大学，台湾半导体黄埔军校。",
     "money": "英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "action": "“科学家与万亿资本的梦幻联动！帮老黄把算力火种播撒在攻克绝症与超级计算的无人区里。”",
@@ -3172,6 +3338,7 @@ const companies = [
       "y1": 528,
       "y2": 578
     },
+    "description": "专注学术与前沿应用：国立中山大学，知名科技研究大学。 英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "disassembly": "专注学术与前沿应用：国立中山大学，知名科技研究大学。",
     "money": "英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "action": "“科学家与万亿资本的梦幻联动！帮老黄把算力火种播撒在攻克绝症与超级计算的无人区里。”",
@@ -3191,6 +3358,7 @@ const companies = [
       "y1": 535,
       "y2": 575
     },
+    "description": "专注学术与前沿应用：国立台北大学，知名智慧商科与法律研究高校。 英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "disassembly": "专注学术与前沿应用：国立台北大学，知名智慧商科与法律研究高校。",
     "money": "英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "action": "“科学家与万亿资本的梦幻联动！帮老黄把算力火种播撒在攻克绝症与超级计算的无人区里。”",
@@ -3210,6 +3378,7 @@ const companies = [
       "y1": 535,
       "y2": 575
     },
+    "description": "专注学术与前沿应用：国立台北科技大学，台湾顶尖的技术与工程大学。 英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "disassembly": "专注学术与前沿应用：国立台北科技大学，台湾顶尖的技术与工程大学。",
     "money": "英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "action": "“科学家与万亿资本的梦幻联动！帮老黄把算力火种播撒在攻克绝症与超级计算的无人区里。”",
@@ -3229,6 +3398,7 @@ const companies = [
       "y1": 528,
       "y2": 578
     },
+    "description": "专注学术与前沿应用：国立台湾师范大学，科技与跨学科教育名校。 英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "disassembly": "专注学术与前沿应用：国立台湾师范大学，科技与跨学科教育名校。",
     "money": "英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "action": "“科学家与万亿资本的梦幻联动！帮老黄把算力火种播撒在攻克绝症与超级计算的无人区里。”",
@@ -3248,6 +3418,7 @@ const companies = [
       "y1": 533,
       "y2": 573
     },
+    "description": "专注学术与前沿应用：国立台湾大学，全台综合实力第一名校。 英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "disassembly": "专注学术与前沿应用：国立台湾大学，全台综合实力第一名校。",
     "money": "英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "action": "“科学家与万亿资本的梦幻联动！帮老黄把算力火种播撒在攻克绝症与超级计算的无人区里。”",
@@ -3267,6 +3438,7 @@ const companies = [
       "y1": 528,
       "y2": 578
     },
+    "description": "专注学术与前沿应用：国立台湾科技大学，核心技职与工程名校。 英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "disassembly": "专注学术与前沿应用：国立台湾科技大学，核心技职与工程名校。",
     "money": "英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "action": "“科学家与万亿资本的梦幻联动！帮老黄把算力火种播撒在攻克绝症与超级计算的无人区里。”",
@@ -3286,6 +3458,7 @@ const companies = [
       "y1": 528,
       "y2": 578
     },
+    "description": "专注学术与前沿应用：国立清华大学，顶尖学术与半导体院校。 英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "disassembly": "专注学术与前沿应用：国立清华大学，顶尖学术与半导体院校。",
     "money": "英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "action": "“科学家与万亿资本的梦幻联动！帮老黄把算力火种播撒在攻克绝症与超级计算的无人区里。”",
@@ -3305,6 +3478,7 @@ const companies = [
       "y1": 596,
       "y2": 646
     },
+    "description": "主要提供算力落地支持：韩国最大的云服务与中文大模型开发商。 负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "disassembly": "主要提供算力落地支持：韩国最大的云服务与中文大模型开发商。",
     "money": "负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "action": "“老黄出图纸，他们出工程！直接帮英伟达把服务器柜子插满客户数据中心的超级装配工。”",
@@ -3324,6 +3498,7 @@ const companies = [
       "y1": 596,
       "y2": 646
     },
+    "description": "【企业官网介绍】\nDiscover the most efficient way to build, tune and run your AI models and applications on top-notch NVIDIA® GPUs.\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：欧洲高性能AI算力平台。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：欧洲高性能AI算力平台。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -3343,6 +3518,7 @@ const companies = [
       "y1": 602,
       "y2": 638
     },
+    "description": "【企业官网介绍】\nNeousys offers a wide range of industrial computers, including rugged, fanless, and wide-temp range operation computers. Our computers are ideal for emerging edge AI applications such as automation, autonomous in-vehicle, surveillance, and intelligent vision solutions.\n\n【NVIDIA 协同与生态定位】\n定位是 宸曜科技，宽温防震工业电脑与车载边缘计算系统专家。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 宸曜科技，宽温防震工业电脑与车载边缘计算系统专家。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -3362,6 +3538,7 @@ const companies = [
       "y1": 596,
       "y2": 646
     },
+    "description": "定位是 全球数据管理与全闪存存储巨头。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 全球数据管理与全闪存存储巨头。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -3381,6 +3558,7 @@ const companies = [
       "y1": 602,
       "y2": 638
     },
+    "description": "【企业官网介绍】\nBreaking the trade-off between product quality and development time.\n\n【NVIDIA 协同与生态定位】\n定位是 Neural Concept, 利用3D深度学习加速工业设计与流体力学仿真的先驱。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 Neural Concept, 利用3D深度学习加速工业设计与流体力学仿真的先驱。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -3400,6 +3578,7 @@ const companies = [
       "y1": 596,
       "y2": 646
     },
+    "description": "定位是 新汉，工业电脑、车载系统及机器人中控。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 新汉，工业电脑、车载系统及机器人中控。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -3419,6 +3598,7 @@ const companies = [
       "y1": 608,
       "y2": 640
     },
+    "description": "【企业官网介绍】\nNexuni 耐思尼為 NVIDIA Inception 與 Universal Robots 認證技術夥伴，已部署超過 100 套 AI 機器人與自動化系統。提供智慧焊接機器人、自主巡邏機器人、高樓清潔機器人、AI 雙臂服務機器人、車牌辨識停車管理等解決方案，助企業節省 88% 人力成本、生產力提升 150%。服務台灣、新加坡、日本、北美及歐洲。AI robots for facility management, security patrol, smart welding, facade cleaning & parking automation — NVIDIA Inception and Universal Robots certified partner with 100+ deployments.\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：AI智能办公协作平台。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：AI智能办公协作平台。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -3438,6 +3618,7 @@ const companies = [
       "y1": 596,
       "y2": 646
     },
+    "description": "【企业官网介绍】\nA creative and production shop based in Crested Butte, Colorado.\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：高精度金属切削与AI监控。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：高精度金属切削与AI监控。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -3457,6 +3638,7 @@ const companies = [
       "y1": 596,
       "y2": 646
     },
+    "description": "【企业官网介绍】\nNscale full-stack AI cloud platform and services are designed for scale, resilience, and speed.\n\n【NVIDIA 协同与生态定位】\n主要提供算力落地支持：高密度GPU算力云平台。 负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "disassembly": "主要提供算力落地支持：高密度GPU算力云平台。",
     "money": "负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "action": "“老黄出图纸，他们出工程！直接帮英伟达把服务器柜子插满客户数据中心的超级装配工。”",
@@ -3476,6 +3658,7 @@ const companies = [
       "y1": 596,
       "y2": 646
     },
+    "description": "定位是 颠覆性的3D工程力学拓扑设计软件。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 颠覆性的3D工程力学拓扑设计软件。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -3495,6 +3678,7 @@ const companies = [
       "y1": 601,
       "y2": 641
     },
+    "description": "专注学术与前沿应用：台大医院，台湾顶尖的智慧医疗与临床医学中心。 英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "disassembly": "专注学术与前沿应用：台大医院，台湾顶尖的智慧医疗与临床医学中心。",
     "money": "英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "action": "“科学家与万亿资本的梦幻联动！帮老黄把算力火种播撒在攻克绝症与超级计算的无人区里。”",
@@ -3514,6 +3698,7 @@ const companies = [
       "y1": 596,
       "y2": 646
     },
+    "description": "【企业官网介绍】\nСтворюємо та розвиваємо бренди. Володіючи власними бізнесами ми пропонуємо підприємцям наш досвід. Київ, Україна.\n\n【NVIDIA 协同与生态定位】\n定位是 医疗数据处理。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 医疗数据处理。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -3533,6 +3718,7 @@ const companies = [
       "y1": 596,
       "y2": 646
     },
+    "description": "【企业官网介绍】\nWe offer a unified platform that seamlessly integrates infrastructure and management to enable smooth operations of data and apps across clouds.\n\n【NVIDIA 协同与生态定位】\n定位是 超融合架构与多云统一部署大厂。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 超融合架构与多云统一部署大厂。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -3552,6 +3738,7 @@ const companies = [
       "y1": 602,
       "y2": 638
     },
+    "description": "定位是 nVent, 全球领先的液冷散热、机柜配电与电子保护解决方案商。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 nVent, 全球领先的液冷散热、机柜配电与电子保护解决方案商。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -3571,6 +3758,7 @@ const companies = [
       "y1": 596,
       "y2": 646
     },
+    "description": "【企业官网介绍】\nNYXO: THE MISSION: CREATE, COLLABORATE, SHARE, GIVE BACK, INSPIRE, WITH ALL OUR HEART AND SOUL. Art, Threads & Charity focused. NY Loves... to Inspire. 🖤\n\n【NVIDIA 协同与生态定位】\n定位是 智能硬件与计算。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 智能硬件与计算。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -3590,6 +3778,7 @@ const companies = [
       "y1": 602,
       "y2": 638
     },
+    "description": "主打软件与 AI 平台：nybl, 工业物联网、预测性维护与企业AI操作系统。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：nybl, 工业物联网、预测性维护与企业AI操作系统。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -3609,6 +3798,7 @@ const companies = [
       "y1": 596,
       "y2": 646
     },
+    "description": "主打软件与 AI 平台：ChatGPT发布者，英伟达最大客户之一。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：ChatGPT发布者，英伟达最大客户之一。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -3628,6 +3818,7 @@ const companies = [
       "y1": 602,
       "y2": 638
     },
+    "description": "【企业官网介绍】\nOpenNebula helps you replace VMware and build AI-ready clouds with full control, enterprise-grade features, and lower infrastructure costs.\n\n【NVIDIA 协同与生态定位】\n定位是 开源超融合云管理平台与边缘计算算力调度系统。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 开源超融合云管理平台与边缘计算算力调度系统。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -3647,6 +3838,7 @@ const companies = [
       "y1": 596,
       "y2": 646
     },
+    "description": "主要提供算力落地支持：甲骨文，企业数据库与GPU云提供商。 负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "disassembly": "主要提供算力落地支持：甲骨文，企业数据库与GPU云提供商。",
     "money": "负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "action": "“老黄出图纸，他们出工程！直接帮英伟达把服务器柜子插满客户数据中心的超级装配工。”",
@@ -3666,6 +3858,7 @@ const companies = [
       "y1": 602,
       "y2": 638
     },
+    "description": "主打软件与 AI 平台：前沿AI智能体与多模态创意内容生成平台。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：前沿AI智能体与多模态创意内容生成平台。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -3685,6 +3878,7 @@ const companies = [
       "y1": 596,
       "y2": 646
     },
+    "description": "【企业官网介绍】\nWe build software that empowers organizations to effectively integrate their data, decisions, and operations.\n\n【NVIDIA 协同与生态定位】\n定位是 军工与企业大数据分析绝对霸主。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 军工与企业大数据分析绝对霸主。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -3704,6 +3898,7 @@ const companies = [
       "y1": 596,
       "y2": 646
     },
+    "description": "【企业官网介绍】\nImplement Zero Trust, Secure your Network, Cloud workloads, Hybrid Workforce, Leverage Threat Intelligence & Security Consulting. Cybersecurity Services & Education for CISO’s, Head of Infrastructure, Network Security Engineers, Cloud Architects & SOC Managers\n\n【NVIDIA 协同与生态定位】\n专注网络与安全侧：全球最大的网络安全巨头。 算力帝国的安全盾牌。GPU 数据中心开得越猛，流量与防护需求就越大。他们专门提供数据防漏与零信任防线。",
     "disassembly": "专注网络与安全侧：全球最大的网络安全巨头。",
     "money": "算力帝国的安全盾牌。GPU 数据中心开得越猛，流量与防护需求就越大。他们专门提供数据防漏与零信任防线。",
     "action": "“算力帝国的金牌保镖！GPU 跑得再快，数据被偷了也是白搭，他们就是帮老黄看门的最强数字哨兵。”",
@@ -3723,6 +3918,7 @@ const companies = [
       "y1": 596,
       "y2": 646
     },
+    "description": "主打软件与 AI 平台：和硕联合，苹果核心组装厂及AI服务器商。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：和硕联合，苹果核心组装厂及AI服务器商。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -3742,6 +3938,7 @@ const companies = [
       "y1": 596,
       "y2": 646
     },
+    "description": "【企业官网介绍】\nAccelerating industrial innovation with AI: We build AI to improve the design, manufacturing, and operation of complex products and processes.\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：利用AI重塑流体力学与热力学仿真的软件。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：利用AI重塑流体力学与热力学仿真的软件。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -3761,6 +3958,7 @@ const companies = [
       "y1": 596,
       "y2": 646
     },
+    "description": "【企业官网介绍】\nPNY NVIDIA Graphics Cards, Networking, Data Center GPUs, Solid State Drives, PC Memory & Flash Memory for consumers & professionals.\n\n【NVIDIA 协同与生态定位】\n定位是 必恩威，英伟达专业工作站显卡主力分销商。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 必恩威，英伟达专业工作站显卡主力分销商。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -3780,6 +3978,7 @@ const companies = [
       "y1": 665,
       "y2": 715
     },
+    "description": "【企业官网介绍】\nPTC accelerates digital transformation with a new generation of technology that powers the ways you engineer, manufacture, and service your physical products.\n\n【NVIDIA 协同与生态定位】\n定位是 参数技术，工业CAD/PLM与三维设计龙头。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 参数技术，工业CAD/PLM与三维设计龙头。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -3799,6 +3998,7 @@ const companies = [
       "y1": 665,
       "y2": 715
     },
+    "description": "【企业官网介绍】\nLearn how Qualcomm transforms industries with leading edge AI, high-performance, low-power computing and unrivaled connectivity.\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：高通，端侧AI PC与高算力NPU代表。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：高通，端侧AI PC与高算力NPU代表。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -3818,6 +4018,7 @@ const companies = [
       "y1": 665,
       "y2": 715
     },
+    "description": "定位是 瑞昱半导体，知名的‘螃蟹’声卡网卡芯片商。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 瑞昱半导体，知名的‘螃蟹’声卡网卡芯片商。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -3837,6 +4038,7 @@ const companies = [
       "y1": 665,
       "y2": 715
     },
+    "description": "【企业官网介绍】\nRafay turns compute into self-service AI platforms and revenue-generating services for enterprises, neoclouds, and sovereign AI clouds.\n\n【NVIDIA 协同与生态定位】\n定位是 企业级Kubernetes多集群运维平台。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 企业级Kubernetes多集群运维平台。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -3856,6 +4058,7 @@ const companies = [
       "y1": 665,
       "y2": 715
     },
+    "description": "【企业官网介绍】\nREAS.com is a database for Casey REAS\n\n【NVIDIA 协同与生态定位】\n定位是 智能云分发系统。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 智能云分发系统。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -3875,6 +4078,7 @@ const companies = [
       "y1": 665,
       "y2": 715
     },
+    "description": "【企业官网介绍】\nRed Hat is the world’s leading provider of enterprise open source solutions, including high-performing Linux, cloud, container, and Kubernetes technologies.\n\n【NVIDIA 协同与生态定位】\n定位是 红帽公司，企业开源Linux与OpenShift平台。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 红帽公司，企业开源Linux与OpenShift平台。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -3894,6 +4098,7 @@ const companies = [
       "y1": 665,
       "y2": 715
     },
+    "description": "【企业官网介绍】\nRedpanda powers an Agentic Data Plane and Data Streaming platform for real-time performance, AI innovation, and simplified operations.\n\n【NVIDIA 协同与生态定位】\n定位是 极速流数据平台，兼容Kafka协议。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 极速流数据平台，兼容Kafka协议。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -3913,6 +4118,7 @@ const companies = [
       "y1": 665,
       "y2": 715
     },
+    "description": "主打软件与 AI 平台：元宇宙、虚拟现场与AI交互设计。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：元宇宙、虚拟现场与AI交互设计。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -3932,6 +4138,7 @@ const companies = [
       "y1": 665,
       "y2": 715
     },
+    "description": "定位是 强化学习仿真平台。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 强化学习仿真平台。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -3951,6 +4158,7 @@ const companies = [
       "y1": 665,
       "y2": 715
     },
+    "description": "【企业官网介绍】\nEverything you need to build and deploy computer vision models, from automated annotation tools to high-performance deployment solutions.\n\n【NVIDIA 协同与生态定位】\n定位是 计算机视觉一站式数据标注与训练工具。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 计算机视觉一站式数据标注与训练工具。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -3970,6 +4178,7 @@ const companies = [
       "y1": 665,
       "y2": 715
     },
+    "description": "【企业官网介绍】\nWe are building foundational General World Models that will be capable of simulating all possible worlds and experiences. The next frontier of intelligence will come from models that can understand, perceive, generate and act in the world.\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：生成式视频AI霸主。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：生成式视频AI霸主。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -3989,6 +4198,7 @@ const companies = [
       "y1": 665,
       "y2": 715
     },
+    "description": "【企业官网介绍】\nDiscover the latest in electronic & smart appliance technology with Samsung. Find the next big thing from smartphones & tablets to laptops & tvs & more.\n\n【NVIDIA 协同与生态定位】\n专攻芯片级核心技术：三星，HBM显存与晶圆制造巨头。 老黄 GPU 帝国的基石。没有他们的先进制程、高带宽显存（HBM）或芯片IP，老黄的芯片根本无法大规模量产。",
     "disassembly": "专攻芯片级核心技术：三星，HBM显存与晶圆制造巨头。",
     "money": "老黄 GPU 帝国的基石。没有他们的先进制程、高带宽显存（HBM）或芯片IP，老黄的芯片根本无法大规模量产。",
     "action": "“万亿算力大厦的硬核地基！别光盯着英伟达的显卡，没有他们托底，老黄的芯片根本走不出实验室！”",
@@ -4008,6 +4218,7 @@ const companies = [
       "y1": 668,
       "y2": 718
     },
+    "description": "【企业官网介绍】\nRepurgenesis is a cutting-edge company focused on accelerating drug development through AI-powered technologies and platforms, with a strategic emphasis on drug repurposing for rapid commercialization. We are committed to: 1. Drug Repurposing Innovation: Leveraging deep learning, generative AI, and the PrimeKG knowledge graph to systematically uncover the hidden potential of existing drugs across new disease indications. 2. Accelerating Development & Reducing Costs: Shortening the drug repurposing timeline, improving success rates, and lowering R&D costs to make effective therapies more accessible. 3. Patient-Centric Approach: Focusing on rare diseases and major unmet medical needs, while actively advancing personalized and precision medicine to ensure patients receive timely and effective treatments. Through the power of AI and data integration, Repurgenesis is redefining the landscape of drug repurposing—driving innovation in healthcare and unlocking new therapeutic possibilities for patients worldwide.\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：生成式医疗与AI健康计算。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：生成式医疗与AI健康计算。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -4027,6 +4238,7 @@ const companies = [
       "y1": 665,
       "y2": 715
     },
+    "description": "【企业官网介绍】\nExplore market-leading software and technology from SAP. Become an intelligent, sustainable enterprise with the best in cloud, platform, and sustainability solutions – no matter your industry or size.\n\n【NVIDIA 协同与生态定位】\n定位是 全球最大企业ERP管理系统。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 全球最大企业ERP管理系统。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -4046,6 +4258,7 @@ const companies = [
       "y1": 665,
       "y2": 715
     },
+    "description": "【企业官网介绍】\nSarvam is India\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：印度端侧小模型与LLM独角兽。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：印度端侧小模型与LLM独角兽。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -4065,6 +4278,7 @@ const companies = [
       "y1": 665,
       "y2": 715
     },
+    "description": "【企业官网介绍】\nSB C&S株式会社は、ソフトバンクグループの原点であるIT流通ビジネスを受け継ぐとともに、市場環境の変化を迅速にとらえ、新たなビジネスモデルを生み出しています。法人向けには、国内最大規模の販売ネットワークを通じ、クラウドやAIを含めた先進のテクノロジーを活用したプロダクト・ソリューションを提供しています。コンシューマ向けには、独自の企画・開発力を生かし、ソフトウエアやモバイルアクセサリーから、IoTプロダクト・サービスへと商品ラインアップを拡充しています。\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：日本软银旗下IT分销与AI集成服务。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：日本软银旗下IT分销与AI集成服务。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -4084,6 +4298,7 @@ const companies = [
       "y1": 665,
       "y2": 715
     },
+    "description": "定位是 施耐德电气，数据中心供电与制冷龙头。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 施耐德电气，数据中心供电与制冷龙头。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -4103,6 +4318,7 @@ const companies = [
       "y1": 655,
       "y2": 715
     },
+    "description": "【企业官网介绍】\nInnovative solutions for industrial applications and IT infrastructure, from versatile electrical enclosures and server racks to climate control, busbar systems, and more.<br/>\n\n【NVIDIA 协同与生态定位】\n定位是 威图，全球数据中心机柜系统、精密空调温控与液冷散热龙头。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 威图，全球数据中心机柜系统、精密空调温控与液冷散热龙头。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -4122,6 +4338,7 @@ const companies = [
       "y1": 665,
       "y2": 715
     },
+    "description": "定位是 全球工作流数字管理巨头。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 全球工作流数字管理巨头。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -4141,6 +4358,7 @@ const companies = [
       "y1": 680,
       "y2": 715
     },
+    "description": "【企业官网介绍】\nThe compute and infrastructure platform for you to train, evaluate, and deploy your own agentic models.\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：分布式AI训练网络与去中心化AI算力共享平台。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：分布式AI训练网络与去中心化AI算力共享平台。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -4160,6 +4378,7 @@ const companies = [
       "y1": 673,
       "y2": 710
     },
+    "description": "【企业官网介绍】\nSharpa builds dexterous humanoid robots with human-like, tactile robotic hands with 22 DoF, as well as foundation models for contact-rich manipulation tasks. ROS2-compatible. Trusted by leading robotics labs globally.\n\n【NVIDIA 协同与生态定位】\n定位是 高端智能终端与显示。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 高端智能终端与显示。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -4179,6 +4398,7 @@ const companies = [
       "y1": 740,
       "y2": 770
     },
+    "description": "工业巨头西门子与英伟达在数字孪生与工业元宇宙领域展开了深度协作。通过将西门子的工业软件（如 Teamcenter）与英伟达 Omniverse 平台链接，双方在虚拟世界中以 1:1 的高精度模拟真实的工业产线与生产设备，实现卓越的工业流程优化。",
     "disassembly": "工业巨头西门子与英伟达在数字孪生与工业元宇宙领域展开了深度协作。通过将西门子的工业软件（如 Teamcenter）与英伟达 Omniverse 平台链接，双方在虚拟世界中以 1:1 的高精度模拟真实的工业产线与生产设备，实现卓越的工业流程优化。",
     "money": "在建厂和设备调试前，通过高精度物理规律模拟进行数字化仿真，能为全球大型制造企业节省数百万的物理调试和后期改造费用，这代表着智能制造的产业趋势。",
     "action": "“西门子与 Omniverse 平台的对接，使企业可以在虚拟空间中以 1:1 精度提前运行并优化整条实体产线。”",
@@ -4198,6 +4418,7 @@ const companies = [
       "y1": 673,
       "y2": 710
     },
+    "description": "【企业官网介绍】\nQuanta Cloud Technology (QCT) is a global datacenter solution provider. We combine the efficiency of hyperscale hardware with infrastructure software from a diversity of industry leaders to solve next-generation datacenter design and operation challenges. QCT serves cloud service providers, telecoms and enterprises running public, hybrid and private clouds.,QCT (Quanta Cloud Technology)\n\n【NVIDIA 协同与生态定位】\n主要提供算力落地支持：云达科技，广达旗下全球领先的超大型数据中心与AI服务器整机柜集成商。 负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "disassembly": "主要提供算力落地支持：云达科技，广达旗下全球领先的超大型数据中心与AI服务器整机柜集成商。",
     "money": "负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "action": "“老黄出图纸，他们出工程！直接帮英伟达把服务器柜子插满客户数据中心的超级装配工。”",
@@ -4217,6 +4438,7 @@ const companies = [
       "y1": 665,
       "y2": 715
     },
+    "description": "主要提供算力落地支持：广达电脑，全球领先的服务器与个人PC设计制造代工巨头。 负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "disassembly": "主要提供算力落地支持：广达电脑，全球领先的服务器与个人PC设计制造代工巨头。",
     "money": "负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "action": "“老黄出图纸，他们出工程！直接帮英伟达把服务器柜子插满客户数据中心的超级装配工。”",
@@ -4236,6 +4458,7 @@ const companies = [
       "y1": 400,
       "y2": 437
     },
+    "description": "主打软件与 AI 平台：Ryoyo Ryosan, 日本领先的半导体器件与AI计算硬件分销代理商。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：Ryoyo Ryosan, 日本领先的半导体器件与AI计算硬件分销代理商。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -4255,6 +4478,7 @@ const companies = [
       "y1": 731,
       "y2": 776
     },
+    "description": "专攻芯片级核心技术：硅谷电力，为全球科技巨头数据中心提供清洁能源与稳定电网。 老黄 GPU 帝国的基石。没有他们的先进制程、高带宽显存（HBM）或芯片IP，老黄的芯片根本无法大规模量产。",
     "disassembly": "专攻芯片级核心技术：硅谷电力，为全球科技巨头数据中心提供清洁能源与稳定电网。",
     "money": "老黄 GPU 帝国的基石。没有他们的先进制程、高带宽显存（HBM）或芯片IP，老黄的芯片根本无法大规模量产。",
     "action": "“万亿算力大厦的硬核地基！别光盯着英伟达的显卡，没有他们托底，老黄的芯片根本走不出实验室！”",
@@ -4274,6 +4498,7 @@ const companies = [
       "y1": 728,
       "y2": 778
     },
+    "description": "【企业官网介绍】\nFine-tune and deploy GenAI models with Simplismart's fastest inference engine. Integrate with AWS/Azure/GCP and many more cloud providers for simple, scalable, cost-effective deployment\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：AI推理性能提速与精简平台。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：AI推理性能提速与精简平台。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -4293,6 +4518,7 @@ const companies = [
       "y1": 728,
       "y2": 778
     },
+    "description": "专攻芯片级核心技术：SK海力士，全球HBM显存最强供应商之一。 老黄 GPU 帝国的基石。没有他们的先进制程、高带宽显存（HBM）或芯片IP，老黄的芯片根本无法大规模量产。",
     "disassembly": "专攻芯片级核心技术：SK海力士，全球HBM显存最强供应商之一。",
     "money": "老黄 GPU 帝国的基石。没有他们的先进制程、高带宽显存（HBM）或芯片IP，老黄的芯片根本无法大规模量产。",
     "action": "“万亿算力大厦的硬核地基！别光盯着英伟达的显卡，没有他们托底，老黄的芯片根本走不出实验室！”",
@@ -4312,6 +4538,7 @@ const companies = [
       "y1": 728,
       "y2": 778
     },
+    "description": "【企业官网介绍】\nAX로 만들어가는 더 나은 내일\n\n【NVIDIA 协同与生态定位】\n定位是 韩国最大的电信与智慧云服务运营商。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 韩国最大的电信与智慧云服务运营商。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -4331,6 +4558,7 @@ const companies = [
       "y1": 728,
       "y2": 778
     },
+    "description": "主打软件与 AI 平台：机器人大模型与具身智能顶尖独角兽。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：机器人大模型与具身智能顶尖独角兽。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -4350,6 +4578,7 @@ const companies = [
       "y1": 728,
       "y2": 778
     },
+    "description": "定位是 所罗门，机器人3D视觉引导与机械臂防碰撞。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 所罗门，机器人3D视觉引导与机械臂防碰撞。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -4369,6 +4598,7 @@ const companies = [
       "y1": 728,
       "y2": 778
     },
+    "description": "主要提供算力落地支持：多云容器资源编排调度。 负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "disassembly": "主要提供算力落地支持：多云容器资源编排调度。",
     "money": "负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "action": "“老黄出图纸，他们出工程！直接帮英伟达把服务器柜子插满客户数据中心的超级装配工。”",
@@ -4388,6 +4618,7 @@ const companies = [
       "y1": 731,
       "y2": 776
     },
+    "description": "定位是 工业级医疗电子与精密传感器解决方案商。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 工业级医疗电子与精密传感器解决方案商。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -4407,6 +4638,7 @@ const companies = [
       "y1": 728,
       "y2": 778
     },
+    "description": "【企业官网介绍】\n量子厂家量旋科技是一家致力于量子计算产业化和普惠化的一站式解决方案服务商,目前公司有三大主营业务,分别为:产业级超导量子计算机产品服务(包括超导量子芯片)、教育级核磁量子计算机产品服务(包含量子教育服务)以及云平台和软件产品服务。\n\n【NVIDIA 协同与生态定位】\n定位是 本源量子/量旋科技，桌面级超导量子计算。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 本源量子/量旋科技，桌面级超导量子计算。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -4426,6 +4658,7 @@ const companies = [
       "y1": 728,
       "y2": 778
     },
+    "description": "【企业官网介绍】\nDeploy your AI with maximal efficiency on CPU, GPU, or NPU\n\n【NVIDIA 协同与生态定位】\n定位是 端侧大模型超极限裁剪与量化工具。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 端侧大模型超极限裁剪与量化工具。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -4445,6 +4678,7 @@ const companies = [
       "y1": 738,
       "y2": 773
     },
+    "description": "主打软件与 AI 平台：希源科技，半导体智能量测与AI缺陷检测平台。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：希源科技，半导体智能量测与AI缺陷检测平台。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -4464,6 +4698,7 @@ const companies = [
       "y1": 728,
       "y2": 778
     },
+    "description": "【企业官网介绍】\nStarburst delivers enterprise intelligence with federated access to all your data, powering AI, faster insights, and trusted decisions at scale.\n\n【NVIDIA 协同与生态定位】\n定位是 企业极速分布式SQL查询引擎。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 企业极速分布式SQL查询引擎。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -4483,6 +4718,7 @@ const companies = [
       "y1": 728,
       "y2": 778
     },
+    "description": "【企业官网介绍】\nOur mission of discovery and learning is energized by a spirit of optimism and possibility that dates to our founding.\n\n【NVIDIA 协同与生态定位】\n专注学术与前沿应用：斯坦福大学，AI与计算机科学泰斗高校。 英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "disassembly": "专注学术与前沿应用：斯坦福大学，AI与计算机科学泰斗高校。",
     "money": "英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "action": "“科学家与万亿资本的梦幻联动！帮老黄把算力火种播撒在攻克绝症与超级计算的无人区里。”",
@@ -4502,6 +4738,7 @@ const companies = [
       "y1": 728,
       "y2": 778
     },
+    "description": "【企业官网介绍】\nSolve industrial challenges with Superb AI — an AI platform powered by real-world data. Simplify AI development, deployment, and operations with solutions for both AI experts and on-site teams.\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：AI视频与影像数据自动化标注平台。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：AI视频与影像数据自动化标注平台。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -4521,6 +4758,7 @@ const companies = [
       "y1": 731,
       "y2": 776
     },
+    "description": "主要提供算力落地支持：美超微，全球高密度AI服务器与液冷数据中心整机柜系统霸主。 负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "disassembly": "主要提供算力落地支持：美超微，全球高密度AI服务器与液冷数据中心整机柜系统霸主。",
     "money": "负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "action": "“老黄出图纸，他们出工程！直接帮英伟达把服务器柜子插满客户数据中心的超级装配工。”",
@@ -4540,6 +4778,7 @@ const companies = [
       "y1": 728,
       "y2": 778
     },
+    "description": "【企业官网介绍】\nEmpower your network with SynaXG's hyperconverged AI-RAN platform. We deliver AI-first, open, and energy-efficient 5G infrastructure solutions tailored for mobile operators and enterprises.\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：5G无线算力与AI基站集成平台。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：5G无线算力与AI基站集成平台。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -4559,6 +4798,7 @@ const companies = [
       "y1": 728,
       "y2": 778
     },
+    "description": "专攻芯片级核心技术：新思科技，EDA芯片设计工具霸主。 老黄 GPU 帝国的基石。没有他们的先进制程、高带宽显存（HBM）或芯片IP，老黄的芯片根本无法大规模量产。",
     "disassembly": "专攻芯片级核心技术：新思科技，EDA芯片设计工具霸主。",
     "money": "老黄 GPU 帝国的基石。没有他们的先进制程、高带宽显存（HBM）或芯片IP，老黄的芯片根本无法大规模量产。",
     "action": "“万亿算力大厦的硬核地基！别光盯着英伟达的显卡，没有他们托底，老黄的芯片根本走不出实验室！”",
@@ -4578,6 +4818,7 @@ const companies = [
       "y1": 738,
       "y2": 773
     },
+    "description": "【企业官网介绍】\nAI agents that scale the capacity of engineering teams at minimum cost, handle complex engineering tasks around the clock and fully integrate with existing CAx tools for maximum efficiency\n\n【NVIDIA 协同与生态定位】\n定位是 低代码工业流程与机械设计自动化。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 低代码工业流程与机械设计自动化。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -4597,6 +4838,7 @@ const companies = [
       "y1": 728,
       "y2": 778
     },
+    "description": "专注学术与前沿应用：台北医学大学，顶尖智慧医疗高校。 英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "disassembly": "专注学术与前沿应用：台北医学大学，顶尖智慧医疗高校。",
     "money": "英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "action": "“科学家与万亿资本的梦幻联动！帮老黄把算力火种播撒在攻克绝症与超级计算的无人区里。”",
@@ -4616,6 +4858,7 @@ const companies = [
       "y1": 728,
       "y2": 778
     },
+    "description": "专注学术与前沿应用：台中荣民总医院，智慧医院标杆。 英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "disassembly": "专注学术与前沿应用：台中荣民总医院，智慧医院标杆。",
     "money": "英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "action": "“科学家与万亿资本的梦幻联动！帮老黄把算力火种播撒在攻克绝症与超级计算的无人区里。”",
@@ -4635,6 +4878,7 @@ const companies = [
       "y1": 733,
       "y2": 773
     },
+    "description": "主打软件与 AI 平台：台北生技园区，台湾前沿的生物科技与新药研发聚落。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：台北生技园区，台湾前沿的生物科技与新药研发聚落。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -4654,6 +4898,7 @@ const companies = [
       "y1": 796,
       "y2": 846
     },
+    "description": "定位是 特密科，半导体光刻极紫外线气体材料供应商。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 特密科，半导体光刻极紫外线气体材料供应商。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -4673,6 +4918,7 @@ const companies = [
       "y1": 796,
       "y2": 846
     },
+    "description": "专注学术与前沿应用：东吴大学，台湾知名科技人文高校。 英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "disassembly": "专注学术与前沿应用：东吴大学，台湾知名科技人文高校。",
     "money": "英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "action": "“科学家与万亿资本的梦幻联动！帮老黄把算力火种播撒在攻克绝症与超级计算的无人区里。”",
@@ -4692,6 +4938,7 @@ const companies = [
       "y1": 803,
       "y2": 842
     },
+    "description": "【企业官网介绍】\nTelit Cinterion offers comprehensive IoT solutions that reduce time to market and costs through custom, market-ready connected devices.\n\n【NVIDIA 协同与生态定位】\n定位是 泰利特，全球物联网无线模组、边缘连接与物联网软件巨头。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 泰利特，全球物联网无线模组、边缘连接与物联网软件巨头。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -4711,6 +4958,7 @@ const companies = [
       "y1": 803,
       "y2": 842
     },
+    "description": "定位是 智能控制与边缘硬件系统。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 智能控制与边缘硬件系统。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -4730,6 +4978,7 @@ const companies = [
       "y1": 796,
       "y2": 846
     },
+    "description": "【企业官网介绍】\nBuild what's next on the AI Native Cloud. Full-stack AI platform for inference, fine-tuning, and GPU clusters — powered by cutting-edge research.\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：高性价比开源大模型托管与API平台。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：高性价比开源大模型托管与API平台。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -4749,6 +4998,7 @@ const companies = [
       "y1": 796,
       "y2": 846
     },
+    "description": "【企业官网介绍】\nEnterprise AI cybersecurity platform with layered protection, cyber risk exposure management and SecOps—62 global offices, the United States HQ office is in Texas.\n\n【NVIDIA 协同与生态定位】\n定位是 趋势科技，全球网络安全软件老牌巨头。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 趋势科技，全球网络安全软件老牌巨头。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -4768,6 +5018,7 @@ const companies = [
       "y1": 796,
       "y2": 846
     },
+    "description": "主打软件与 AI 平台：边缘AI与智能化方案。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：边缘AI与智能化方案。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -4787,6 +5038,7 @@ const companies = [
       "y1": 803,
       "y2": 842
     },
+    "description": "定位是 工业自动化与边缘智能系统。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 工业自动化与边缘智能系统。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -4806,6 +5058,7 @@ const companies = [
       "y1": 796,
       "y2": 846
     },
+    "description": "台积电是全球最大的半导体代工制造服务商，也是英伟达高性能芯片能够规模化量产的供应链基石。同时，台积电引入了英伟达的 cuLitho 计算光刻加速软件库，将光刻过程的物理仿真计算速度提升了上百倍，极大地拓宽了先进制程的物理极限。",
     "disassembly": "台积电是全球最大的半导体代工制造服务商，也是英伟达高性能芯片能够规模化量产的供应链基石。同时，台积电引入了英伟达的 cuLitho 计算光刻加速软件库，将光刻过程的物理仿真计算速度提升了上百倍，极大地拓宽了先进制程的物理极限。",
     "money": "台积电在晶圆制造与先进封装（如 CoWoS）领域的领先实力，不仅为双方在 2 纳米及更先进工艺下的芯片量产铺平了道路，也决定了全球高性能 AI 算力芯片的供给天花板。",
     "action": "“台积电引入英伟达 cuLitho 计算库，使芯片光刻物理仿真速度提升百倍，推动了芯片先进制程的跨代量产。”",
@@ -4825,6 +5078,7 @@ const companies = [
       "y1": 803,
       "y2": 842
     },
+    "description": "定位是 SMC, 全球气动控制元件与工业自动化精密制造绝对龙头。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 SMC, 全球气动控制元件与工业自动化精密制造绝对龙头。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -4844,6 +5098,7 @@ const companies = [
       "y1": 803,
       "y2": 842
     },
+    "description": "专注学术与前沿应用：东海大学，知名综合性研究型高校。 英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "disassembly": "专注学术与前沿应用：东海大学，知名综合性研究型高校。",
     "money": "英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "action": "“科学家与万亿资本的梦幻联动！帮老黄把算力火种播撒在攻克绝症与超级计算的无人区里。”",
@@ -4863,6 +5118,7 @@ const companies = [
       "y1": 796,
       "y2": 846
     },
+    "description": "【企业官网介绍】\nLearn how you can leverage the Uber platform and apps to earn more, eat, commute, get a ride, simplify business travel, and more.\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：优步，利用AI调度的全球出行巨头。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：优步，利用AI调度的全球出行巨头。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -4882,6 +5138,7 @@ const companies = [
       "y1": 796,
       "y2": 846
     },
+    "description": "【企业官网介绍】\nUnitree Robotics is the global high-performance quadrupedal robot industry pioneer, the global quadrupedal robot industry applications of the leader. It has been invited to participate in the 2021 CCTV Spring Festival Gala of the Year of the Ox and the opening ceremony of the 2022 Winter Olympics. It also accepted interviews from well-known media such as CCTV. Unitree Robotics is the first company in the world to publicly retail high-performance quadruped , and has led the world in sales over the years.\n\n【NVIDIA 协同与生态定位】\n主打物理AI方向：宇树科技（重复展示，表明机器人领头羊地位）。 给英伟达的 AI 大脑“长身体”的具身智能先锋。通过英伟达的 Isaac 或 Jetson 平台训练机器人，共同探索物理世界的下一代搞钱风口。",
     "disassembly": "主打物理AI方向：宇树科技（重复展示，表明机器人领头羊地位）。",
     "money": "给英伟达的 AI 大脑“长身体”的具身智能先锋。通过英伟达的 Isaac 或 Jetson 平台训练机器人，共同探索物理世界的下一代搞钱风口。",
     "action": "“给英伟达算力‘装上铁脚板’的未来玩家！让 AI 大脑控制钢筋铁骨，这才是下一代物理世界大杀器。”",
@@ -4901,6 +5158,7 @@ const companies = [
       "y1": 796,
       "y2": 846
     },
+    "description": "主打物理AI方向：全球协作机械臂霸主。 给英伟达的 AI 大脑“长身体”的具身智能先锋。通过英伟达的 Isaac 或 Jetson 平台训练机器人，共同探索物理世界的下一代搞钱风口。",
     "disassembly": "主打物理AI方向：全球协作机械臂霸主。",
     "money": "给英伟达的 AI 大脑“长身体”的具身智能先锋。通过英伟达的 Isaac 或 Jetson 平台训练机器人，共同探索物理世界的下一代搞钱风口。",
     "action": "“给英伟达算力‘装上铁脚板’的未来玩家！让 AI 大脑控制钢筋铁骨，这才是下一代物理世界大杀器。”",
@@ -4920,6 +5178,7 @@ const companies = [
       "y1": 796,
       "y2": 846
     },
+    "description": "主打软件与 AI 平台：AI原生超大规模高性能存储底座。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：AI原生超大规模高性能存储底座。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -4939,6 +5198,7 @@ const companies = [
       "y1": 796,
       "y2": 846
     },
+    "description": "【企业官网介绍】\nGive every tenant their own isolated Kubernetes cluster. Built for AI Cloud Providers, AI factories, and multi-cloud Kubernetes platforms running production AI infrastructure.\n\n【NVIDIA 协同与生态定位】\n定位是 Kubernetes虚拟集群与算力租用隔离技术。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 Kubernetes虚拟集群与算力租用隔离技术。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -4958,6 +5218,7 @@ const companies = [
       "y1": 803,
       "y2": 842
     },
+    "description": "主打软件与 AI 平台：Vaidio, 顶尖AI视频图像分析与智能安防平台。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：Vaidio, 顶尖AI视频图像分析与智能安防平台。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -4977,6 +5238,7 @@ const companies = [
       "y1": 796,
       "y2": 846
     },
+    "description": "【企业官网介绍】\nVecow has been devoted to designing and developing high quality products with innovative technology since it was founded. Our application fields of Machine Vision and Imaging, Video Analytics Surveillance, Intelligent Industrial Automation, and GigE Vision are credited to Vecow high-efficient design service. 超恩提供嵌入式電腦與工業自動化的解決方案, 產品涵蓋工業電腦, GigE Imaging, 物聯網, 雲端計算, 巨量資料, 機器視覺, 嵌入式系統, 工業用I/O, 資料擷取模組, 工業用寬溫記憶體模組, 監控系統等。除擁有自主技術發展品牌標準系列之外，超恩亦可配合用戶端的應用需求，結合自有製造團隊，提供客戶高度客製化之產品及服務。超恩提供嵌入式电脑与工业自动化的解决方案, 产品涵盖工业电脑, GigE Imaging, 物联网, 云端计算, 巨量资料, 机器视觉, 嵌入式系统, 工业用I/O, 资料撷取模组, 工业用宽温记忆体模组, 监控系统等。除拥有自主技术发展品牌标准系列之外，超恩亦可配合用户端的应用需求，结合自有制造团队，提供客户高度客制化之产品及服务。\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：超恩科技，工业车载边缘AI计算平台。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：超恩科技，工业车载边缘AI计算平台。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -4996,6 +5258,7 @@ const companies = [
       "y1": 796,
       "y2": 846
     },
+    "description": "【企业官网介绍】\nVertiv is a global leader in critical digital infrastructure for applications in data centers, communication networks, and commercial and industrial environments.\n\n【NVIDIA 协同与生态定位】\n定位是 维谛技术，全球数据中心高功耗液冷散热龙头。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 维谛技术，全球数据中心高功耗液冷散热龙头。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -5015,6 +5278,7 @@ const companies = [
       "y1": 803,
       "y2": 840
     },
+    "description": "定位是 智能出行与动态控制系统。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 智能出行与动态控制系统。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -5034,6 +5298,7 @@ const companies = [
       "y1": 796,
       "y2": 846
     },
+    "description": "主打软件与 AI 平台：智能出行AI深度学习。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：智能出行AI深度学习。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -5053,6 +5318,7 @@ const companies = [
       "y1": 796,
       "y2": 846
     },
+    "description": "定位是 越南造车新势力。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 越南造车新势力。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -5072,6 +5338,7 @@ const companies = [
       "y1": 856,
       "y2": 906
     },
+    "description": "台北通化夜市的一家切片水果摊，由一位阿婆经营。黄仁勋多次在此买水果并大力赞赏。英伟达甚至邀请这位阿婆参加了台北尾牙大年会，成为企业温情公关的典范故事。",
     "disassembly": "台北通化夜市的一家切片水果摊，由一位阿婆经营。黄仁勋多次在此买水果并大力赞赏。英伟达甚至邀请这位阿婆参加了台北尾牙大年会，成为企业温情公关的典范故事。",
     "money": "",
     "action": "",
@@ -5091,6 +5358,7 @@ const companies = [
       "y1": 860,
       "y2": 904
     },
+    "description": "主打软件与 AI 平台：智能健康与物理治疗AI分析。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：智能健康与物理治疗AI分析。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -5110,6 +5378,7 @@ const companies = [
       "y1": 856,
       "y2": 906
     },
+    "description": "【企业官网介绍】\n打造專為生產智慧應用而生的 AI 原生運算平台，結合雲端級 GPU 基礎設施與彈性算力供應，提供高效能的 AI 多模態訓練與推論能力，同時合規供應穩定效能與成本效益，加速企業 AI 創新與落地。\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：前沿AI视觉检测与智能感知。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：前沿AI视觉检测与智能感知。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -5129,6 +5398,7 @@ const companies = [
       "y1": 856,
       "y2": 906
     },
+    "description": "主打软件与 AI 平台：视觉AI智能分析。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：视觉AI智能分析。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -5148,6 +5418,7 @@ const companies = [
       "y1": 856,
       "y2": 906
     },
+    "description": "主要提供算力落地支持：知名高性能GPU与主机云供应商。 负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "disassembly": "主要提供算力落地支持：知名高性能GPU与主机云供应商。",
     "money": "负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "action": "“老黄出图纸，他们出工程！直接帮英伟达把服务器柜子插满客户数据中心的超级装配工。”",
@@ -5167,6 +5438,7 @@ const companies = [
       "y1": 856,
       "y2": 906
     },
+    "description": "台北八德路历史悠久的传统台式肉粽店，主打南部粽。黄仁勋在访问台北期间曾多次光顾，展示了英伟达企业高管接地气的在地互动与人文特质。",
     "disassembly": "台北八德路历史悠久的传统台式肉粽店，主打南部粽。黄仁勋在访问台北期间曾多次光顾，展示了英伟达企业高管接地气的在地互动与人文特质。",
     "money": "",
     "action": "",
@@ -5186,6 +5458,7 @@ const companies = [
       "y1": 856,
       "y2": 906
     },
+    "description": "【企业官网介绍】\nScale Agentic AI with WEKA. Leverage NeuralMesh to extend GPU memory 1000x, eliminate latency, and maximize your AI data advantage. See it in action.\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：超高速分布式AI计算文件系统。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：超高速分布式AI计算文件系统。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -5205,6 +5478,7 @@ const companies = [
       "y1": 860,
       "y2": 904
     },
+    "description": "专注学术与前沿应用：文藻外语大学，知名外语与国际事务高校。 英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "disassembly": "专注学术与前沿应用：文藻外语大学，知名外语与国际事务高校。",
     "money": "英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "action": "“科学家与万亿资本的梦幻联动！帮老黄把算力火种播撒在攻克绝症与超级计算的无人区里。”",
@@ -5224,6 +5498,7 @@ const companies = [
       "y1": 856,
       "y2": 906
     },
+    "description": "主要提供算力落地支持：台北荣民总医院，高精度智慧诊疗。 负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "disassembly": "主要提供算力落地支持：台北荣民总医院，高精度智慧诊疗。",
     "money": "负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "action": "“老黄出图纸，他们出工程！直接帮英伟达把服务器柜子插满客户数据中心的超级装配工。”",
@@ -5243,6 +5518,7 @@ const companies = [
       "y1": 856,
       "y2": 906
     },
+    "description": "主要提供算力落地支持：纬创资通，AI服务器计算基板独家/主力生产商。 负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "disassembly": "主要提供算力落地支持：纬创资通，AI服务器计算基板独家/主力生产商。",
     "money": "负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "action": "“老黄出图纸，他们出工程！直接帮英伟达把服务器柜子插满客户数据中心的超级装配工。”",
@@ -5262,6 +5538,7 @@ const companies = [
       "y1": 860,
       "y2": 904
     },
+    "description": "【企业官网介绍】\nLearn about Wiwynn, a global cloud-enabling service company, providing end-to-end integrated solutions that caters to your enterprises.\n\n【NVIDIA 协同与生态定位】\n主要提供算力落地支持：纬颖科技，纬创旗下超大型云服务与AI服务器整机组装及制造龙头。 负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "disassembly": "主要提供算力落地支持：纬颖科技，纬创旗下超大型云服务与AI服务器整机组装及制造龙头。",
     "money": "负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "action": "“老黄出图纸，他们出工程！直接帮英伟达把服务器柜子插满客户数据中心的超级装配工。”",
@@ -5281,6 +5558,7 @@ const companies = [
       "y1": 856,
       "y2": 906
     },
+    "description": "【企业官网介绍】\nExplore on-demand technology labs, thought leadership and a portfolio of services designed to help IT and the business undergo digital transformation.\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：全球最大系统集成商之一，AI部署专家。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：全球最大系统集成商之一，AI部署专家。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -5300,6 +5578,7 @@ const companies = [
       "y1": 856,
       "y2": 906
     },
+    "description": "位于台北松山区的知名川菜馆。英伟达创始人黄仁勋在台北电脑展期间多次在此设宴款待全球科技高管，招牌菜‘苍蝇头’在业界广为人知。该店被列入合作伙伴背景板，展现了英伟达企业文化中亲和、日常的在地人文情怀。",
     "disassembly": "位于台北松山区的知名川菜馆。英伟达创始人黄仁勋在台北电脑展期间多次在此设宴款待全球科技高管，招牌菜‘苍蝇头’在业界广为人知。该店被列入合作伙伴背景板，展现了英伟达企业文化中亲和、日常的在地人文情怀。",
     "money": "台北出差与科技人聚会必去的美食打卡圣地。这也是观察台湾商界名流、科技大佬非正式社交的顶级窗口。",
     "action": "“科技的尽头也是人情味，老黄把最爱的苍蝇头馆子塞进发布会，证明吃货也能做大事！”",
@@ -5319,6 +5598,7 @@ const companies = [
       "y1": 856,
       "y2": 906
     },
+    "description": "【企业官网介绍】\nxAI builds Grok — frontier AI models for reasoning, voice, image generation, and more. Build with the Grok API.\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：马斯克创立的Grok大模型与超算提供商。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：马斯克创立的Grok大模型与超算提供商。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -5338,6 +5618,7 @@ const companies = [
       "y1": 856,
       "y2": 906
     },
+    "description": "【企业官网介绍】\nXiaomi, a global company producing quality products at honest pricing.\n\n【NVIDIA 协同与生态定位】\n定位是 小米，澎湃OS、超级工厂与智能硬件龙头。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 小米，澎湃OS、超级工厂与智能硬件龙头。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -5357,6 +5638,7 @@ const companies = [
       "y1": 856,
       "y2": 906
     },
+    "description": "【企业官网介绍】\nYo-Kai Express is the revolutionary high tech company who develope future autonomous restaurant to serve people gourmet food 24/7\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：智能自动烹饪拉面机器人。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：智能自动烹饪拉面机器人。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -5376,6 +5658,7 @@ const companies = [
       "y1": 856,
       "y2": 906
     },
+    "description": "主要提供算力落地支持：印度国家主权GPU超算云提供商。 负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "disassembly": "主要提供算力落地支持：印度国家主权GPU超算云提供商。",
     "money": "负责帮老黄在客户现场“安家落户”。他们负责把英伟达的芯片整合成整机柜和数据中心，是把算力卖给大厂的最后一公里白手套。",
     "action": "“老黄出图纸，他们出工程！直接帮英伟达把服务器柜子插满客户数据中心的超级装配工。”",
@@ -5395,6 +5678,7 @@ const companies = [
       "y1": 856,
       "y2": 906
     },
+    "description": "【企业官网介绍】\nYTL Corporation is a leading Malaysian conglomerate operating in utilities, construction, property, hospitality, and technology across 10 countries with 12 million customers worldwide.\n\n【NVIDIA 协同与生态定位】\n主打软件与 AI 平台：马来西亚杨忠礼集团旗下AI超算实验室。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：马来西亚杨忠礼集团旗下AI超算实验室。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -5414,6 +5698,7 @@ const companies = [
       "y1": 856,
       "y2": 906
     },
+    "description": "主打软件与 AI 平台：聪泰科技，采集卡与多路视频AI处理芯片龙头。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：聪泰科技，采集卡与多路视频AI处理芯片龙头。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -5433,6 +5718,7 @@ const companies = [
       "y1": 856,
       "y2": 906
     },
+    "description": "专注学术与前沿应用：元智大学，半导体与AI设计高校。 英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "disassembly": "专注学术与前沿应用：元智大学，半导体与AI设计高校。",
     "money": "英伟达在学术与生命科学界的“最强智囊团”。通过高性能计算和智慧医疗，帮英伟达探索人类基因、疾病和前沿科学的极限应用。",
     "action": "“科学家与万亿资本的梦幻联动！帮老黄把算力火种播撒在攻克绝症与超级计算的无人区里。”",
@@ -5452,6 +5738,7 @@ const companies = [
       "y1": 856,
       "y2": 906
     },
+    "description": "台北四平商圈的知名人气卤猪脚餐厅。黄仁勋在台北期间曾特意派人打包带走以作午餐，被媒体报道后广为流传，体现了极致单品在传统消费服务业中的商业魅力。",
     "disassembly": "台北四平商圈的知名人气卤猪脚餐厅。黄仁勋在台北期间曾特意派人打包带走以作午餐，被媒体报道后广为流传，体现了极致单品在传统消费服务业中的商业魅力。",
     "money": "",
     "action": "",
@@ -5471,6 +5758,7 @@ const companies = [
       "y1": 856,
       "y2": 906
     },
+    "description": "定位是 工业机器人与流程自动化。 作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "disassembly": "定位是 工业机器人与流程自动化。",
     "money": "作为诸神之墙上的一员，通过硬件兼容或方案定制，帮助英伟达的算力渗透到更细分行业场景中。",
     "action": "“老黄朋友圈里的低调实力派，默默用英伟达算力跑通行业闭环。”",
@@ -5490,6 +5778,7 @@ const companies = [
       "y1": 856,
       "y2": 906
     },
+    "description": "主打软件与 AI 平台：索泰，知名的显卡与迷你AI硬件品牌。 吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "disassembly": "主打软件与 AI 平台：索泰，知名的显卡与迷你AI硬件品牌。",
     "money": "吃透 CUDA 和英伟达软件栈的实际应用派。不管是做 3D 物理仿真还是视频生成大模型，都在源源不断地为英伟达贡献应用生态壁垒。",
     "action": "“老黄生态圈 of 狂热追随者！把英伟达的软件用到极致，在应用端疯狂掘金的生态大功臣。”",
@@ -5509,6 +5798,7 @@ const companies = [
       "y1": 856,
       "y2": 906
     },
+    "description": "【企业官网介绍】\nZscaler is a leading cloud enterprise security provider helping global businesses adopt zero trust for secure digital transformation.\n\n【NVIDIA 协同与生态定位】\n专注网络与安全侧：全球安全访问与零信任云防线。 算力帝国的安全盾牌。GPU 数据中心开得越猛，流量与防护需求就越大。他们专门提供数据防漏与零信任防线。",
     "disassembly": "专注网络与安全侧：全球安全访问与零信任云防线。",
     "money": "算力帝国的安全盾牌。GPU 数据中心开得越猛，流量与防护需求就越大。他们专门提供数据防漏与零信任防线。",
     "action": "“算力帝国的金牌保镖！GPU 跑得再快，数据被偷了也是白搭，他们就是帮老黄看门的最强数字哨兵。”",
@@ -5528,6 +5818,7 @@ const companies = [
       "y1": 856,
       "y2": 906
     },
+    "description": "一间充满台式红砖怀旧与铁皮玩具收藏特色的古早味餐厅。黄仁勋在此包场举办晚宴，款待了台积电、广达、鸿海等全球 AI 供应链的顶级科技高管（被称为‘兆元宴’）。",
     "disassembly": "一间充满台式红砖怀旧与铁皮玩具收藏特色的古早味餐厅。黄仁勋在此包场举办晚宴，款待了台积电、广达、鸿海等全球 AI 供应链的顶级科技高管（被称为‘兆元宴’）。",
     "money": "",
     "action": "",
@@ -5547,6 +5838,7 @@ const companies = [
       "y1": 320,
       "y2": 330
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -5566,6 +5858,7 @@ const companies = [
       "y1": 390,
       "y2": 400
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -5585,6 +5878,7 @@ const companies = [
       "y1": 400,
       "y2": 410
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -5604,6 +5898,7 @@ const companies = [
       "y1": 410,
       "y2": 420
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -5623,6 +5918,7 @@ const companies = [
       "y1": 420,
       "y2": 430
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -5642,6 +5938,7 @@ const companies = [
       "y1": 430,
       "y2": 440
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -5661,6 +5958,7 @@ const companies = [
       "y1": 440,
       "y2": 450
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -5680,6 +5978,7 @@ const companies = [
       "y1": 450,
       "y2": 460
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -5699,6 +5998,7 @@ const companies = [
       "y1": 460,
       "y2": 470
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -5718,6 +6018,7 @@ const companies = [
       "y1": 470,
       "y2": 480
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -5737,6 +6038,7 @@ const companies = [
       "y1": 480,
       "y2": 490
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -5756,6 +6058,7 @@ const companies = [
       "y1": 490,
       "y2": 500
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -5775,6 +6078,7 @@ const companies = [
       "y1": 500,
       "y2": 510
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -5794,6 +6098,7 @@ const companies = [
       "y1": 510,
       "y2": 520
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -5813,6 +6118,7 @@ const companies = [
       "y1": 520,
       "y2": 530
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -5832,6 +6138,7 @@ const companies = [
       "y1": 530,
       "y2": 540
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -5851,6 +6158,7 @@ const companies = [
       "y1": 540,
       "y2": 550
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -5870,6 +6178,7 @@ const companies = [
       "y1": 550,
       "y2": 560
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -5889,6 +6198,7 @@ const companies = [
       "y1": 560,
       "y2": 570
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -5908,6 +6218,7 @@ const companies = [
       "y1": 570,
       "y2": 580
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -5927,6 +6238,7 @@ const companies = [
       "y1": 580,
       "y2": 590
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -5946,6 +6258,7 @@ const companies = [
       "y1": 590,
       "y2": 600
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -5965,6 +6278,7 @@ const companies = [
       "y1": 320,
       "y2": 330
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -5984,6 +6298,7 @@ const companies = [
       "y1": 390,
       "y2": 400
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6003,6 +6318,7 @@ const companies = [
       "y1": 400,
       "y2": 410
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6022,6 +6338,7 @@ const companies = [
       "y1": 410,
       "y2": 420
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6041,6 +6358,7 @@ const companies = [
       "y1": 420,
       "y2": 430
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6060,6 +6378,7 @@ const companies = [
       "y1": 430,
       "y2": 440
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6079,6 +6398,7 @@ const companies = [
       "y1": 440,
       "y2": 450
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6098,6 +6418,7 @@ const companies = [
       "y1": 450,
       "y2": 460
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6117,6 +6438,7 @@ const companies = [
       "y1": 460,
       "y2": 470
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6136,6 +6458,7 @@ const companies = [
       "y1": 470,
       "y2": 480
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6155,6 +6478,7 @@ const companies = [
       "y1": 480,
       "y2": 490
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6174,6 +6498,7 @@ const companies = [
       "y1": 490,
       "y2": 500
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6193,6 +6518,7 @@ const companies = [
       "y1": 500,
       "y2": 510
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6212,6 +6538,7 @@ const companies = [
       "y1": 510,
       "y2": 520
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6231,6 +6558,7 @@ const companies = [
       "y1": 520,
       "y2": 530
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6250,6 +6578,7 @@ const companies = [
       "y1": 530,
       "y2": 540
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6269,6 +6598,7 @@ const companies = [
       "y1": 540,
       "y2": 550
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6288,6 +6618,7 @@ const companies = [
       "y1": 550,
       "y2": 560
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6307,6 +6638,7 @@ const companies = [
       "y1": 560,
       "y2": 570
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6326,6 +6658,7 @@ const companies = [
       "y1": 570,
       "y2": 580
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6345,6 +6678,7 @@ const companies = [
       "y1": 580,
       "y2": 590
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6364,6 +6698,7 @@ const companies = [
       "y1": 590,
       "y2": 600
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6383,6 +6718,7 @@ const companies = [
       "y1": 320,
       "y2": 330
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6402,6 +6738,7 @@ const companies = [
       "y1": 390,
       "y2": 400
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6421,6 +6758,7 @@ const companies = [
       "y1": 400,
       "y2": 410
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6440,6 +6778,7 @@ const companies = [
       "y1": 410,
       "y2": 420
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6459,6 +6798,7 @@ const companies = [
       "y1": 420,
       "y2": 430
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6478,6 +6818,7 @@ const companies = [
       "y1": 430,
       "y2": 440
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6497,6 +6838,7 @@ const companies = [
       "y1": 440,
       "y2": 450
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6516,6 +6858,7 @@ const companies = [
       "y1": 450,
       "y2": 460
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6535,6 +6878,7 @@ const companies = [
       "y1": 460,
       "y2": 470
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6554,6 +6898,7 @@ const companies = [
       "y1": 470,
       "y2": 480
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6573,6 +6918,7 @@ const companies = [
       "y1": 480,
       "y2": 490
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6592,6 +6938,7 @@ const companies = [
       "y1": 490,
       "y2": 500
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6611,6 +6958,7 @@ const companies = [
       "y1": 500,
       "y2": 510
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6630,6 +6978,7 @@ const companies = [
       "y1": 510,
       "y2": 520
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6649,6 +6998,7 @@ const companies = [
       "y1": 520,
       "y2": 530
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6668,6 +7018,7 @@ const companies = [
       "y1": 530,
       "y2": 540
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6687,6 +7038,7 @@ const companies = [
       "y1": 540,
       "y2": 550
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6706,6 +7058,7 @@ const companies = [
       "y1": 550,
       "y2": 560
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6725,6 +7078,7 @@ const companies = [
       "y1": 560,
       "y2": 570
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6744,6 +7098,7 @@ const companies = [
       "y1": 570,
       "y2": 580
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6763,6 +7118,7 @@ const companies = [
       "y1": 580,
       "y2": 590
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6782,6 +7138,7 @@ const companies = [
       "y1": 590,
       "y2": 600
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6801,6 +7158,7 @@ const companies = [
       "y1": 320,
       "y2": 330
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6820,6 +7178,7 @@ const companies = [
       "y1": 470,
       "y2": 480
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6839,6 +7198,7 @@ const companies = [
       "y1": 480,
       "y2": 490
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6858,6 +7218,7 @@ const companies = [
       "y1": 490,
       "y2": 500
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6877,6 +7238,7 @@ const companies = [
       "y1": 500,
       "y2": 510
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6896,6 +7258,7 @@ const companies = [
       "y1": 510,
       "y2": 520
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6915,6 +7278,7 @@ const companies = [
       "y1": 520,
       "y2": 530
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6934,6 +7298,7 @@ const companies = [
       "y1": 530,
       "y2": 540
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6953,6 +7318,7 @@ const companies = [
       "y1": 540,
       "y2": 550
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6972,6 +7338,7 @@ const companies = [
       "y1": 550,
       "y2": 560
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -6991,6 +7358,7 @@ const companies = [
       "y1": 560,
       "y2": 570
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7010,6 +7378,7 @@ const companies = [
       "y1": 570,
       "y2": 580
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7029,6 +7398,7 @@ const companies = [
       "y1": 580,
       "y2": 590
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7048,6 +7418,7 @@ const companies = [
       "y1": 590,
       "y2": 600
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7067,6 +7438,7 @@ const companies = [
       "y1": 600,
       "y2": 610
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7086,6 +7458,7 @@ const companies = [
       "y1": 610,
       "y2": 620
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7105,6 +7478,7 @@ const companies = [
       "y1": 620,
       "y2": 630
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7124,6 +7498,7 @@ const companies = [
       "y1": 630,
       "y2": 640
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7143,6 +7518,7 @@ const companies = [
       "y1": 640,
       "y2": 650
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7162,6 +7538,7 @@ const companies = [
       "y1": 320,
       "y2": 330
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7181,6 +7558,7 @@ const companies = [
       "y1": 470,
       "y2": 480
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7200,6 +7578,7 @@ const companies = [
       "y1": 480,
       "y2": 490
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7219,6 +7598,7 @@ const companies = [
       "y1": 490,
       "y2": 500
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7238,6 +7618,7 @@ const companies = [
       "y1": 500,
       "y2": 510
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7257,6 +7638,7 @@ const companies = [
       "y1": 510,
       "y2": 520
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7276,6 +7658,7 @@ const companies = [
       "y1": 520,
       "y2": 530
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7295,6 +7678,7 @@ const companies = [
       "y1": 530,
       "y2": 540
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7314,6 +7698,7 @@ const companies = [
       "y1": 540,
       "y2": 550
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7333,6 +7718,7 @@ const companies = [
       "y1": 550,
       "y2": 560
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7352,6 +7738,7 @@ const companies = [
       "y1": 560,
       "y2": 570
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7371,6 +7758,7 @@ const companies = [
       "y1": 570,
       "y2": 580
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7390,6 +7778,7 @@ const companies = [
       "y1": 580,
       "y2": 590
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7409,6 +7798,7 @@ const companies = [
       "y1": 590,
       "y2": 600
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7428,6 +7818,7 @@ const companies = [
       "y1": 600,
       "y2": 610
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7447,6 +7838,7 @@ const companies = [
       "y1": 610,
       "y2": 620
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7466,6 +7858,7 @@ const companies = [
       "y1": 620,
       "y2": 630
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7485,6 +7878,7 @@ const companies = [
       "y1": 630,
       "y2": 640
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7504,6 +7898,7 @@ const companies = [
       "y1": 640,
       "y2": 650
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7523,6 +7918,7 @@ const companies = [
       "y1": 320,
       "y2": 330
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7542,6 +7938,7 @@ const companies = [
       "y1": 330,
       "y2": 340
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7561,6 +7958,7 @@ const companies = [
       "y1": 340,
       "y2": 350
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7580,6 +7978,7 @@ const companies = [
       "y1": 350,
       "y2": 360
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7599,6 +7998,7 @@ const companies = [
       "y1": 360,
       "y2": 370
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7618,6 +8018,7 @@ const companies = [
       "y1": 370,
       "y2": 380
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7637,6 +8038,7 @@ const companies = [
       "y1": 380,
       "y2": 390
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7656,6 +8058,7 @@ const companies = [
       "y1": 470,
       "y2": 480
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7675,6 +8078,7 @@ const companies = [
       "y1": 480,
       "y2": 490
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7694,6 +8098,7 @@ const companies = [
       "y1": 490,
       "y2": 500
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7713,6 +8118,7 @@ const companies = [
       "y1": 500,
       "y2": 510
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7732,6 +8138,7 @@ const companies = [
       "y1": 510,
       "y2": 520
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7751,6 +8158,7 @@ const companies = [
       "y1": 520,
       "y2": 530
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7770,6 +8178,7 @@ const companies = [
       "y1": 530,
       "y2": 540
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7789,6 +8198,7 @@ const companies = [
       "y1": 540,
       "y2": 550
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7808,6 +8218,7 @@ const companies = [
       "y1": 550,
       "y2": 560
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7827,6 +8238,7 @@ const companies = [
       "y1": 560,
       "y2": 570
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7846,6 +8258,7 @@ const companies = [
       "y1": 570,
       "y2": 580
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7865,6 +8278,7 @@ const companies = [
       "y1": 580,
       "y2": 590
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7884,6 +8298,7 @@ const companies = [
       "y1": 590,
       "y2": 600
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7903,6 +8318,7 @@ const companies = [
       "y1": 600,
       "y2": 610
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7922,6 +8338,7 @@ const companies = [
       "y1": 610,
       "y2": 620
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7941,6 +8358,7 @@ const companies = [
       "y1": 620,
       "y2": 630
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7960,6 +8378,7 @@ const companies = [
       "y1": 630,
       "y2": 640
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7979,6 +8398,7 @@ const companies = [
       "y1": 640,
       "y2": 650
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -7998,6 +8418,7 @@ const companies = [
       "y1": 320,
       "y2": 330
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8017,6 +8438,7 @@ const companies = [
       "y1": 330,
       "y2": 340
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8036,6 +8458,7 @@ const companies = [
       "y1": 340,
       "y2": 350
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8055,6 +8478,7 @@ const companies = [
       "y1": 350,
       "y2": 360
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8074,6 +8498,7 @@ const companies = [
       "y1": 360,
       "y2": 370
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8093,6 +8518,7 @@ const companies = [
       "y1": 370,
       "y2": 380
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8112,6 +8538,7 @@ const companies = [
       "y1": 380,
       "y2": 390
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8131,6 +8558,7 @@ const companies = [
       "y1": 470,
       "y2": 480
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8150,6 +8578,7 @@ const companies = [
       "y1": 480,
       "y2": 490
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8169,6 +8598,7 @@ const companies = [
       "y1": 490,
       "y2": 500
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8188,6 +8618,7 @@ const companies = [
       "y1": 500,
       "y2": 510
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8207,6 +8638,7 @@ const companies = [
       "y1": 510,
       "y2": 520
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8226,6 +8658,7 @@ const companies = [
       "y1": 520,
       "y2": 530
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8245,6 +8678,7 @@ const companies = [
       "y1": 530,
       "y2": 540
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8264,6 +8698,7 @@ const companies = [
       "y1": 540,
       "y2": 550
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8283,6 +8718,7 @@ const companies = [
       "y1": 550,
       "y2": 560
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8302,6 +8738,7 @@ const companies = [
       "y1": 560,
       "y2": 570
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8321,6 +8758,7 @@ const companies = [
       "y1": 570,
       "y2": 580
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8340,6 +8778,7 @@ const companies = [
       "y1": 580,
       "y2": 590
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8359,6 +8798,7 @@ const companies = [
       "y1": 590,
       "y2": 600
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8378,6 +8818,7 @@ const companies = [
       "y1": 600,
       "y2": 610
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8397,6 +8838,7 @@ const companies = [
       "y1": 610,
       "y2": 620
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8416,6 +8858,7 @@ const companies = [
       "y1": 620,
       "y2": 630
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8435,6 +8878,7 @@ const companies = [
       "y1": 630,
       "y2": 640
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8454,6 +8898,7 @@ const companies = [
       "y1": 640,
       "y2": 650
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8473,6 +8918,7 @@ const companies = [
       "y1": 320,
       "y2": 330
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8492,6 +8938,7 @@ const companies = [
       "y1": 330,
       "y2": 340
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8511,6 +8958,7 @@ const companies = [
       "y1": 340,
       "y2": 350
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8530,6 +8978,7 @@ const companies = [
       "y1": 350,
       "y2": 360
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8549,6 +8998,7 @@ const companies = [
       "y1": 360,
       "y2": 370
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8568,6 +9018,7 @@ const companies = [
       "y1": 370,
       "y2": 380
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8587,6 +9038,7 @@ const companies = [
       "y1": 380,
       "y2": 390
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8606,6 +9058,7 @@ const companies = [
       "y1": 470,
       "y2": 480
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8625,6 +9078,7 @@ const companies = [
       "y1": 480,
       "y2": 490
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8644,6 +9098,7 @@ const companies = [
       "y1": 490,
       "y2": 500
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8663,6 +9118,7 @@ const companies = [
       "y1": 500,
       "y2": 510
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8682,6 +9138,7 @@ const companies = [
       "y1": 510,
       "y2": 520
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8701,6 +9158,7 @@ const companies = [
       "y1": 520,
       "y2": 530
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8720,6 +9178,7 @@ const companies = [
       "y1": 530,
       "y2": 540
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8739,6 +9198,7 @@ const companies = [
       "y1": 540,
       "y2": 550
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8758,6 +9218,7 @@ const companies = [
       "y1": 550,
       "y2": 560
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8777,6 +9238,7 @@ const companies = [
       "y1": 560,
       "y2": 570
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8796,6 +9258,7 @@ const companies = [
       "y1": 570,
       "y2": 580
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8815,6 +9278,7 @@ const companies = [
       "y1": 580,
       "y2": 590
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8834,6 +9298,7 @@ const companies = [
       "y1": 590,
       "y2": 600
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8853,6 +9318,7 @@ const companies = [
       "y1": 600,
       "y2": 610
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8872,6 +9338,7 @@ const companies = [
       "y1": 610,
       "y2": 620
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8891,6 +9358,7 @@ const companies = [
       "y1": 620,
       "y2": 630
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8910,6 +9378,7 @@ const companies = [
       "y1": 630,
       "y2": 640
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8929,6 +9398,7 @@ const companies = [
       "y1": 640,
       "y2": 650
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8948,6 +9418,7 @@ const companies = [
       "y1": 320,
       "y2": 330
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8967,6 +9438,7 @@ const companies = [
       "y1": 330,
       "y2": 340
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -8986,6 +9458,7 @@ const companies = [
       "y1": 340,
       "y2": 350
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9005,6 +9478,7 @@ const companies = [
       "y1": 350,
       "y2": 360
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9024,6 +9498,7 @@ const companies = [
       "y1": 360,
       "y2": 370
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9043,6 +9518,7 @@ const companies = [
       "y1": 370,
       "y2": 380
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9062,6 +9538,7 @@ const companies = [
       "y1": 380,
       "y2": 390
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9081,6 +9558,7 @@ const companies = [
       "y1": 470,
       "y2": 480
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9100,6 +9578,7 @@ const companies = [
       "y1": 480,
       "y2": 490
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9119,6 +9598,7 @@ const companies = [
       "y1": 490,
       "y2": 500
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9138,6 +9618,7 @@ const companies = [
       "y1": 500,
       "y2": 510
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9157,6 +9638,7 @@ const companies = [
       "y1": 510,
       "y2": 520
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9176,6 +9658,7 @@ const companies = [
       "y1": 520,
       "y2": 530
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9195,6 +9678,7 @@ const companies = [
       "y1": 530,
       "y2": 540
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9214,6 +9698,7 @@ const companies = [
       "y1": 540,
       "y2": 550
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9233,6 +9718,7 @@ const companies = [
       "y1": 550,
       "y2": 560
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9252,6 +9738,7 @@ const companies = [
       "y1": 560,
       "y2": 570
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9271,6 +9758,7 @@ const companies = [
       "y1": 570,
       "y2": 580
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9290,6 +9778,7 @@ const companies = [
       "y1": 580,
       "y2": 590
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9309,6 +9798,7 @@ const companies = [
       "y1": 590,
       "y2": 600
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9328,6 +9818,7 @@ const companies = [
       "y1": 600,
       "y2": 610
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9347,6 +9838,7 @@ const companies = [
       "y1": 610,
       "y2": 620
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9366,6 +9858,7 @@ const companies = [
       "y1": 620,
       "y2": 630
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9385,6 +9878,7 @@ const companies = [
       "y1": 630,
       "y2": 640
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9404,6 +9898,7 @@ const companies = [
       "y1": 640,
       "y2": 650
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9423,6 +9918,7 @@ const companies = [
       "y1": 260,
       "y2": 270
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9442,6 +9938,7 @@ const companies = [
       "y1": 270,
       "y2": 280
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9461,6 +9958,7 @@ const companies = [
       "y1": 280,
       "y2": 290
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9480,6 +9978,7 @@ const companies = [
       "y1": 290,
       "y2": 300
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9499,6 +9998,7 @@ const companies = [
       "y1": 300,
       "y2": 310
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9518,6 +10018,7 @@ const companies = [
       "y1": 310,
       "y2": 320
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9537,6 +10038,7 @@ const companies = [
       "y1": 320,
       "y2": 330
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9556,6 +10058,7 @@ const companies = [
       "y1": 330,
       "y2": 340
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9575,6 +10078,7 @@ const companies = [
       "y1": 340,
       "y2": 350
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9594,6 +10098,7 @@ const companies = [
       "y1": 350,
       "y2": 360
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9613,6 +10118,7 @@ const companies = [
       "y1": 360,
       "y2": 370
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9632,6 +10138,7 @@ const companies = [
       "y1": 370,
       "y2": 380
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9651,6 +10158,7 @@ const companies = [
       "y1": 380,
       "y2": 390
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9670,6 +10178,7 @@ const companies = [
       "y1": 470,
       "y2": 480
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9689,6 +10198,7 @@ const companies = [
       "y1": 480,
       "y2": 490
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9708,6 +10218,7 @@ const companies = [
       "y1": 490,
       "y2": 500
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9727,6 +10238,7 @@ const companies = [
       "y1": 500,
       "y2": 510
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9746,6 +10258,7 @@ const companies = [
       "y1": 510,
       "y2": 520
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9765,6 +10278,7 @@ const companies = [
       "y1": 520,
       "y2": 530
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9784,6 +10298,7 @@ const companies = [
       "y1": 530,
       "y2": 540
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9803,6 +10318,7 @@ const companies = [
       "y1": 540,
       "y2": 550
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9822,6 +10338,7 @@ const companies = [
       "y1": 550,
       "y2": 560
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9841,6 +10358,7 @@ const companies = [
       "y1": 560,
       "y2": 570
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9860,6 +10378,7 @@ const companies = [
       "y1": 570,
       "y2": 580
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9879,6 +10398,7 @@ const companies = [
       "y1": 580,
       "y2": 590
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9898,6 +10418,7 @@ const companies = [
       "y1": 590,
       "y2": 600
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9917,6 +10438,7 @@ const companies = [
       "y1": 600,
       "y2": 610
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9936,6 +10458,7 @@ const companies = [
       "y1": 610,
       "y2": 620
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9955,6 +10478,7 @@ const companies = [
       "y1": 620,
       "y2": 630
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9974,6 +10498,7 @@ const companies = [
       "y1": 630,
       "y2": 640
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -9993,6 +10518,7 @@ const companies = [
       "y1": 640,
       "y2": 650
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10012,6 +10538,7 @@ const companies = [
       "y1": 260,
       "y2": 270
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10031,6 +10558,7 @@ const companies = [
       "y1": 270,
       "y2": 280
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10050,6 +10578,7 @@ const companies = [
       "y1": 280,
       "y2": 290
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10069,6 +10598,7 @@ const companies = [
       "y1": 290,
       "y2": 300
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10088,6 +10618,7 @@ const companies = [
       "y1": 300,
       "y2": 310
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10107,6 +10638,7 @@ const companies = [
       "y1": 310,
       "y2": 320
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10126,6 +10658,7 @@ const companies = [
       "y1": 320,
       "y2": 330
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10145,6 +10678,7 @@ const companies = [
       "y1": 330,
       "y2": 340
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10164,6 +10698,7 @@ const companies = [
       "y1": 340,
       "y2": 350
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10183,6 +10718,7 @@ const companies = [
       "y1": 350,
       "y2": 360
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10202,6 +10738,7 @@ const companies = [
       "y1": 360,
       "y2": 370
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10221,6 +10758,7 @@ const companies = [
       "y1": 370,
       "y2": 380
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10240,6 +10778,7 @@ const companies = [
       "y1": 380,
       "y2": 390
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10259,6 +10798,7 @@ const companies = [
       "y1": 470,
       "y2": 480
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10278,6 +10818,7 @@ const companies = [
       "y1": 480,
       "y2": 490
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10297,6 +10838,7 @@ const companies = [
       "y1": 490,
       "y2": 500
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10316,6 +10858,7 @@ const companies = [
       "y1": 500,
       "y2": 510
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10335,6 +10878,7 @@ const companies = [
       "y1": 510,
       "y2": 520
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10354,6 +10898,7 @@ const companies = [
       "y1": 520,
       "y2": 530
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10373,6 +10918,7 @@ const companies = [
       "y1": 530,
       "y2": 540
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10392,6 +10938,7 @@ const companies = [
       "y1": 540,
       "y2": 550
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10411,6 +10958,7 @@ const companies = [
       "y1": 550,
       "y2": 560
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10430,6 +10978,7 @@ const companies = [
       "y1": 560,
       "y2": 570
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10449,6 +10998,7 @@ const companies = [
       "y1": 570,
       "y2": 580
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10468,6 +11018,7 @@ const companies = [
       "y1": 580,
       "y2": 590
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10487,6 +11038,7 @@ const companies = [
       "y1": 590,
       "y2": 600
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10506,6 +11058,7 @@ const companies = [
       "y1": 600,
       "y2": 610
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10525,6 +11078,7 @@ const companies = [
       "y1": 610,
       "y2": 620
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10544,6 +11098,7 @@ const companies = [
       "y1": 620,
       "y2": 630
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10563,6 +11118,7 @@ const companies = [
       "y1": 630,
       "y2": 640
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10582,6 +11138,7 @@ const companies = [
       "y1": 640,
       "y2": 650
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10601,6 +11158,7 @@ const companies = [
       "y1": 260,
       "y2": 270
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10620,6 +11178,7 @@ const companies = [
       "y1": 270,
       "y2": 280
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10639,6 +11198,7 @@ const companies = [
       "y1": 280,
       "y2": 290
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10658,6 +11218,7 @@ const companies = [
       "y1": 290,
       "y2": 300
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10677,6 +11238,7 @@ const companies = [
       "y1": 300,
       "y2": 310
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10696,6 +11258,7 @@ const companies = [
       "y1": 310,
       "y2": 320
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10715,6 +11278,7 @@ const companies = [
       "y1": 320,
       "y2": 330
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10734,6 +11298,7 @@ const companies = [
       "y1": 330,
       "y2": 340
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10753,6 +11318,7 @@ const companies = [
       "y1": 340,
       "y2": 350
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10772,6 +11338,7 @@ const companies = [
       "y1": 350,
       "y2": 360
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10791,6 +11358,7 @@ const companies = [
       "y1": 360,
       "y2": 370
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10810,6 +11378,7 @@ const companies = [
       "y1": 370,
       "y2": 380
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10829,6 +11398,7 @@ const companies = [
       "y1": 380,
       "y2": 390
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10848,6 +11418,7 @@ const companies = [
       "y1": 470,
       "y2": 480
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10867,6 +11438,7 @@ const companies = [
       "y1": 480,
       "y2": 490
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10886,6 +11458,7 @@ const companies = [
       "y1": 490,
       "y2": 500
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10905,6 +11478,7 @@ const companies = [
       "y1": 500,
       "y2": 510
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10924,6 +11498,7 @@ const companies = [
       "y1": 510,
       "y2": 520
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10943,6 +11518,7 @@ const companies = [
       "y1": 520,
       "y2": 530
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10962,6 +11538,7 @@ const companies = [
       "y1": 530,
       "y2": 540
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -10981,6 +11558,7 @@ const companies = [
       "y1": 540,
       "y2": 550
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11000,6 +11578,7 @@ const companies = [
       "y1": 550,
       "y2": 560
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11019,6 +11598,7 @@ const companies = [
       "y1": 560,
       "y2": 570
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11038,6 +11618,7 @@ const companies = [
       "y1": 570,
       "y2": 580
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11057,6 +11638,7 @@ const companies = [
       "y1": 580,
       "y2": 590
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11076,6 +11658,7 @@ const companies = [
       "y1": 590,
       "y2": 600
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11095,6 +11678,7 @@ const companies = [
       "y1": 600,
       "y2": 610
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11114,6 +11698,7 @@ const companies = [
       "y1": 610,
       "y2": 620
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11133,6 +11718,7 @@ const companies = [
       "y1": 620,
       "y2": 630
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11152,6 +11738,7 @@ const companies = [
       "y1": 630,
       "y2": 640
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11171,6 +11758,7 @@ const companies = [
       "y1": 640,
       "y2": 650
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11190,6 +11778,7 @@ const companies = [
       "y1": 260,
       "y2": 270
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11209,6 +11798,7 @@ const companies = [
       "y1": 270,
       "y2": 280
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11228,6 +11818,7 @@ const companies = [
       "y1": 280,
       "y2": 290
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11247,6 +11838,7 @@ const companies = [
       "y1": 290,
       "y2": 300
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11266,6 +11858,7 @@ const companies = [
       "y1": 300,
       "y2": 310
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11285,6 +11878,7 @@ const companies = [
       "y1": 310,
       "y2": 320
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11304,6 +11898,7 @@ const companies = [
       "y1": 320,
       "y2": 330
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11323,6 +11918,7 @@ const companies = [
       "y1": 330,
       "y2": 340
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11342,6 +11938,7 @@ const companies = [
       "y1": 340,
       "y2": 350
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11361,6 +11958,7 @@ const companies = [
       "y1": 350,
       "y2": 360
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11380,6 +11978,7 @@ const companies = [
       "y1": 360,
       "y2": 370
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11399,6 +11998,7 @@ const companies = [
       "y1": 370,
       "y2": 380
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11418,6 +12018,7 @@ const companies = [
       "y1": 380,
       "y2": 390
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11437,6 +12038,7 @@ const companies = [
       "y1": 470,
       "y2": 480
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11456,6 +12058,7 @@ const companies = [
       "y1": 480,
       "y2": 490
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11475,6 +12078,7 @@ const companies = [
       "y1": 490,
       "y2": 500
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11494,6 +12098,7 @@ const companies = [
       "y1": 500,
       "y2": 510
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11513,6 +12118,7 @@ const companies = [
       "y1": 510,
       "y2": 520
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11532,6 +12138,7 @@ const companies = [
       "y1": 520,
       "y2": 530
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11551,6 +12158,7 @@ const companies = [
       "y1": 580,
       "y2": 590
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11570,6 +12178,7 @@ const companies = [
       "y1": 590,
       "y2": 600
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11589,6 +12198,7 @@ const companies = [
       "y1": 600,
       "y2": 610
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11608,6 +12218,7 @@ const companies = [
       "y1": 610,
       "y2": 620
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11627,6 +12238,7 @@ const companies = [
       "y1": 620,
       "y2": 630
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11646,6 +12258,7 @@ const companies = [
       "y1": 630,
       "y2": 640
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11665,6 +12278,7 @@ const companies = [
       "y1": 640,
       "y2": 650
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11684,6 +12298,7 @@ const companies = [
       "y1": 260,
       "y2": 270
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11703,6 +12318,7 @@ const companies = [
       "y1": 270,
       "y2": 280
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11722,6 +12338,7 @@ const companies = [
       "y1": 280,
       "y2": 290
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11741,6 +12358,7 @@ const companies = [
       "y1": 290,
       "y2": 300
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11760,6 +12378,7 @@ const companies = [
       "y1": 300,
       "y2": 310
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11779,6 +12398,7 @@ const companies = [
       "y1": 310,
       "y2": 320
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11798,6 +12418,7 @@ const companies = [
       "y1": 320,
       "y2": 330
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11817,6 +12438,7 @@ const companies = [
       "y1": 330,
       "y2": 340
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11836,6 +12458,7 @@ const companies = [
       "y1": 340,
       "y2": 350
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11855,6 +12478,7 @@ const companies = [
       "y1": 350,
       "y2": 360
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11874,6 +12498,7 @@ const companies = [
       "y1": 360,
       "y2": 370
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11893,6 +12518,7 @@ const companies = [
       "y1": 370,
       "y2": 380
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11912,6 +12538,7 @@ const companies = [
       "y1": 380,
       "y2": 390
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11931,6 +12558,7 @@ const companies = [
       "y1": 470,
       "y2": 480
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11950,6 +12578,7 @@ const companies = [
       "y1": 480,
       "y2": 490
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11969,6 +12598,7 @@ const companies = [
       "y1": 490,
       "y2": 500
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -11988,6 +12618,7 @@ const companies = [
       "y1": 500,
       "y2": 510
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12007,6 +12638,7 @@ const companies = [
       "y1": 510,
       "y2": 520
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12026,6 +12658,7 @@ const companies = [
       "y1": 520,
       "y2": 530
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12045,6 +12678,7 @@ const companies = [
       "y1": 580,
       "y2": 590
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12064,6 +12698,7 @@ const companies = [
       "y1": 590,
       "y2": 600
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12083,6 +12718,7 @@ const companies = [
       "y1": 600,
       "y2": 610
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12102,6 +12738,7 @@ const companies = [
       "y1": 610,
       "y2": 620
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12121,6 +12758,7 @@ const companies = [
       "y1": 620,
       "y2": 630
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12140,6 +12778,7 @@ const companies = [
       "y1": 630,
       "y2": 640
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12159,6 +12798,7 @@ const companies = [
       "y1": 640,
       "y2": 650
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12178,6 +12818,7 @@ const companies = [
       "y1": 260,
       "y2": 270
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12197,6 +12838,7 @@ const companies = [
       "y1": 270,
       "y2": 280
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12216,6 +12858,7 @@ const companies = [
       "y1": 280,
       "y2": 290
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12235,6 +12878,7 @@ const companies = [
       "y1": 290,
       "y2": 300
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12254,6 +12898,7 @@ const companies = [
       "y1": 300,
       "y2": 310
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12273,6 +12918,7 @@ const companies = [
       "y1": 310,
       "y2": 320
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12292,6 +12938,7 @@ const companies = [
       "y1": 320,
       "y2": 330
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12311,6 +12958,7 @@ const companies = [
       "y1": 330,
       "y2": 340
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12330,6 +12978,7 @@ const companies = [
       "y1": 340,
       "y2": 350
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12349,6 +12998,7 @@ const companies = [
       "y1": 350,
       "y2": 360
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12368,6 +13018,7 @@ const companies = [
       "y1": 360,
       "y2": 370
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12387,6 +13038,7 @@ const companies = [
       "y1": 370,
       "y2": 380
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12406,6 +13058,7 @@ const companies = [
       "y1": 380,
       "y2": 390
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12425,6 +13078,7 @@ const companies = [
       "y1": 470,
       "y2": 480
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12444,6 +13098,7 @@ const companies = [
       "y1": 480,
       "y2": 490
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12463,6 +13118,7 @@ const companies = [
       "y1": 490,
       "y2": 500
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12482,6 +13138,7 @@ const companies = [
       "y1": 500,
       "y2": 510
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12501,6 +13158,7 @@ const companies = [
       "y1": 510,
       "y2": 520
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12520,6 +13178,7 @@ const companies = [
       "y1": 520,
       "y2": 530
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12539,6 +13198,7 @@ const companies = [
       "y1": 580,
       "y2": 590
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12558,6 +13218,7 @@ const companies = [
       "y1": 590,
       "y2": 600
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12577,6 +13238,7 @@ const companies = [
       "y1": 600,
       "y2": 610
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12596,6 +13258,7 @@ const companies = [
       "y1": 610,
       "y2": 620
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12615,6 +13278,7 @@ const companies = [
       "y1": 620,
       "y2": 630
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12634,6 +13298,7 @@ const companies = [
       "y1": 630,
       "y2": 640
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12653,6 +13318,7 @@ const companies = [
       "y1": 640,
       "y2": 650
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12672,6 +13338,7 @@ const companies = [
       "y1": 260,
       "y2": 270
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12691,6 +13358,7 @@ const companies = [
       "y1": 270,
       "y2": 280
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12710,6 +13378,7 @@ const companies = [
       "y1": 280,
       "y2": 290
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12729,6 +13398,7 @@ const companies = [
       "y1": 290,
       "y2": 300
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12748,6 +13418,7 @@ const companies = [
       "y1": 300,
       "y2": 310
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12767,6 +13438,7 @@ const companies = [
       "y1": 310,
       "y2": 320
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12786,6 +13458,7 @@ const companies = [
       "y1": 320,
       "y2": 330
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12805,6 +13478,7 @@ const companies = [
       "y1": 330,
       "y2": 340
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12824,6 +13498,7 @@ const companies = [
       "y1": 340,
       "y2": 350
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12843,6 +13518,7 @@ const companies = [
       "y1": 350,
       "y2": 360
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12862,6 +13538,7 @@ const companies = [
       "y1": 360,
       "y2": 370
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12881,6 +13558,7 @@ const companies = [
       "y1": 370,
       "y2": 380
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12900,6 +13578,7 @@ const companies = [
       "y1": 380,
       "y2": 390
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12919,6 +13598,7 @@ const companies = [
       "y1": 470,
       "y2": 480
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12938,6 +13618,7 @@ const companies = [
       "y1": 480,
       "y2": 490
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12957,6 +13638,7 @@ const companies = [
       "y1": 490,
       "y2": 500
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12976,6 +13658,7 @@ const companies = [
       "y1": 500,
       "y2": 510
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -12995,6 +13678,7 @@ const companies = [
       "y1": 510,
       "y2": 520
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13014,6 +13698,7 @@ const companies = [
       "y1": 520,
       "y2": 530
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13033,6 +13718,7 @@ const companies = [
       "y1": 580,
       "y2": 590
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13052,6 +13738,7 @@ const companies = [
       "y1": 250,
       "y2": 260
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13071,6 +13758,7 @@ const companies = [
       "y1": 260,
       "y2": 270
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13090,6 +13778,7 @@ const companies = [
       "y1": 270,
       "y2": 280
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13109,6 +13798,7 @@ const companies = [
       "y1": 280,
       "y2": 290
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13128,6 +13818,7 @@ const companies = [
       "y1": 290,
       "y2": 300
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13147,6 +13838,7 @@ const companies = [
       "y1": 300,
       "y2": 310
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13166,6 +13858,7 @@ const companies = [
       "y1": 310,
       "y2": 320
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13185,6 +13878,7 @@ const companies = [
       "y1": 320,
       "y2": 330
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13204,6 +13898,7 @@ const companies = [
       "y1": 330,
       "y2": 340
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13223,6 +13918,7 @@ const companies = [
       "y1": 340,
       "y2": 350
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13242,6 +13938,7 @@ const companies = [
       "y1": 350,
       "y2": 360
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13261,6 +13958,7 @@ const companies = [
       "y1": 360,
       "y2": 370
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13280,6 +13978,7 @@ const companies = [
       "y1": 370,
       "y2": 380
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13299,6 +13998,7 @@ const companies = [
       "y1": 380,
       "y2": 390
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13318,6 +14018,7 @@ const companies = [
       "y1": 470,
       "y2": 480
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13337,6 +14038,7 @@ const companies = [
       "y1": 480,
       "y2": 490
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13356,6 +14058,7 @@ const companies = [
       "y1": 490,
       "y2": 500
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13375,6 +14078,7 @@ const companies = [
       "y1": 500,
       "y2": 510
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13394,6 +14098,7 @@ const companies = [
       "y1": 510,
       "y2": 520
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13413,6 +14118,7 @@ const companies = [
       "y1": 520,
       "y2": 530
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13432,6 +14138,7 @@ const companies = [
       "y1": 580,
       "y2": 590
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13451,6 +14158,7 @@ const companies = [
       "y1": 250,
       "y2": 260
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13470,6 +14178,7 @@ const companies = [
       "y1": 260,
       "y2": 270
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13489,6 +14198,7 @@ const companies = [
       "y1": 270,
       "y2": 280
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13508,6 +14218,7 @@ const companies = [
       "y1": 280,
       "y2": 290
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13527,6 +14238,7 @@ const companies = [
       "y1": 290,
       "y2": 300
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13546,6 +14258,7 @@ const companies = [
       "y1": 300,
       "y2": 310
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13565,6 +14278,7 @@ const companies = [
       "y1": 310,
       "y2": 320
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13584,6 +14298,7 @@ const companies = [
       "y1": 320,
       "y2": 330
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13603,6 +14318,7 @@ const companies = [
       "y1": 330,
       "y2": 340
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13622,6 +14338,7 @@ const companies = [
       "y1": 340,
       "y2": 350
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13641,6 +14358,7 @@ const companies = [
       "y1": 350,
       "y2": 360
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13660,6 +14378,7 @@ const companies = [
       "y1": 360,
       "y2": 370
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13679,6 +14398,7 @@ const companies = [
       "y1": 370,
       "y2": 380
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13698,6 +14418,7 @@ const companies = [
       "y1": 380,
       "y2": 390
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13717,6 +14438,7 @@ const companies = [
       "y1": 470,
       "y2": 480
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13736,6 +14458,7 @@ const companies = [
       "y1": 480,
       "y2": 490
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13755,6 +14478,7 @@ const companies = [
       "y1": 490,
       "y2": 500
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13774,6 +14498,7 @@ const companies = [
       "y1": 500,
       "y2": 510
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13793,6 +14518,7 @@ const companies = [
       "y1": 510,
       "y2": 520
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13812,6 +14538,7 @@ const companies = [
       "y1": 520,
       "y2": 530
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13831,6 +14558,7 @@ const companies = [
       "y1": 580,
       "y2": 590
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13850,6 +14578,7 @@ const companies = [
       "y1": 260,
       "y2": 270
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13869,6 +14598,7 @@ const companies = [
       "y1": 270,
       "y2": 280
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13888,6 +14618,7 @@ const companies = [
       "y1": 280,
       "y2": 290
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13907,6 +14638,7 @@ const companies = [
       "y1": 290,
       "y2": 300
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13926,6 +14658,7 @@ const companies = [
       "y1": 300,
       "y2": 310
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13945,6 +14678,7 @@ const companies = [
       "y1": 310,
       "y2": 320
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13964,6 +14698,7 @@ const companies = [
       "y1": 320,
       "y2": 330
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -13983,6 +14718,7 @@ const companies = [
       "y1": 330,
       "y2": 340
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14002,6 +14738,7 @@ const companies = [
       "y1": 340,
       "y2": 350
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14021,6 +14758,7 @@ const companies = [
       "y1": 350,
       "y2": 360
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14040,6 +14778,7 @@ const companies = [
       "y1": 360,
       "y2": 370
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14059,6 +14798,7 @@ const companies = [
       "y1": 370,
       "y2": 380
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14078,6 +14818,7 @@ const companies = [
       "y1": 380,
       "y2": 390
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14097,6 +14838,7 @@ const companies = [
       "y1": 470,
       "y2": 480
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14116,6 +14858,7 @@ const companies = [
       "y1": 480,
       "y2": 490
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14135,6 +14878,7 @@ const companies = [
       "y1": 490,
       "y2": 500
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14154,6 +14898,7 @@ const companies = [
       "y1": 500,
       "y2": 510
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14173,6 +14918,7 @@ const companies = [
       "y1": 510,
       "y2": 520
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14192,6 +14938,7 @@ const companies = [
       "y1": 520,
       "y2": 530
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14211,6 +14958,7 @@ const companies = [
       "y1": 580,
       "y2": 590
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14230,6 +14978,7 @@ const companies = [
       "y1": 260,
       "y2": 270
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14249,6 +14998,7 @@ const companies = [
       "y1": 270,
       "y2": 280
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14268,6 +15018,7 @@ const companies = [
       "y1": 280,
       "y2": 290
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14287,6 +15038,7 @@ const companies = [
       "y1": 290,
       "y2": 300
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14306,6 +15058,7 @@ const companies = [
       "y1": 300,
       "y2": 310
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14325,6 +15078,7 @@ const companies = [
       "y1": 310,
       "y2": 320
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14344,6 +15098,7 @@ const companies = [
       "y1": 320,
       "y2": 330
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14363,6 +15118,7 @@ const companies = [
       "y1": 330,
       "y2": 340
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14382,6 +15138,7 @@ const companies = [
       "y1": 340,
       "y2": 350
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14401,6 +15158,7 @@ const companies = [
       "y1": 350,
       "y2": 360
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14420,6 +15178,7 @@ const companies = [
       "y1": 360,
       "y2": 370
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14439,6 +15198,7 @@ const companies = [
       "y1": 370,
       "y2": 380
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14458,6 +15218,7 @@ const companies = [
       "y1": 380,
       "y2": 390
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14477,6 +15238,7 @@ const companies = [
       "y1": 390,
       "y2": 400
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14496,6 +15258,7 @@ const companies = [
       "y1": 400,
       "y2": 410
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14515,6 +15278,7 @@ const companies = [
       "y1": 410,
       "y2": 420
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14534,6 +15298,7 @@ const companies = [
       "y1": 420,
       "y2": 430
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14553,6 +15318,7 @@ const companies = [
       "y1": 430,
       "y2": 440
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14572,6 +15338,7 @@ const companies = [
       "y1": 440,
       "y2": 450
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14591,6 +15358,7 @@ const companies = [
       "y1": 450,
       "y2": 460
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14610,6 +15378,7 @@ const companies = [
       "y1": 460,
       "y2": 470
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14629,6 +15398,7 @@ const companies = [
       "y1": 470,
       "y2": 480
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14648,6 +15418,7 @@ const companies = [
       "y1": 480,
       "y2": 490
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14667,6 +15438,7 @@ const companies = [
       "y1": 490,
       "y2": 500
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14686,6 +15458,7 @@ const companies = [
       "y1": 500,
       "y2": 510
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14705,6 +15478,7 @@ const companies = [
       "y1": 510,
       "y2": 520
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14724,6 +15498,7 @@ const companies = [
       "y1": 520,
       "y2": 530
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14743,6 +15518,7 @@ const companies = [
       "y1": 580,
       "y2": 590
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14762,6 +15538,7 @@ const companies = [
       "y1": 260,
       "y2": 270
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14781,6 +15558,7 @@ const companies = [
       "y1": 270,
       "y2": 280
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14800,6 +15578,7 @@ const companies = [
       "y1": 280,
       "y2": 290
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14819,6 +15598,7 @@ const companies = [
       "y1": 290,
       "y2": 300
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14838,6 +15618,7 @@ const companies = [
       "y1": 300,
       "y2": 310
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14857,6 +15638,7 @@ const companies = [
       "y1": 310,
       "y2": 320
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14876,6 +15658,7 @@ const companies = [
       "y1": 320,
       "y2": 330
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14895,6 +15678,7 @@ const companies = [
       "y1": 330,
       "y2": 340
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14914,6 +15698,7 @@ const companies = [
       "y1": 340,
       "y2": 350
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14933,6 +15718,7 @@ const companies = [
       "y1": 350,
       "y2": 360
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14952,6 +15738,7 @@ const companies = [
       "y1": 360,
       "y2": 370
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14971,6 +15758,7 @@ const companies = [
       "y1": 370,
       "y2": 380
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -14990,6 +15778,7 @@ const companies = [
       "y1": 380,
       "y2": 390
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15009,6 +15798,7 @@ const companies = [
       "y1": 390,
       "y2": 400
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15028,6 +15818,7 @@ const companies = [
       "y1": 400,
       "y2": 410
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15047,6 +15838,7 @@ const companies = [
       "y1": 410,
       "y2": 420
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15066,6 +15858,7 @@ const companies = [
       "y1": 420,
       "y2": 430
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15085,6 +15878,7 @@ const companies = [
       "y1": 430,
       "y2": 440
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15104,6 +15898,7 @@ const companies = [
       "y1": 440,
       "y2": 450
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15123,6 +15918,7 @@ const companies = [
       "y1": 450,
       "y2": 460
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15142,6 +15938,7 @@ const companies = [
       "y1": 460,
       "y2": 470
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15161,6 +15958,7 @@ const companies = [
       "y1": 470,
       "y2": 480
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15180,6 +15978,7 @@ const companies = [
       "y1": 480,
       "y2": 490
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15199,6 +15998,7 @@ const companies = [
       "y1": 490,
       "y2": 500
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15218,6 +16018,7 @@ const companies = [
       "y1": 500,
       "y2": 510
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15237,6 +16038,7 @@ const companies = [
       "y1": 510,
       "y2": 520
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15256,6 +16058,7 @@ const companies = [
       "y1": 520,
       "y2": 530
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15275,6 +16078,7 @@ const companies = [
       "y1": 580,
       "y2": 590
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15294,6 +16098,7 @@ const companies = [
       "y1": 260,
       "y2": 270
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15313,6 +16118,7 @@ const companies = [
       "y1": 270,
       "y2": 280
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15332,6 +16138,7 @@ const companies = [
       "y1": 280,
       "y2": 290
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15351,6 +16158,7 @@ const companies = [
       "y1": 290,
       "y2": 300
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15370,6 +16178,7 @@ const companies = [
       "y1": 300,
       "y2": 310
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15389,6 +16198,7 @@ const companies = [
       "y1": 310,
       "y2": 320
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15408,6 +16218,7 @@ const companies = [
       "y1": 320,
       "y2": 330
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15427,6 +16238,7 @@ const companies = [
       "y1": 330,
       "y2": 340
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15446,6 +16258,7 @@ const companies = [
       "y1": 340,
       "y2": 350
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15465,6 +16278,7 @@ const companies = [
       "y1": 350,
       "y2": 360
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15484,6 +16298,7 @@ const companies = [
       "y1": 360,
       "y2": 370
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15503,6 +16318,7 @@ const companies = [
       "y1": 370,
       "y2": 380
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15522,6 +16338,7 @@ const companies = [
       "y1": 380,
       "y2": 390
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15541,6 +16358,7 @@ const companies = [
       "y1": 390,
       "y2": 400
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15560,6 +16378,7 @@ const companies = [
       "y1": 400,
       "y2": 410
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15579,6 +16398,7 @@ const companies = [
       "y1": 410,
       "y2": 420
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15598,6 +16418,7 @@ const companies = [
       "y1": 420,
       "y2": 430
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15617,6 +16438,7 @@ const companies = [
       "y1": 430,
       "y2": 440
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15636,6 +16458,7 @@ const companies = [
       "y1": 440,
       "y2": 450
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15655,6 +16478,7 @@ const companies = [
       "y1": 450,
       "y2": 460
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15674,6 +16498,7 @@ const companies = [
       "y1": 460,
       "y2": 470
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15693,6 +16518,7 @@ const companies = [
       "y1": 470,
       "y2": 480
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15712,6 +16538,7 @@ const companies = [
       "y1": 480,
       "y2": 490
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15731,6 +16558,7 @@ const companies = [
       "y1": 490,
       "y2": 500
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15750,6 +16578,7 @@ const companies = [
       "y1": 500,
       "y2": 510
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15769,6 +16598,7 @@ const companies = [
       "y1": 510,
       "y2": 520
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15788,6 +16618,7 @@ const companies = [
       "y1": 520,
       "y2": 530
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15807,6 +16638,7 @@ const companies = [
       "y1": 580,
       "y2": 590
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15826,6 +16658,7 @@ const companies = [
       "y1": 260,
       "y2": 270
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15845,6 +16678,7 @@ const companies = [
       "y1": 270,
       "y2": 280
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15864,6 +16698,7 @@ const companies = [
       "y1": 280,
       "y2": 290
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15883,6 +16718,7 @@ const companies = [
       "y1": 290,
       "y2": 300
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15902,6 +16738,7 @@ const companies = [
       "y1": 300,
       "y2": 310
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15921,6 +16758,7 @@ const companies = [
       "y1": 310,
       "y2": 320
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15940,6 +16778,7 @@ const companies = [
       "y1": 320,
       "y2": 330
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15959,6 +16798,7 @@ const companies = [
       "y1": 330,
       "y2": 340
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15978,6 +16818,7 @@ const companies = [
       "y1": 340,
       "y2": 350
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -15997,6 +16838,7 @@ const companies = [
       "y1": 350,
       "y2": 360
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16016,6 +16858,7 @@ const companies = [
       "y1": 360,
       "y2": 370
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16035,6 +16878,7 @@ const companies = [
       "y1": 370,
       "y2": 380
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16054,6 +16898,7 @@ const companies = [
       "y1": 380,
       "y2": 390
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16073,6 +16918,7 @@ const companies = [
       "y1": 390,
       "y2": 400
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16092,6 +16938,7 @@ const companies = [
       "y1": 400,
       "y2": 410
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16111,6 +16958,7 @@ const companies = [
       "y1": 410,
       "y2": 420
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16130,6 +16978,7 @@ const companies = [
       "y1": 420,
       "y2": 430
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16149,6 +16998,7 @@ const companies = [
       "y1": 430,
       "y2": 440
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16168,6 +17018,7 @@ const companies = [
       "y1": 440,
       "y2": 450
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16187,6 +17038,7 @@ const companies = [
       "y1": 510,
       "y2": 520
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16206,6 +17058,7 @@ const companies = [
       "y1": 520,
       "y2": 530
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16225,6 +17078,7 @@ const companies = [
       "y1": 530,
       "y2": 540
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16244,6 +17098,7 @@ const companies = [
       "y1": 540,
       "y2": 550
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16263,6 +17118,7 @@ const companies = [
       "y1": 550,
       "y2": 560
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16282,6 +17138,7 @@ const companies = [
       "y1": 560,
       "y2": 570
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16301,6 +17158,7 @@ const companies = [
       "y1": 570,
       "y2": 580
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16320,6 +17178,7 @@ const companies = [
       "y1": 580,
       "y2": 590
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16339,6 +17198,7 @@ const companies = [
       "y1": 260,
       "y2": 270
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16358,6 +17218,7 @@ const companies = [
       "y1": 270,
       "y2": 280
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16377,6 +17238,7 @@ const companies = [
       "y1": 280,
       "y2": 290
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16396,6 +17258,7 @@ const companies = [
       "y1": 290,
       "y2": 300
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16415,6 +17278,7 @@ const companies = [
       "y1": 300,
       "y2": 310
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16434,6 +17298,7 @@ const companies = [
       "y1": 310,
       "y2": 320
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16453,6 +17318,7 @@ const companies = [
       "y1": 320,
       "y2": 330
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16472,6 +17338,7 @@ const companies = [
       "y1": 330,
       "y2": 340
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16491,6 +17358,7 @@ const companies = [
       "y1": 340,
       "y2": 350
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16510,6 +17378,7 @@ const companies = [
       "y1": 350,
       "y2": 360
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16529,6 +17398,7 @@ const companies = [
       "y1": 360,
       "y2": 370
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16548,6 +17418,7 @@ const companies = [
       "y1": 370,
       "y2": 380
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16567,6 +17438,7 @@ const companies = [
       "y1": 380,
       "y2": 390
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16586,6 +17458,7 @@ const companies = [
       "y1": 510,
       "y2": 520
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16605,6 +17478,7 @@ const companies = [
       "y1": 520,
       "y2": 530
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16624,6 +17498,7 @@ const companies = [
       "y1": 530,
       "y2": 540
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16643,6 +17518,7 @@ const companies = [
       "y1": 540,
       "y2": 550
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16662,6 +17538,7 @@ const companies = [
       "y1": 550,
       "y2": 560
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16681,6 +17558,7 @@ const companies = [
       "y1": 560,
       "y2": 570
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16700,6 +17578,7 @@ const companies = [
       "y1": 570,
       "y2": 580
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16719,6 +17598,7 @@ const companies = [
       "y1": 580,
       "y2": 590
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16738,6 +17618,7 @@ const companies = [
       "y1": 260,
       "y2": 270
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16757,6 +17638,7 @@ const companies = [
       "y1": 270,
       "y2": 280
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16776,6 +17658,7 @@ const companies = [
       "y1": 280,
       "y2": 290
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16795,6 +17678,7 @@ const companies = [
       "y1": 290,
       "y2": 300
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16814,6 +17698,7 @@ const companies = [
       "y1": 300,
       "y2": 310
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16833,6 +17718,7 @@ const companies = [
       "y1": 310,
       "y2": 320
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16852,6 +17738,7 @@ const companies = [
       "y1": 320,
       "y2": 330
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16871,6 +17758,7 @@ const companies = [
       "y1": 330,
       "y2": 340
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16890,6 +17778,7 @@ const companies = [
       "y1": 340,
       "y2": 350
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16909,6 +17798,7 @@ const companies = [
       "y1": 350,
       "y2": 360
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16928,6 +17818,7 @@ const companies = [
       "y1": 360,
       "y2": 370
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16947,6 +17838,7 @@ const companies = [
       "y1": 370,
       "y2": 380
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16966,6 +17858,7 @@ const companies = [
       "y1": 380,
       "y2": 390
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -16985,6 +17878,7 @@ const companies = [
       "y1": 510,
       "y2": 520
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -17004,6 +17898,7 @@ const companies = [
       "y1": 520,
       "y2": 530
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -17023,6 +17918,7 @@ const companies = [
       "y1": 530,
       "y2": 540
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -17042,6 +17938,7 @@ const companies = [
       "y1": 540,
       "y2": 550
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -17061,6 +17958,7 @@ const companies = [
       "y1": 550,
       "y2": 560
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -17080,6 +17978,7 @@ const companies = [
       "y1": 560,
       "y2": 570
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -17099,6 +17998,7 @@ const companies = [
       "y1": 570,
       "y2": 580
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -17118,6 +18018,7 @@ const companies = [
       "y1": 580,
       "y2": 590
     },
+    "description": "这是墙上的背景图案。",
     "disassembly": "这是墙上的背景图案。",
     "money": "无",
     "action": "无",
@@ -18098,6 +18999,7 @@ document.addEventListener("DOMContentLoaded", () => {
   renderImageMap();
   handleFilter(); // Synchronize initially
 });
+
 
 
 

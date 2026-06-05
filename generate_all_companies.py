@@ -14,6 +14,41 @@ coords_json_path = "/Users/popoya/.gemini/antigravity/brain/e59e264a-01f9-4f52-a
 with open(coords_json_path, "r", encoding="utf-8") as f:
     coords = json.load(f)
 
+# Load crawled company meta descriptions
+meta_json_path = "/Users/popoya/.gemini/antigravity-ide/brain/aed9bfd8-e683-431a-93d9-1f5b6d673581/scratch/fetched_company_meta.json"
+fetched_meta = {}
+if os.path.exists(meta_json_path):
+    with open(meta_json_path, "r", encoding="utf-8") as f:
+        fetched_meta = json.load(f)
+
+def get_clean_crawled_desc(domain):
+    if domain not in fetched_meta:
+        return None
+    info = fetched_meta[domain]
+    if info.get("status") != "success":
+        return None
+    desc = info.get("description", "").strip()
+    title = info.get("title", "").strip()
+    if not desc:
+        return None
+    
+    # Filter out obvious domain for sale, template or error/under-construction descriptions
+    spam_keywords = [
+        "for sale", "buy this domain", "roulette", "casino", 
+        "reference architecture", "under construction", "site is under", 
+        "not found", "404", "forbidden", "registered at", "parked"
+    ]
+    text_to_check = (desc + " " + title).lower()
+    if any(k in text_to_check for k in spam_keywords):
+        return None
+    if len(desc) < 15:
+        return None
+    
+    # Clean up multi-line or extra spacing issues
+    desc = " ".join(desc.split())
+    return desc
+
+
 # Pre-defined detailed data for the core companies, keyed by domain
 core_data = {
     "lenovo.com": {
@@ -268,6 +303,13 @@ for r_idx, row in enumerate(partner_rows):
         # Fallback fields
         cat_tech, core_highlight, nvidia_synergy, viral_quote, fallback_script = generate_fallback_content(name, domain, desc, row_num)
         
+        # Check if we have crawled official description
+        official_desc = get_clean_crawled_desc(domain)
+        if official_desc:
+            full_description = f"【企业官网介绍】\n{official_desc}\n\n【NVIDIA 协同与生态定位】\n{core_highlight} {nvidia_synergy}"
+        else:
+            full_description = f"{core_highlight} {nvidia_synergy}"
+            
         # Base company dict
         comp_dict = {
             "id": c_id,
@@ -278,6 +320,7 @@ for r_idx, row in enumerate(partner_rows):
             "tech": cat_tech,
             "website": f"https://{domain}",
             "coords": {"x1": x1, "x2": x2, "y1": y1, "y2": y2},
+            "description": full_description,
             "disassembly": core_highlight,
             "money": nvidia_synergy,
             "action": viral_quote,
@@ -293,7 +336,9 @@ for r_idx, row in enumerate(partner_rows):
             comp_dict["logo"] = egg.get("logo", f"{domain}.png")
             comp_dict["tech"] = egg.get("tech", cat_tech)
             comp_dict["website"] = egg.get("website", f"https://{domain}")
-            comp_dict["disassembly"] = egg.get("disassembly", egg.get("description", ""))
+            egg_desc = egg.get("description", egg.get("disassembly", ""))
+            comp_dict["description"] = egg_desc
+            comp_dict["disassembly"] = egg_desc
             comp_dict["money"] = egg.get("money", "")
             comp_dict["action"] = egg.get("action", "")
             comp_dict["script"] = egg.get("script", "")
@@ -303,7 +348,9 @@ for r_idx, row in enumerate(partner_rows):
             core = core_data[domain]
             comp_dict["shortName"] = core["shortName"]
             comp_dict["tech"] = core["tech"]
-            comp_dict["disassembly"] = core["disassembly"]
+            core_desc = core.get("disassembly", "")
+            comp_dict["description"] = core_desc
+            comp_dict["disassembly"] = core_desc
             comp_dict["money"] = core["money"]
             comp_dict["action"] = core["action"]
             comp_dict["script"] = core["script"]
@@ -343,6 +390,7 @@ for mx in range(1380, 1630, 10):
                 "tech": "背景",
                 "website": "#",
                 "coords": {"x1": mx, "x2": mx+10, "y1": my, "y2": my+10},
+                "description": "这是墙上的背景图案。",
                 "disassembly": "这是墙上的背景图案。",
                 "money": "无",
                 "action": "无",
